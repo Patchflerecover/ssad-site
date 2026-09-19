@@ -5,6 +5,8 @@ User-agent: Yandex
 Allow: /
 User-agent: YandexBot
 Allow: /
+User-agent: YandexAdditionalBot
+Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
 Host: ssad.my
 
