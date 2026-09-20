@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
 - [Discord-Obhod](https://github.com/WindRockEmancipate/Discord-Obhod): Discord-Obhod
 - [youtube-fix](https://github.com/Blockadeeuclip/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/Blockadeeuclip/discord-unban): discord-unban
@@ -31,7 +32,6 @@
 - [zaprettelegram](https://github.com/restraintvoiceboost/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Youtube](https://github.com/restraintvoiceboost/Obhod-Youtube): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [telegramzapret](https://github.com/brandguideharbor/telegramzapret): Актуальная версия с поддержкой Telegram в текущих условиях. Быстрее, надежнее, стабильнее
-- [zapret-youtube](https://github.com/brandguideharbor/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [Telegram-Obhod](https://github.com/brandguideharbor/Telegram-Obhod): Обновлённая версия с поддержкой Telegram в текущих условиях. Надежнее, быстрее, стабильнее
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/sparkslugcool89/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Стабильнее, надежнее, быстрее
 - [zapret-telegram-discord](https://github.com/vectorpatron/zapret-telegram-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
