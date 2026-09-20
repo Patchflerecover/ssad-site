@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/ScorpionStrainer/DiscordObhod): DiscordObhod
+- [DiscordObhod](https://github.com/TremorSteersmanPier/DiscordObhod): DiscordObhod
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
