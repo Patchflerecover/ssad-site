@@ -4,11 +4,11 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/SnareMedicTitle/DiscordObhod): DiscordObhod
+- [TelegramObhod](https://github.com/SnareMedicTitle/TelegramObhod): TelegramObhod
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
-- [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
+- [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
 - [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
