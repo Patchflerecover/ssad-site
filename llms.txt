@@ -4,10 +4,10 @@
 
 ## GitHub
 
-- [YoutubeObhod](https://github.com/SnareMedicTitle/YoutubeObhod): YoutubeObhod
+- [DiscordObhod](https://github.com/SnareMedicTitle/DiscordObhod): DiscordObhod
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
+- [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
-- [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
