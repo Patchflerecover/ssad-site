@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [Discord-Obhod](https://github.com/PeltPixelShock35/Discord-Obhod): Discord-Obhod
+- [zaprET-DiSCOrd](https://github.com/Diameterrigazebo/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
@@ -12,7 +12,6 @@
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
-- [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
 - [discord-zapret](https://github.com/DesertMillerEstimate/discord-zapret): discord-zapret
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
@@ -22,6 +21,7 @@
 - [obhOd-diSCOrd](https://github.com/boulderbakerunveil/obhOd-diSCOrd): obhOd-diSCOrd
 - [yoUTUBe-unBaN](https://github.com/boulderbakerunveil/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [yOUTubeZaprET](https://github.com/PeltPixelShock35/yOUTubeZaprET): yOUTubeZaprET
+- [Discord-Obhod](https://github.com/PeltPixelShock35/Discord-Obhod): Discord-Obhod
 - [discord-youtube-fix](https://github.com/NinjaTermiteRun/discord-youtube-fix): discord-youtube-fix
 - [TelegramObhodDPI](https://github.com/NinjaTermiteRun/TelegramObhodDPI): TelegramObhodDPI
 - [YoutubeObhodDPI](https://github.com/NinjaTermiteRun/YoutubeObhodDPI): YoutubeObhodDPI
