@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [disCORdobHOD](https://github.com/ThornNewtString/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/ThornNewtString/zapretdiscord): zapretdiscord
-- [DiscordObhod](https://github.com/IronChemistTitle34/DiscordObhod): DiscordObhod
 - [discordzapret](https://github.com/IronChemistTitle34/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/IronChemistTitle34/YoutubeObhod): YoutubeObhod
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
