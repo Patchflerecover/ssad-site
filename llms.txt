@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [teleGRAmobhOD](https://github.com/LowerDragonBless/teleGRAmobhOD): teleGRAmobhOD
 - [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
-- [TelegramObhod](https://github.com/ThornNewtString/TelegramObhod): TelegramObhod
 - [disCORdobHOD](https://github.com/ThornNewtString/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/ThornNewtString/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/IronChemistTitle34/discordzapret): discordzapret
