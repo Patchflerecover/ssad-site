@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/Metropolisershow/DiscordObhod): DiscordObhod
+- [disCORdobHOD](https://github.com/Cyberphodefeat/disCORdobHOD): disCORdobHOD
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
