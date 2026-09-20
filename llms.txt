@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
@@ -20,7 +21,6 @@
 - [zaprET-DiSCOrd](https://github.com/shacklefoload/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/monarchemancipate/discord-zapret): discord-zapret
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
-- [ObhodTelegram](https://github.com/plotbrewerfury/ObhodTelegram): ObhodTelegram
 - [youtube-fix](https://github.com/torrentgiraffe/youtube-fix): youtube-fix
 - [discord-youtube-fix](https://github.com/ninjatermiterun/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
 - [TelegramObhodDPI](https://github.com/ninjatermiterun/TelegramObhodDPI): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
