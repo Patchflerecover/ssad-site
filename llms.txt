@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [Discord-Obhod](https://github.com/DivinerEsteem/Discord-Obhod): Discord-Obhod
-- [Obhod-Discord](https://github.com/DivinerEsteem/Obhod-Discord): Obhod-Discord
 - [youtubezapret](https://github.com/DivinerEsteem/youtubezapret): youtubezapret
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
