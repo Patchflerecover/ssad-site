@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Discord-Obhod](https://github.com/WindRockEmancipate/Discord-Obhod): Discord-Obhod
 - [youtube-fix](https://github.com/Blockadeeuclip/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/Blockadeeuclip/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/Blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -17,7 +18,6 @@
 - [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
-- [Discord-Obhod](https://github.com/divineresteem/Discord-Obhod): Discord-Obhod
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
