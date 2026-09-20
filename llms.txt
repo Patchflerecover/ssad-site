@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zaprET-DiSCOrd](https://github.com/TwilightTradesman/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discord-zapret](https://github.com/DesertMillerEstimate/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
@@ -12,8 +12,8 @@
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
+- [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
-- [discord-zapret](https://github.com/DesertMillerEstimate/discord-zapret): discord-zapret
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
 - [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
 - [discORdobHodDPI](https://github.com/TorrentGiraffe/discORdobHodDPI): discORdobHodDPI
