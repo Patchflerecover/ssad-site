@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [YoutubeObhod](https://github.com/ScorpionStrainer/YoutubeObhod): YoutubeObhod
 - [discordzapret](https://github.com/ScorpionStrainer/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/ScorpionStrainer/DiscordObhod): DiscordObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
-- [teleGRAmobhOD](https://github.com/LowerDragonBless/teleGRAmobhOD): teleGRAmobhOD
 - [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
 - [zapretdiscord](https://github.com/ThornNewtString/zapretdiscord): zapretdiscord
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
