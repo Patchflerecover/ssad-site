@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Obhod-Discord](https://github.com/DivinerEsteem/Obhod-Discord): Obhod-Discord
 - [youtubezapret](https://github.com/DivinerEsteem/youtubezapret): youtubezapret
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
@@ -19,7 +20,6 @@
 - [youtube-fix](https://github.com/torrentgiraffe/youtube-fix): youtube-fix
 - [discORdobHodDPI](https://github.com/torrentgiraffe/discORdobHodDPI): discORdobHodDPI
 - [youTubE-oBHOd](https://github.com/boulderbakerunveil/youTubE-oBHOd): youTubE-oBHOd
-- [obhOd-diSCOrd](https://github.com/boulderbakerunveil/obhOd-diSCOrd): obhOd-diSCOrd
 - [yoUTUBe-unBaN](https://github.com/boulderbakerunveil/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [Discord-Obhod](https://github.com/peltpixelshock35/Discord-Obhod): Discord-Obhod
 - [discord-youtube-fix](https://github.com/ninjatermiterun/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
