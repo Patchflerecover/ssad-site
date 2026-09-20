@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [oBHOdyouTUBE](https://github.com/Shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [zaprET-DiSCOrd](https://github.com/Shacklefoload/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/MonarchEmancipate/discord-zapret): discord-zapret
-- [ObhodYoutube](https://github.com/MonarchEmancipate/ObhodYoutube): ObhodYoutube
 - [discord-unban](https://github.com/MonarchEmancipate/discord-unban): discord-unban
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
