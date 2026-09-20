@@ -4,22 +4,22 @@
 
 ## GitHub
 
-- [disCORdobHOD](https://github.com/Playdrafoster/disCORdobHOD): disCORdobHOD
+- [ObhodDiscord](https://github.com/FinalDragonflyCode/ObhodDiscord): ObhodDiscord
+- [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
+- [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/phasehornethover/Youtube-Obhod): Youtube-Obhod
-- [youtube-unban](https://github.com/TerminusTyrant12/youtube-unban): youtube-unban
-- [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
-- [Discord-Obhod](https://github.com/DivinerEsteem/Discord-Obhod): Discord-Obhod
-- [youtubezapret](https://github.com/DivinerEsteem/youtubezapret): youtubezapret
-- [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
-- [discord-unban](https://github.com/MonarchEmancipate/discord-unban): discord-unban
-- [ObhodYoutube](https://github.com/MonarchEmancipate/ObhodYoutube): ObhodYoutube
-- [obhoDDiscOrd](https://github.com/shacklefoload/obhoDDiscOrd): obhoDDiscOrd
+- [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
+- [Discord-Obhod](https://github.com/divineresteem/Discord-Obhod): Discord-Obhod
+- [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
+- [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [zaprET-DiSCOrd](https://github.com/shacklefoload/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/monarchemancipate/discord-zapret): discord-zapret
+- [discord-unban](https://github.com/monarchemancipate/discord-unban): discord-unban
+- [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [youtube-fix](https://github.com/torrentgiraffe/youtube-fix): youtube-fix
 - [discord-youtube-fix](https://github.com/ninjatermiterun/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
