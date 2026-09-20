@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [disCORdobHOD](https://github.com/SquareSystemSucceed/disCORdobHOD): disCORdobHOD
+- [DiscordObhod](https://github.com/ProhibitionWorldCut/DiscordObhod): DiscordObhod
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
