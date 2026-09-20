@@ -4,10 +4,11 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/paceindustrialfence/DiscordObhod): DiscordObhod
+- [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
+- [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
@@ -15,7 +16,6 @@
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
 - [discord-zapret](https://github.com/DesertMillerEstimate/discord-zapret): discord-zapret
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
-- [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
 - [discORdobHodDPI](https://github.com/TorrentGiraffe/discORdobHodDPI): discORdobHodDPI
 - [youTubE-oBHOd](https://github.com/boulderbakerunveil/youTubE-oBHOd): youTubE-oBHOd
 - [obhOd-diSCOrd](https://github.com/boulderbakerunveil/obhOd-diSCOrd): obhOd-diSCOrd
