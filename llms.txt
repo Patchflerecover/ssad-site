@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youtube-fix](https://github.com/Blockadeeuclip/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/Blockadeeuclip/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/Blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/FinalDragonflyCode/discord-zapret): discord-zapret
@@ -21,7 +22,6 @@
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
-- [youtube-fix](https://github.com/torrentgiraffe/youtube-fix): youtube-fix
 - [discord-youtube-fix](https://github.com/ninjatermiterun/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
 - [TelegramObhodDPI](https://github.com/ninjatermiterun/TelegramObhodDPI): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
