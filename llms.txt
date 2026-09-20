@@ -4,9 +4,9 @@
 
 ## GitHub
 
-- [discOrDZApreT](https://github.com/WerewolfTurtle/discOrDZApreT): discOrDZApreT
-- [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
+- [zapRETDiscORd](https://github.com/WerewolfTurtle/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
+- [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
