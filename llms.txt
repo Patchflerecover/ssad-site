@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [teleGRAmobhOD](https://github.com/Tornadoclecloak/teleGRAmobhOD): teleGRAmobhOD
+- [TelegramObhod](https://github.com/SquareSystemSucceed/TelegramObhod): TelegramObhod
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
