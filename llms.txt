@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/Shacklefoload/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/MonarchEmancipate/discord-zapret): discord-zapret
 - [ObhodYoutube](https://github.com/MonarchEmancipate/ObhodYoutube): ObhodYoutube
 - [discord-unban](https://github.com/MonarchEmancipate/discord-unban): discord-unban
@@ -13,7 +14,6 @@
 - [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
-- [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
 - [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
 - [discORdobHodDPI](https://github.com/TorrentGiraffe/discORdobHodDPI): discORdobHodDPI
