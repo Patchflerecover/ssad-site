@@ -4,8 +4,8 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/BlacksmithRepel/zapretdiscord): zapretdiscord
-- [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
+- [YoutubeObhod](https://github.com/Metropolisershow/YoutubeObhod): YoutubeObhod
+- [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
