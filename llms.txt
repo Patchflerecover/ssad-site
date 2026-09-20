@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/TremorSteersmanPier/DiscordObhod): DiscordObhod
+- [DiscordObhod](https://github.com/ScorpionStrainer/DiscordObhod): DiscordObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
 - [teleGRAmobhOD](https://github.com/LowerDragonBless/teleGRAmobhOD): teleGRAmobhOD
