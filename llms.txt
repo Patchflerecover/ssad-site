@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [obhOd-diSCOrd](https://github.com/boulderbakerunveil/obhOd-diSCOrd): obhOd-diSCOrd
+- [DiscordObhodDPI](https://github.com/boulderbakerunveil/DiscordObhodDPI): DiscordObhodDPI
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
@@ -17,8 +17,8 @@
 - [discord-zapret](https://github.com/DesertMillerEstimate/discord-zapret): discord-zapret
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
 - [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
-- [discORdobHodDPI](https://github.com/TorrentGiraffe/discORdobHodDPI): discORdobHodDPI
 - [youTubE-oBHOd](https://github.com/boulderbakerunveil/youTubE-oBHOd): youTubE-oBHOd
+- [obhOd-diSCOrd](https://github.com/boulderbakerunveil/obhOd-diSCOrd): obhOd-diSCOrd
 - [yoUTUBe-unBaN](https://github.com/boulderbakerunveil/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [yOUTubeZaprET](https://github.com/PeltPixelShock35/yOUTubeZaprET): yOUTubeZaprET
 - [Discord-Obhod](https://github.com/PeltPixelShock35/Discord-Obhod): Discord-Obhod
