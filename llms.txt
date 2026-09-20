@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/FinalDragonflyCode/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [ObhodDiscord](https://github.com/FinalDragonflyCode/ObhodDiscord): ObhodDiscord
 - [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
@@ -17,7 +18,6 @@
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [zaprET-DiSCOrd](https://github.com/shacklefoload/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-zapret](https://github.com/monarchemancipate/discord-zapret): discord-zapret
 - [discord-unban](https://github.com/monarchemancipate/discord-unban): discord-unban
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
