@@ -4,10 +4,10 @@
 
 ## GitHub
 
-- [discordzapret](https://github.com/ScorpionStrainer/discordzapret): discordzapret
+- [DiscordObhod](https://github.com/ScorpionStrainer/DiscordObhod): DiscordObhod
 - [zapRETDiscORd](https://github.com/NaturalBoatwright/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
-- [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
+- [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
