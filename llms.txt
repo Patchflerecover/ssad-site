@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/IronChemistTitle34/DiscordObhod): DiscordObhod
 - [discordzapret](https://github.com/IronChemistTitle34/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/IronChemistTitle34/YoutubeObhod): YoutubeObhod
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
@@ -13,7 +14,6 @@
 - [discord-unban](https://github.com/DesertMillerEstimate/discord-unban): discord-unban
 - [teleGRAmobhOD](https://github.com/Tornadoclecloak/teleGRAmobhOD): teleGRAmobhOD
 - [zapRETDiscORd](https://github.com/Turquoiseshoshine/zapRETDiscORd): zapRETDiscORd
-- [disCORdobHOD](https://github.com/SquareSystemSucceed/disCORdobHOD): disCORdobHOD
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
 - [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
 - [discORdobHodDPI](https://github.com/TorrentGiraffe/discORdobHodDPI): discORdobHodDPI
