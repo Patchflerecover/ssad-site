@@ -4,16 +4,16 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/TremorSteersmanPier/DiscordObhod): DiscordObhod
+- [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/LowerDragonBless/ObhodDiscord): ObhodDiscord
 - [teleGRAmobhOD](https://github.com/LowerDragonBless/teleGRAmobhOD): teleGRAmobhOD
 - [zapret-discord](https://github.com/LowerDragonBless/zapret-discord): zapret-discord
-- [disCORdobHOD](https://github.com/ThornNewtString/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/ThornNewtString/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/IronChemistTitle34/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/IronChemistTitle34/YoutubeObhod): YoutubeObhod
 - [oBHOdyouTUBE](https://github.com/TwilightTradesman/oBHOdyouTUBE): oBHOdyouTUBE
 - [discord-zapret](https://github.com/DesertMillerEstimate/discord-zapret): discord-zapret
-- [discord-unban](https://github.com/DesertMillerEstimate/discord-unban): discord-unban
 - [ObhodTelegram](https://github.com/PlotBrewerFury/ObhodTelegram): ObhodTelegram
 - [youtube-fix](https://github.com/TorrentGiraffe/youtube-fix): youtube-fix
 - [discORdobHodDPI](https://github.com/TorrentGiraffe/discORdobHodDPI): discORdobHodDPI
