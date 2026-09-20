@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [disCORD-uNBaN](https://github.com/WindRockEmancipate/disCORD-uNBaN): disCORD-uNBaN
 - [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
 - [Discord-Obhod](https://github.com/WindRockEmancipate/Discord-Obhod): Discord-Obhod
 - [youtube-fix](https://github.com/Blockadeeuclip/youtube-fix): youtube-fix
-- [discord-unban](https://github.com/Blockadeeuclip/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/Blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/FinalDragonflyCode/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
