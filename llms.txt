@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [disCORdobHOD](https://github.com/Playdrafoster/disCORdobHOD): disCORdobHOD
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
-- [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/phasehornethover/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/TerminusTyrant12/youtube-unban): youtube-unban
