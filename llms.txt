@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [ObhodDiscord](https://github.com/FinalDragonflyCode/ObhodDiscord): ObhodDiscord
 - [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
@@ -11,7 +12,6 @@
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
-- [Youtube-Obhod](https://github.com/phasehornethover/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
 - [Discord-Obhod](https://github.com/divineresteem/Discord-Obhod): Discord-Obhod
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
