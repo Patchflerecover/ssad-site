@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/phasehornethover/Youtube-Obhod): Youtube-Obhod
@@ -11,7 +12,6 @@
 - [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [Discord-Obhod](https://github.com/DivinerEsteem/Discord-Obhod): Discord-Obhod
 - [youtubezapret](https://github.com/DivinerEsteem/youtubezapret): youtubezapret
-- [discOrDZApreT](https://github.com/NaturalBoatwright/discOrDZApreT): discOrDZApreT
 - [yoUTUbeoBhod](https://github.com/NaturalBoatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [discord-unban](https://github.com/MonarchEmancipate/discord-unban): discord-unban
 - [ObhodYoutube](https://github.com/MonarchEmancipate/ObhodYoutube): ObhodYoutube
