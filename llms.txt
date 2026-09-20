@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/phasehornethover/Youtube-Obhod): Youtube-Obhod
-- [DiscordObhodDPI](https://github.com/TerminusTyrant12/DiscordObhodDPI): DiscordObhodDPI
 - [youtube-unban](https://github.com/TerminusTyrant12/youtube-unban): youtube-unban
 - [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [Discord-Obhod](https://github.com/DivinerEsteem/Discord-Obhod): Discord-Obhod
