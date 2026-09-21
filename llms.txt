@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/ColorsPrawnContinue/youTUbe-FIx): youTUbe-FIx
@@ -19,7 +20,6 @@
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
-- [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
