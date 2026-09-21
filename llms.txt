@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
+- [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -12,7 +12,7 @@
 - [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
 - [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
-- [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
+- [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
 - [youTUbe-FIx](https://github.com/ColorsPrawnContinue/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/ColorsPrawnContinue/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
