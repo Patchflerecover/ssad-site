@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [Obhod-Discord](https://github.com/Infernalzeregister/Obhod-Discord): Obhod-Discord
+- [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -15,7 +15,7 @@
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/ColorsPrawnContinue/youTUbe-FIx): youTUbe-FIx
-- [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
+- [obhOd-diSCOrd](https://github.com/ColorsPrawnContinue/obhOd-diSCOrd): obhOd-diSCOrd
 - [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
 - [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
