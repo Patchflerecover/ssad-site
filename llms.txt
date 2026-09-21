@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [teLEGramoBHODdPI](https://github.com/VictorBowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [DiscordObhodDPI](https://github.com/VictorBowyer30/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/VictorBowyer30/obhOd-diSCOrd): obhOd-diSCOrd
 - [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
@@ -12,7 +13,6 @@
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
-- [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/ColorsPrawnContinue/youTUbe-FIx): youTUbe-FIx
