@@ -4,22 +4,23 @@
 
 ## GitHub
 
-- [diScoRD-yoUTUBe-fIX](https://github.com/Trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
-- [discORdobHodDPI](https://github.com/Trackerenhonor/discORdobHodDPI): discORdobHodDPI
-- [DiscordObhod](https://github.com/Trackerenhonor/DiscordObhod): DiscordObhod
-- [teLEGramoBHODdPI](https://github.com/VictorBowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
-- [obhOd-diSCOrd](https://github.com/VictorBowyer30/obhOd-diSCOrd): obhOd-diSCOrd
-- [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
-- [obhoDDiscOrd](https://github.com/Quartzarview27/obhoDDiscOrd): obhoDDiscOrd
-- [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
+- [TelegramObhod](https://github.com/Linkdruidolize/TelegramObhod): TelegramObhod
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
-- [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
+- [obhoDDiscOrd](https://github.com/Quartzarview27/obhoDDiscOrd): obhoDDiscOrd
+- [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
+- [DiscordObhod](https://github.com/Trackerenhonor/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/Trackerenhonor/discORdobHodDPI): discORdobHodDPI
+- [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
+- [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
+- [obhOd-diSCOrd](https://github.com/victorbowyer30/obhOd-diSCOrd): obhOd-diSCOrd
+- [zaprET-DiSCOrd](https://github.com/outsidesharkstride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
-- [youTUbe-FIx](https://github.com/ColorsPrawnContinue/youTUbe-FIx): youTUbe-FIx
-- [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
-- [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
-- [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
-- [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
+- [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
+- [diSCord-OBhod](https://github.com/infernalzeregister/diSCord-OBhod): diSCord-OBhod
+- [telegramzapret](https://github.com/infernalzeregister/telegramzapret): telegramzapret
+- [zapret-youtube](https://github.com/windrockemancipate/zapret-youtube): zapret-youtube
+- [youTubE-oBHOd](https://github.com/finaldragonflycode/youTubE-oBHOd): youTubE-oBHOd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
@@ -27,7 +28,6 @@
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
-- [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Telegram](https://github.com/restraintvoiceboost/Obhod-Telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
