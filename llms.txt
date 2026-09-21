@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
 - [obhoDDiscOrd](https://github.com/Quartzarview27/obhoDDiscOrd): obhoDDiscOrd
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
@@ -28,7 +29,6 @@
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
-- [telegram-unban](https://github.com/ninjatermiterun/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Telegram](https://github.com/restraintvoiceboost/Obhod-Telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 - [zaprettelegram](https://github.com/restraintvoiceboost/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
