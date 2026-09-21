@@ -4,8 +4,9 @@
 
 ## GitHub
 
-- [disCORD-uNBaN](https://github.com/WindRockEmancipate/disCORD-uNBaN): disCORD-uNBaN
+- [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
+- [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
 - [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
@@ -17,7 +18,6 @@
 - [obhOd-diSCOrd](https://github.com/ColorsPrawnContinue/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
-- [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
