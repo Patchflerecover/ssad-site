@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [obhOd-diSCOrd](https://github.com/ColorsPrawnContinue/obhOd-diSCOrd): obhOd-diSCOrd
+- [Obhod-Discord](https://github.com/Infernalzeregister/Obhod-Discord): Obhod-Discord
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
