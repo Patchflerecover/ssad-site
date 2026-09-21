@@ -4,11 +4,11 @@
 
 ## GitHub
 
-- [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
+- [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
+- [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
 - [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
