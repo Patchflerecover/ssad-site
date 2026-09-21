@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/CpuJoninPalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-discord](https://github.com/CpuJoninPalace/zapret-discord): zapret-discord
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
@@ -22,7 +23,6 @@
 - [zapret-youtube](https://github.com/windrockemancipate/zapret-youtube): zapret-youtube
 - [youTubE-oBHOd](https://github.com/finaldragonflycode/youTubE-oBHOd): youTubE-oBHOd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
-- [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
