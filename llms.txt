@@ -4,9 +4,9 @@
 
 ## GitHub
 
-- [zaprET-DiSCOrd](https://github.com/Blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
+- [discord-zapret](https://github.com/FinalDragonflyCode/discord-zapret): discord-zapret
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
+- [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
 - [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
 - [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
