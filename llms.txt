@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Obhod-Discord](https://github.com/Infernalzeregister/Obhod-Discord): Obhod-Discord
 - [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
 - [disCORD-uNBaN](https://github.com/WindRockEmancipate/disCORD-uNBaN): disCORD-uNBaN
@@ -13,7 +14,6 @@
 - [discord-zapret](https://github.com/FinalDragonflyCode/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [ObhodDiscord](https://github.com/FinalDragonflyCode/ObhodDiscord): ObhodDiscord
-- [obhOd-diSCOrd](https://github.com/TerminusTyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
