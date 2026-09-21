@@ -4,12 +4,11 @@
 
 ## GitHub
 
-- [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
+- [ObhodDiscord](https://github.com/FinalDragonflyCode/ObhodDiscord): ObhodDiscord
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
-- [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
 - [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
@@ -19,6 +18,7 @@
 - [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
 - [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
+- [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
