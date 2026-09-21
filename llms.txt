@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/Tributarylojump/discord-zapret): discord-zapret
 - [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
@@ -15,7 +16,6 @@
 - [disCORD-uNBaN](https://github.com/WindRockEmancipate/disCORD-uNBaN): disCORD-uNBaN
 - [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
 - [zaprET-DiSCOrd](https://github.com/Blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-zapret](https://github.com/FinalDragonflyCode/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [ObhodDiscord](https://github.com/FinalDragonflyCode/ObhodDiscord): ObhodDiscord
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
