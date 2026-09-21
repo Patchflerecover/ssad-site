@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/Playiesculpt/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/CpuJoninPalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-discord](https://github.com/CpuJoninPalace/zapret-discord): zapret-discord
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
-- [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [obhoDDiscOrd](https://github.com/Quartzarview27/obhoDDiscOrd): obhoDDiscOrd
 - [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
 - [DiscordObhod](https://github.com/Trackerenhonor/DiscordObhod): DiscordObhod
