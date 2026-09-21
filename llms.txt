@@ -4,8 +4,8 @@
 
 ## GitHub
 
-- [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
+- [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
 - [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
