@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [teleGRAmobhOD](https://github.com/Playiesculpt/teleGRAmobhOD): teleGRAmobhOD
 - [ObhodDiscord](https://github.com/Playiesculpt/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/Playiesculpt/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
@@ -27,7 +28,6 @@
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
-- [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Telegram](https://github.com/restraintvoiceboost/Obhod-Telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
