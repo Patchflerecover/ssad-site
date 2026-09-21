@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhodDPI](https://github.com/ColorsPrawnContinue/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/ColorsPrawnContinue/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/Infernalzeregister/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
@@ -18,7 +19,6 @@
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
-- [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
