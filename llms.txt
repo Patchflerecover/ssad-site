@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/OutsideSharkStride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-youtube-fix](https://github.com/OutsideSharkStride/discord-youtube-fix): discord-youtube-fix
 - [ObhodDiscord](https://github.com/Tributarylojump/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/Tributarylojump/discord-zapret): discord-zapret
@@ -17,7 +18,6 @@
 - [telegramzapret](https://github.com/Infernalzeregister/telegramzapret): telegramzapret
 - [disCORD-uNBaN](https://github.com/WindRockEmancipate/disCORD-uNBaN): disCORD-uNBaN
 - [zapret-youtube](https://github.com/WindRockEmancipate/zapret-youtube): zapret-youtube
-- [zaprET-DiSCOrd](https://github.com/Blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [youTubE-oBHOd](https://github.com/FinalDragonflyCode/youTubE-oBHOd): youTubE-oBHOd
 - [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
