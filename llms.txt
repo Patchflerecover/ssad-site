@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/Trackerenhonor/discORdobHodDPI): discORdobHodDPI
 - [DiscordObhod](https://github.com/Trackerenhonor/DiscordObhod): DiscordObhod
 - [teLEGramoBHODdPI](https://github.com/VictorBowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
-- [DiscordObhodDPI](https://github.com/VictorBowyer30/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/VictorBowyer30/obhOd-diSCOrd): obhOd-diSCOrd
 - [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
 - [obhoDDiscOrd](https://github.com/Quartzarview27/obhoDDiscOrd): obhoDDiscOrd
