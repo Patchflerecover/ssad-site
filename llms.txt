@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [TelegramObhodDPI](https://github.com/Tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
@@ -26,7 +27,6 @@
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
 - [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [discord-youtube-fix](https://github.com/ninjatermiterun/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
-- [TelegramObhodDPI](https://github.com/ninjatermiterun/TelegramObhodDPI): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [telegram-unban](https://github.com/ninjatermiterun/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
