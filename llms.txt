@@ -4,17 +4,16 @@
 
 ## GitHub
 
-- [disCORdobHOD](https://github.com/Linkdruidolize/disCORdobHOD): disCORdobHOD
-- [TelegramObhod](https://github.com/Linkdruidolize/TelegramObhod): TelegramObhod
+- [zapret-discord](https://github.com/CpuJoninPalace/zapret-discord): zapret-discord
 - [discord-unban](https://github.com/OutsideSharkStride/discord-unban): discord-unban
 - [disCOrD-ZapREt](https://github.com/Quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
 - [obhoDDiscOrd](https://github.com/Quartzarview27/obhoDDiscOrd): obhoDDiscOrd
 - [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
+- [DiscordObhod](https://github.com/Trackerenhonor/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/Trackerenhonor/discORdobHodDPI): discORdobHodDPI
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [obhOd-diSCOrd](https://github.com/victorbowyer30/obhOd-diSCOrd): obhOd-diSCOrd
-- [zaprET-DiSCOrd](https://github.com/outsidesharkstride/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
 - [diSCord-OBhod](https://github.com/infernalzeregister/diSCord-OBhod): diSCord-OBhod
@@ -28,6 +27,7 @@
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
 - [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
+- [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Telegram](https://github.com/restraintvoiceboost/Obhod-Telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
