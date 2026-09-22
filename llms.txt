@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [ObhodTelegram](https://github.com/lunarfollowerbreak/ObhodTelegram): ObhodTelegram
 - [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -21,7 +22,6 @@
 - [obhOd-diSCOrd](https://github.com/victorbowyer30/obhOd-diSCOrd): obhOd-diSCOrd
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
-- [diSCord-OBhod](https://github.com/infernalzeregister/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/infernalzeregister/telegramzapret): telegramzapret
 - [zapret-youtube](https://github.com/windrockemancipate/zapret-youtube): zapret-youtube
 - [youTubE-oBHOd](https://github.com/finaldragonflycode/youTubE-oBHOd): youTubE-oBHOd
