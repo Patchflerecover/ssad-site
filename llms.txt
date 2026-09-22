@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [ObhodTelegram](https://github.com/lunarfollowerbreak/ObhodTelegram): ObhodTelegram
 - [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [ObhodYoutube](https://github.com/Libraryplatomb/ObhodYoutube): ObhodYoutube
 - [discord-unban](https://github.com/Libraryplatomb/discord-unban): discord-unban
@@ -24,7 +25,6 @@
 - [telegramzapret](https://github.com/infernalzeregister/telegramzapret): telegramzapret
 - [zapret-youtube](https://github.com/windrockemancipate/zapret-youtube): zapret-youtube
 - [youTubE-oBHOd](https://github.com/finaldragonflycode/youTubE-oBHOd): youTubE-oBHOd
-- [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
 - [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
