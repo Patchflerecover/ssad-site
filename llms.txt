@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/WorkerPassage/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
-- [discOrDZApreT](https://github.com/RadiusBrawlerDolmen/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
