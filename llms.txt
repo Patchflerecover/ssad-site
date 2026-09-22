@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/WorkerPassage/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
@@ -20,7 +21,6 @@
 - [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
 - [ObhodDiscord](https://github.com/playiesculpt/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/playiesculpt/discord-zapret): discord-zapret
-- [zapRETDiscORd](https://github.com/cpujoninpalace/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/cpujoninpalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
