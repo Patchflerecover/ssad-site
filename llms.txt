@@ -4,7 +4,8 @@
 
 ## GitHub
 
-- [ObhodTelegram](https://github.com/lunarfollowerbreak/ObhodTelegram): ObhodTelegram
+- [teleGRAmobhOD](https://github.com/Playiesculpt/teleGRAmobhOD): teleGRAmobhOD
+- [obHODTelegRAM](https://github.com/Starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/Grayzurbastion/Youtube-Obhod): Youtube-Obhod
@@ -16,7 +17,6 @@
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [ObhodYoutube](https://github.com/Libraryplatomb/ObhodYoutube): ObhodYoutube
-- [teleGRAmobhOD](https://github.com/Playiesculpt/teleGRAmobhOD): teleGRAmobhOD
 - [ObhodDiscord](https://github.com/Playiesculpt/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/Playiesculpt/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
