@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/MarinePalace/zapRETDiscORd): zapRETDiscORd
 - [Obhod-Youtube](https://github.com/MarinePalace/Obhod-Youtube): Obhod-Youtube
 - [tELegrAMZapReT](https://github.com/SteamPinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/SteamPinpoint/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/SteamPinpoint/disCORdobHOD): disCORdobHOD
-- [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
