@@ -4,10 +4,9 @@
 
 ## GitHub
 
-- [zapret-discord](https://github.com/CpuJoninPalace/zapret-discord): zapret-discord
+- [discORdobHodDPI](https://github.com/Trackerenhonor/discORdobHodDPI): discORdobHodDPI
 - [obHODTelegRAM](https://github.com/Starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
-- [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/Grayzurbastion/Youtube-Obhod): Youtube-Obhod
 - [DiscordObhod](https://github.com/Grayzurbastion/DiscordObhod): DiscordObhod
 - [youtube-unban](https://github.com/ScarletParrot/youtube-unban): youtube-unban
@@ -15,6 +14,7 @@
 - [diSCord-OBhod](https://github.com/ConureSubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/ConureSubway/youtubezapret): youtubezapret
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
+- [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [ObhodYoutube](https://github.com/Libraryplatomb/ObhodYoutube): ObhodYoutube
 - [teleGRAmobhOD](https://github.com/Playiesculpt/teleGRAmobhOD): teleGRAmobhOD
 - [ObhodDiscord](https://github.com/Playiesculpt/ObhodDiscord): ObhodDiscord
