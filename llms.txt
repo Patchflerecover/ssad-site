@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discORdobHodDPI](https://github.com/grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
-- [DiscordObhod](https://github.com/grayzurbastion/DiscordObhod): DiscordObhod
 - [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
 - [obhOd-diSCOrd](https://github.com/scarletparrot/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
