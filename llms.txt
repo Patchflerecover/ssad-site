@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
+- [yoUTUbeoBhod](https://github.com/CpuJoninPalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [obHODTelegRAM](https://github.com/Starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
@@ -20,7 +20,7 @@
 - [teleGRAmobhOD](https://github.com/Playiesculpt/teleGRAmobhOD): teleGRAmobhOD
 - [ObhodDiscord](https://github.com/Playiesculpt/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/Playiesculpt/discord-zapret): discord-zapret
-- [yoUTUbeoBhod](https://github.com/CpuJoninPalace/yoUTUbeoBhod): yoUTUbeoBhod
+- [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
 - [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
