@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [tELegrAMZapReT](https://github.com/SteamPinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/SteamPinpoint/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/SteamPinpoint/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
@@ -27,7 +28,6 @@
 - [telEGrAm-UnbaN](https://github.com/quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
-- [telegramzapret](https://github.com/infernalzeregister/telegramzapret): telegramzapret
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Telegram](https://github.com/restraintvoiceboost/Obhod-Telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
