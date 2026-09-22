@@ -4,13 +4,11 @@
 
 ## GitHub
 
-- [Obhod-Discord](https://github.com/AttoFreighterAmplify/Obhod-Discord): Obhod-Discord
-- [zaPRETtElegrAm](https://github.com/AttoFreighterAmplify/zaPRETtElegrAm): zaPRETtElegrAm
+- [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [obhoDDiscOrd](https://github.com/NetTellerHope/obhoDDiscOrd): obhoDDiscOrd
 - [zapret-telegram](https://github.com/NetTellerHope/zapret-telegram): zapret-telegram
 - [disCOrD-ZapREt](https://github.com/NetTellerHope/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/Blackgrotalk/discord-unban): discord-unban
-- [Obhod-Telegram](https://github.com/Blackgrotalk/Obhod-Telegram): Obhod-Telegram
 - [zaprET-DiSCOrd](https://github.com/Blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [tELegrAMZapReT](https://github.com/SteamPinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/SteamPinpoint/discOrDZApreT): discOrDZApreT
@@ -22,6 +20,7 @@
 - [discORdobHodDPI](https://github.com/grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
+- [obhOd-diSCOrd](https://github.com/scarletparrot/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
 - [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
@@ -32,6 +31,7 @@
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zaprettelegram](https://github.com/restraintvoiceboost/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Youtube](https://github.com/restraintvoiceboost/Obhod-Youtube): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/sparkslugcool89/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Стабильнее, надежнее, быстрее
 - [zapret-telegram-discord](https://github.com/vectorpatron/zapret-telegram-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
