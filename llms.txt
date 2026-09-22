@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [diSCord-OBhod](https://github.com/ConureSubway/diSCord-OBhod): diSCord-OBhod
+- [youtubezapret](https://github.com/ConureSubway/youtubezapret): youtubezapret
 - [obHODTelegRAM](https://github.com/Starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
@@ -12,7 +12,7 @@
 - [DiscordObhod](https://github.com/Grayzurbastion/DiscordObhod): DiscordObhod
 - [youtube-unban](https://github.com/ScarletParrot/youtube-unban): youtube-unban
 - [obhOd-diSCOrd](https://github.com/ScarletParrot/obhOd-diSCOrd): obhOd-diSCOrd
-- [youtubezapret](https://github.com/ConureSubway/youtubezapret): youtubezapret
+- [diSCord-OBhod](https://github.com/ConureSubway/diSCord-OBhod): diSCord-OBhod
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [ObhodYoutube](https://github.com/Libraryplatomb/ObhodYoutube): ObhodYoutube
