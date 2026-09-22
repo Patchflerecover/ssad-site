@@ -4,11 +4,11 @@
 
 ## GitHub
 
-- [Youtube-Obhod](https://github.com/Grayzurbastion/Youtube-Obhod): Youtube-Obhod
+- [DiscordObhod](https://github.com/Grayzurbastion/DiscordObhod): DiscordObhod
 - [obHODTelegRAM](https://github.com/Starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
-- [DiscordObhod](https://github.com/Grayzurbastion/DiscordObhod): DiscordObhod
+- [Youtube-Obhod](https://github.com/Grayzurbastion/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/ScarletParrot/youtube-unban): youtube-unban
 - [obhOd-diSCOrd](https://github.com/ScarletParrot/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/ConureSubway/diSCord-OBhod): diSCord-OBhod
