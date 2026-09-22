@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Discord-Obhod](https://github.com/FieldFollowerDecoder/Discord-Obhod): Discord-Obhod
 - [obhoDDiscOrd](https://github.com/NetTellerHope/obhoDDiscOrd): obhoDDiscOrd
 - [zapret-telegram](https://github.com/NetTellerHope/zapret-telegram): zapret-telegram
 - [disCOrD-ZapREt](https://github.com/NetTellerHope/disCOrD-ZapREt): disCOrD-ZapREt
@@ -15,7 +16,6 @@
 - [disCORdobHOD](https://github.com/SteamPinpoint/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
-- [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discORdobHodDPI](https://github.com/grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
