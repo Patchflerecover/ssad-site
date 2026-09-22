@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [obhoDDiscOrd](https://github.com/NetTellerHope/obhoDDiscOrd): obhoDDiscOrd
 - [zapret-telegram](https://github.com/NetTellerHope/zapret-telegram): zapret-telegram
@@ -20,7 +21,6 @@
 - [discORdobHodDPI](https://github.com/grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
-- [obhOd-diSCOrd](https://github.com/scarletparrot/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
 - [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
