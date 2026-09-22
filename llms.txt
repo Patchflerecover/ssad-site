@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [disCORdobHOD](https://github.com/SteamPinpoint/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/WorkerPassage/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
-- [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
