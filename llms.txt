@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [diSCord-OBhod](https://github.com/ConureSubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/ConureSubway/youtubezapret): youtubezapret
 - [Obhod-Discord](https://github.com/ConureSubway/Obhod-Discord): Obhod-Discord
-- [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [ObhodTelegram](https://github.com/lunarfollowerbreak/ObhodTelegram): ObhodTelegram
 - [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
