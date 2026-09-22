@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [ObhodDiscord](https://github.com/Playiesculpt/ObhodDiscord): ObhodDiscord
+- [discord-zapret](https://github.com/Playiesculpt/discord-zapret): discord-zapret
 - [obHODTelegRAM](https://github.com/Starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
@@ -18,7 +18,7 @@
 - [zaprET-DiSCOrd](https://github.com/Libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [ObhodYoutube](https://github.com/Libraryplatomb/ObhodYoutube): ObhodYoutube
 - [teleGRAmobhOD](https://github.com/Playiesculpt/teleGRAmobhOD): teleGRAmobhOD
-- [discord-zapret](https://github.com/Playiesculpt/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/Playiesculpt/ObhodDiscord): ObhodDiscord
 - [zapRETDiscORd](https://github.com/CpuJoninPalace/zapRETDiscORd): zapRETDiscORd
 - [yoUTUbeoBhod](https://github.com/CpuJoninPalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [telEGrAm-UnbaN](https://github.com/Quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
