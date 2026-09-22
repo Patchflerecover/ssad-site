@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/Grayzurbastion/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/Grayzurbastion/Youtube-Obhod): Youtube-Obhod
 - [DiscordObhod](https://github.com/Grayzurbastion/DiscordObhod): DiscordObhod
-- [DiscordObhodDPI](https://github.com/ScarletParrot/DiscordObhodDPI): DiscordObhodDPI
 - [youtube-unban](https://github.com/ScarletParrot/youtube-unban): youtube-unban
 - [obhOd-diSCOrd](https://github.com/ScarletParrot/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/ConureSubway/diSCord-OBhod): diSCord-OBhod
