@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/RadiusBrawlerDolmen/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
-- [discordzapret](https://github.com/Starzooutfit/discordzapret): discordzapret
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
