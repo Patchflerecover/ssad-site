@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Obhod-Discord](https://github.com/ConureSubway/Obhod-Discord): Obhod-Discord
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
 - [ObhodTelegram](https://github.com/lunarfollowerbreak/ObhodTelegram): ObhodTelegram
@@ -19,7 +20,6 @@
 - [discORdobHodDPI](https://github.com/Trackerenhonor/discORdobHodDPI): discORdobHodDPI
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
-- [obhOd-diSCOrd](https://github.com/victorbowyer30/obhOd-diSCOrd): obhOd-diSCOrd
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
 - [telegramzapret](https://github.com/infernalzeregister/telegramzapret): telegramzapret
