@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [ObhodDiscord](https://github.com/ToadCultivate/ObhodDiscord): ObhodDiscord
 - [youTubE-oBHOd](https://github.com/ToadCultivate/youTubE-oBHOd): youTubE-oBHOd
 - [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
@@ -13,7 +14,6 @@
 - [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
-- [obhoDDiscOrd](https://github.com/nettellerhope/obhoDDiscOrd): obhoDDiscOrd
 - [disCOrD-ZapREt](https://github.com/nettellerhope/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/blackgrotalk/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
