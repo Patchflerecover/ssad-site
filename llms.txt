@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [TelegramObhod](https://github.com/AutocratDepict/TelegramObhod): TelegramObhod
 - [zapretdiscord](https://github.com/AutocratDepict/zapretdiscord): zapretdiscord
 - [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
 - [discordzapret](https://github.com/OrioleOutfit/discordzapret): discordzapret
@@ -26,7 +27,6 @@
 - [diSCord-OBhod](https://github.com/conuresubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
-- [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
