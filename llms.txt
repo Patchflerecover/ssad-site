@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/AutocratDepict/zapretdiscord): zapretdiscord
 - [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
 - [discordzapret](https://github.com/OrioleOutfit/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/OrioleOutfit/YoutubeObhod): YoutubeObhod
-- [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
 - [zaprET-DiSCOrd](https://github.com/alchemistjudge/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/alchemistjudge/discord-unban): discord-unban
