@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [zaprEt-TELEgraM](https://github.com/Griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [discORdobHodDPI](https://github.com/Griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [DiscordObhod](https://github.com/Griffinaidarn/DiscordObhod): DiscordObhod
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [obhoDDiscOrd](https://github.com/NetTellerHope/obhoDDiscOrd): obhoDDiscOrd
-- [zapret-telegram](https://github.com/NetTellerHope/zapret-telegram): zapret-telegram
 - [disCOrD-ZapREt](https://github.com/NetTellerHope/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban](https://github.com/Blackgrotalk/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/Blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
