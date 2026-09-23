@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youtube-fix](https://github.com/AlchemistJudge/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/AlchemistJudge/discord-unban): discord-unban
 - [discord-zapret](https://github.com/ToadCultivate/discord-zapret): discord-zapret
 - [ObhodDiscord](https://github.com/ToadCultivate/ObhodDiscord): ObhodDiscord
@@ -29,7 +30,6 @@
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
-- [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zaprettelegram](https://github.com/restraintvoiceboost/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Youtube](https://github.com/restraintvoiceboost/Obhod-Youtube): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
