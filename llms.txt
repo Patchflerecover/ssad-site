@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/ConquerorClimber41/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/ConquerorClimber41/discordzapret): discordzapret
 - [telegram-unban](https://github.com/ConquerorClimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/Griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
@@ -16,7 +17,6 @@
 - [discord-unban](https://github.com/Blackgrotalk/discord-unban): discord-unban
 - [zaprET-DiSCOrd](https://github.com/Blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [tELegrAMZapReT](https://github.com/SteamPinpoint/tELegrAMZapReT): tELegrAMZapReT
-- [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
