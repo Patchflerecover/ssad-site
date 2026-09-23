@@ -4,8 +4,8 @@
 
 ## GitHub
 
-- [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
+- [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
 - [discordzapret](https://github.com/conquerorclimber41/discordzapret): discordzapret
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
