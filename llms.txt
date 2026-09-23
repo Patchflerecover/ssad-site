@@ -4,24 +4,24 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/ConquerorClimber41/zapretdiscord): zapretdiscord
-- [discordzapret](https://github.com/ConquerorClimber41/discordzapret): discordzapret
-- [telegram-unban](https://github.com/ConquerorClimber41/telegram-unban): telegram-unban
-- [zaprEt-TELEgraM](https://github.com/Griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [discORdobHodDPI](https://github.com/Griffinaidarn/discORdobHodDPI): discORdobHodDPI
-- [DiscordObhod](https://github.com/Griffinaidarn/DiscordObhod): DiscordObhod
+- [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/conquerorclimber41/discordzapret): discordzapret
+- [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
+- [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
+- [DiscordObhod](https://github.com/griffinaidarn/DiscordObhod): DiscordObhod
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
-- [obhoDDiscOrd](https://github.com/NetTellerHope/obhoDDiscOrd): obhoDDiscOrd
-- [disCOrD-ZapREt](https://github.com/NetTellerHope/disCOrD-ZapREt): disCOrD-ZapREt
-- [discord-unban](https://github.com/Blackgrotalk/discord-unban): discord-unban
-- [zaprET-DiSCOrd](https://github.com/Blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [tELegrAMZapReT](https://github.com/SteamPinpoint/tELegrAMZapReT): tELegrAMZapReT
-- [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
-- [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
+- [obhoDDiscOrd](https://github.com/nettellerhope/obhoDDiscOrd): obhoDDiscOrd
+- [disCOrD-ZapREt](https://github.com/nettellerhope/disCOrD-ZapREt): disCOrD-ZapREt
+- [discord-unban](https://github.com/blackgrotalk/discord-unban): discord-unban
+- [zaprET-DiSCOrd](https://github.com/blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
+- [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
+- [diSCord-OBhod](https://github.com/conuresubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
 - [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
