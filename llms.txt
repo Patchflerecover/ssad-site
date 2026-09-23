@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [ObhodYoutube](https://github.com/InvestigatorJourney/ObhodYoutube): ObhodYoutube
 - [discord-zapret](https://github.com/InvestigatorJourney/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/PostBreathFringe/zapret-discord): zapret-discord
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
@@ -26,7 +27,6 @@
 - [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
 - [diSCord-OBhod](https://github.com/conuresubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
-- [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
