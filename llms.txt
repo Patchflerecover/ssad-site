@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/Griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [DiscordObhod](https://github.com/Griffinaidarn/DiscordObhod): DiscordObhod
-- [DiscordObhodDPI](https://github.com/boulderlightningshop/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [obhoDDiscOrd](https://github.com/NetTellerHope/obhoDDiscOrd): obhoDDiscOrd
