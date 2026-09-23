@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/OrioleOutfit/DiscordObhod): DiscordObhod
+- [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
 - [discordzapret](https://github.com/OrioleOutfit/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/OrioleOutfit/YoutubeObhod): YoutubeObhod
 - [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
