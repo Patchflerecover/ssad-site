@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
 - [Obhod-Discord](https://github.com/SteepleStoryPliers21/Obhod-Discord): Obhod-Discord
 - [zaprET-DiSCOrd](https://github.com/Destroyertrainterest/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
@@ -25,7 +26,6 @@
 - [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
-- [diSCord-OBhod](https://github.com/conuresubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
