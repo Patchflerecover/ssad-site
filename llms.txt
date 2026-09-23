@@ -4,18 +4,19 @@
 
 ## GitHub
 
-- [zaprET-DiSCOrd](https://github.com/AlchemistJudge/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [youtube-fix](https://github.com/AlchemistJudge/youtube-fix): youtube-fix
-- [discord-unban](https://github.com/AlchemistJudge/discord-unban): discord-unban
-- [discord-zapret](https://github.com/ToadCultivate/discord-zapret): discord-zapret
-- [ObhodDiscord](https://github.com/ToadCultivate/ObhodDiscord): ObhodDiscord
-- [youTubE-oBHOd](https://github.com/ToadCultivate/youTubE-oBHOd): youTubE-oBHOd
-- [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
+- [YoutubeObhod](https://github.com/OrioleOutfit/YoutubeObhod): YoutubeObhod
 - [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
+- [zaprET-DiSCOrd](https://github.com/alchemistjudge/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
+- [discord-unban](https://github.com/alchemistjudge/discord-unban): discord-unban
+- [discord-zapret](https://github.com/toadcultivate/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/toadcultivate/ObhodDiscord): ObhodDiscord
+- [youTubE-oBHOd](https://github.com/toadcultivate/youTubE-oBHOd): youTubE-oBHOd
 - [discordzapret](https://github.com/conquerorclimber41/discordzapret): discordzapret
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
+- [DiscordObhod](https://github.com/griffinaidarn/DiscordObhod): DiscordObhod
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
@@ -26,7 +27,6 @@
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
 - [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
-- [yoUTUbeoBhod](https://github.com/cpujoninpalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
