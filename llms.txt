@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/AlchemistJudge/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [youtube-fix](https://github.com/AlchemistJudge/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/AlchemistJudge/discord-unban): discord-unban
 - [discord-zapret](https://github.com/ToadCultivate/discord-zapret): discord-zapret
@@ -17,7 +18,6 @@
 - [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
-- [zaprET-DiSCOrd](https://github.com/blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
