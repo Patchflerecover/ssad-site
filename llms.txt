@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [obhoDDiscOrd](https://github.com/Destroyertrainterest/obhoDDiscOrd): obhoDDiscOrd
 - [discord-unban](https://github.com/InvestigatorJourney/discord-unban): discord-unban
 - [ObhodYoutube](https://github.com/InvestigatorJourney/ObhodYoutube): ObhodYoutube
 - [discord-zapret](https://github.com/InvestigatorJourney/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/PostBreathFringe/zapret-discord): zapret-discord
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
-- [ObhodDiscord](https://github.com/PostBreathFringe/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/hertzmillipedekiln/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
