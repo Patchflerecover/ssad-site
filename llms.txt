@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [discord-unban](https://github.com/InvestigatorJourney/discord-unban): discord-unban
 - [ObhodYoutube](https://github.com/InvestigatorJourney/ObhodYoutube): ObhodYoutube
 - [discord-zapret](https://github.com/InvestigatorJourney/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/PostBreathFringe/zapret-discord): zapret-discord
@@ -14,7 +15,6 @@
 - [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
 - [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
 - [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
-- [discord-unban](https://github.com/alchemistjudge/discord-unban): discord-unban
 - [youTubE-oBHOd](https://github.com/toadcultivate/youTubE-oBHOd): youTubE-oBHOd
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
