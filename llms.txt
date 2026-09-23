@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhodDPI](https://github.com/AxolotlMemorialize/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
@@ -21,7 +22,6 @@
 - [youTubE-oBHOd](https://github.com/toadcultivate/youTubE-oBHOd): youTubE-oBHOd
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
