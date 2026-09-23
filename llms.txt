@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/Griffinaidarn/DiscordObhod): DiscordObhod
 - [DiscordObhodDPI](https://github.com/boulderlightningshop/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
@@ -14,7 +15,6 @@
 - [zaprET-DiSCOrd](https://github.com/Blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [tELegrAMZapReT](https://github.com/SteamPinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/SteamPinpoint/discOrDZApreT): discOrDZApreT
-- [disCORdobHOD](https://github.com/SteamPinpoint/disCORdobHOD): disCORdobHOD
 - [zapretdiscord](https://github.com/WorkerPassage/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/WorkerPassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
