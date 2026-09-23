@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/PostBreathFringe/zapret-discord): zapret-discord
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
 - [ObhodDiscord](https://github.com/PostBreathFringe/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/hertzmillipedekiln/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
 - [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
-- [zaprET-DiSCOrd](https://github.com/alchemistjudge/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
 - [discord-unban](https://github.com/alchemistjudge/discord-unban): discord-unban
 - [discord-zapret](https://github.com/toadcultivate/discord-zapret): discord-zapret
