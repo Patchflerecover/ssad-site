@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
-- [Obhod-Discord](https://github.com/SteepleStoryPliers21/Obhod-Discord): Obhod-Discord
 - [zaprET-DiSCOrd](https://github.com/Destroyertrainterest/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [obhoDDiscOrd](https://github.com/Destroyertrainterest/obhoDDiscOrd): obhoDDiscOrd
