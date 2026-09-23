@@ -4,9 +4,8 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/gravitymoondarn/zapRETDiscORd): zapRETDiscORd
-- [yoUTUBe-unBaN](https://github.com/gravitymoondarn/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [disCORdobHOD](https://github.com/RadiusBrawlerDolmen/disCORdobHOD): disCORdobHOD
+- [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/conquerorclimber41/discordzapret): discordzapret
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
@@ -21,6 +20,7 @@
 - [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
+- [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
 - [diSCord-OBhod](https://github.com/conuresubway/diSCord-OBhod): diSCord-OBhod
 - [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
 - [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
