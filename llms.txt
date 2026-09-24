@@ -4,10 +4,9 @@
 
 ## GitHub
 
-- [Obhod-Discord](https://github.com/SteepleStoryPliers21/Obhod-Discord): Obhod-Discord
+- [discord-unban](https://github.com/InvestigatorJourney/discord-unban): discord-unban
 - [youtube-fix](https://github.com/BrakemanCitadel/youtube-fix): youtube-fix
 - [zaprET-DiSCOrd](https://github.com/BrakemanCitadel/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-unban](https://github.com/BrakemanCitadel/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/FinancialCavity/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
@@ -17,6 +16,7 @@
 - [discordzapret](https://github.com/RamMaharajaJam/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/BailiffRectifier/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/BailiffRectifier/discORdobHodDPI): discORdobHodDPI
+- [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
