@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youtubezapret](https://github.com/Exadreagitate/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/Exadreagitate/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/GravelStorkLearn/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/GravelStorkLearn/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -22,7 +23,6 @@
 - [zapRETDiscORd](https://github.com/Partmcadjust/zapRETDiscORd): zapRETDiscORd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [obHODTelegRAM](https://github.com/RamMaharajaJam/obHODTelegRAM): obHODTelegRAM
-- [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
