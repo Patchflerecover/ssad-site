@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
 - [zapRETDiscORd](https://github.com/Partmcadjust/zapRETDiscORd): zapRETDiscORd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [zapret-discord](https://github.com/Partmcadjust/zapret-discord): zapret-discord
@@ -11,7 +12,6 @@
 - [discordzapret](https://github.com/RamMaharajaJam/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/BailiffRectifier/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/BailiffRectifier/discORdobHodDPI): discORdobHodDPI
-- [Youtube-Obhod](https://github.com/BailiffRectifier/Youtube-Obhod): Youtube-Obhod
 - [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
