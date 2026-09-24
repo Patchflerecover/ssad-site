@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/Partmcadjust/zapret-discord): zapret-discord
 - [zapretdiscord](https://github.com/RamMaharajaJam/zapretdiscord): zapretdiscord
 - [obHODTelegRAM](https://github.com/RamMaharajaJam/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/RamMaharajaJam/discordzapret): discordzapret
@@ -14,7 +15,6 @@
 - [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
-- [zaprET-DiSCOrd](https://github.com/Destroyertrainterest/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [obhoDDiscOrd](https://github.com/Destroyertrainterest/obhoDDiscOrd): obhoDDiscOrd
 - [discord-unban](https://github.com/InvestigatorJourney/discord-unban): discord-unban
