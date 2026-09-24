@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/GravelStorkLearn/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [discord-zapret](https://github.com/orderdentistgive74/discord-zapret): discord-zapret
 - [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
@@ -33,7 +34,6 @@
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zaprettelegram](https://github.com/restraintvoiceboost/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Youtube](https://github.com/restraintvoiceboost/Obhod-Youtube): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
-- [zaPRet-DIScORD-yOUTUbe](https://github.com/sparkslugcool89/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Стабильнее, надежнее, быстрее
 - [zapret-telegram-discord](https://github.com/vectorpatron/zapret-telegram-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-youtube-discord](https://github.com/originhokagedrag/zapret-youtube-discord): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
 - [discord-youtube-zapret](https://github.com/originhokagedrag/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
