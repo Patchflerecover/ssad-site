@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
 - [zapretdiscord](https://github.com/Exadreagitate/zapretdiscord): zapretdiscord
-- [discordzapret](https://github.com/Exadreagitate/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/GravelStorkLearn/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/GravelStorkLearn/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/GravelStorkLearn/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
