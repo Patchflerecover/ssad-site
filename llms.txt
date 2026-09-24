@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/PatchCobraProsper/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/PatchCobraProsper/zapRET-YOutUBE): zapRET-YOutUBE
 - [zaprET-DiSCOrd](https://github.com/recordchainspindle/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/recordchainspindle/disCOrD-ZapREt): disCOrD-ZapREt
 - [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
-- [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/GravelStorkLearn/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
