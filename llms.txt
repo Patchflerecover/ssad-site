@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
 - [zapretdiscord](https://github.com/Exadreagitate/zapretdiscord): zapretdiscord
-- [youtubezapret](https://github.com/Exadreagitate/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/Exadreagitate/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/GravelStorkLearn/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/GravelStorkLearn/zaprET-DiSCOrd): zaprET-DiSCOrd
