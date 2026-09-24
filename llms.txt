@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/Exadreagitate/zapretdiscord): zapretdiscord
 - [youtubezapret](https://github.com/Exadreagitate/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/Exadreagitate/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/GravelStorkLearn/disCOrD-ZapREt): disCOrD-ZapREt
@@ -20,7 +21,6 @@
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
-- [zapRETDiscORd](https://github.com/Partmcadjust/zapRETDiscORd): zapRETDiscORd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [obHODTelegRAM](https://github.com/RamMaharajaJam/obHODTelegRAM): obHODTelegRAM
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
