@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
+- [DiscordObhod](https://github.com/OrioleOutfit/DiscordObhod): DiscordObhod
 - [youtube-fix](https://github.com/BrakemanCitadel/youtube-fix): youtube-fix
 - [zaprET-DiSCOrd](https://github.com/BrakemanCitadel/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-unban](https://github.com/BrakemanCitadel/discord-unban): discord-unban
