@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/storageiguanatomb/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/storageiguanatomb/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
-- [zaprET-DiSCOrd](https://github.com/GravelStorkLearn/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/GravelStorkLearn/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
