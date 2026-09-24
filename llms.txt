@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [DiscordObhod](https://github.com/summitantnote/DiscordObhod): DiscordObhod
-- [DiscordObhodDPI](https://github.com/Inertiaenspike27/DiscordObhodDPI): DiscordObhodDPI
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
