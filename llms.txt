@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/BailiffRectifier/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/BailiffRectifier/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/AxolotlMemorialize/youtube-unban): youtube-unban
-- [DiscordObhodDPI](https://github.com/AxolotlMemorialize/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
