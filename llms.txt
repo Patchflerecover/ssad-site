@@ -4,11 +4,11 @@
 
 ## GitHub
 
-- [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
+- [discord-zapret](https://github.com/FinancialCavity/discord-zapret): discord-zapret
 - [youtube-fix](https://github.com/BrakemanCitadel/youtube-fix): youtube-fix
 - [zaprET-DiSCOrd](https://github.com/BrakemanCitadel/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-unban](https://github.com/BrakemanCitadel/discord-unban): discord-unban
-- [discord-zapret](https://github.com/FinancialCavity/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
 - [zapRETDiscORd](https://github.com/Partmcadjust/zapRETDiscORd): zapRETDiscORd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
