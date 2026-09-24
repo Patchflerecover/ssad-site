@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-youtube](https://github.com/HighwayLoopGive/zapret-youtube): zapret-youtube
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [youtube-fix](https://github.com/BrakemanCitadel/youtube-fix): youtube-fix
 - [zaprET-DiSCOrd](https://github.com/BrakemanCitadel/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -26,7 +27,6 @@
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
-- [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
