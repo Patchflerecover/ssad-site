@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/summitantnote/DiscordObhod): DiscordObhod
 - [DiscordObhodDPI](https://github.com/Inertiaenspike27/DiscordObhodDPI): DiscordObhodDPI
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
@@ -19,7 +20,6 @@
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [obHODTelegRAM](https://github.com/RamMaharajaJam/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/RamMaharajaJam/discordzapret): discordzapret
-- [DiscordObhod](https://github.com/BailiffRectifier/DiscordObhod): DiscordObhod
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
