@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
 - [zapret-discord](https://github.com/storageiguanatomb/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/storageiguanatomb/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
@@ -17,7 +18,6 @@
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/toothdukedefine/telegramzapret): telegramzapret
-- [zapret-youtube](https://github.com/HighwayLoopGive/zapret-youtube): zapret-youtube
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
