@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/BailiffRectifier/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/BailiffRectifier/discORdobHodDPI): discORdobHodDPI
 - [Youtube-Obhod](https://github.com/BailiffRectifier/Youtube-Obhod): Youtube-Obhod
 - [youtube-unban](https://github.com/AxolotlMemorialize/youtube-unban): youtube-unban
@@ -19,7 +20,6 @@
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
 - [discOrDZApreT](https://github.com/hertzmillipedekiln/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
-- [disCORdobHOD](https://github.com/AutocratDepict/disCORdobHOD): disCORdobHOD
 - [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
