@@ -4,13 +4,14 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
+- [TelegramObhod](https://github.com/AutocratDepict/TelegramObhod): TelegramObhod
 - [youtube-fix](https://github.com/BrakemanCitadel/youtube-fix): youtube-fix
 - [zaprET-DiSCOrd](https://github.com/BrakemanCitadel/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-unban](https://github.com/BrakemanCitadel/discord-unban): discord-unban
 - [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/FinancialCavity/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
+- [zapRETDiscORd](https://github.com/Partmcadjust/zapRETDiscORd): zapRETDiscORd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [obHODTelegRAM](https://github.com/RamMaharajaJam/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/RamMaharajaJam/discordzapret): discordzapret
@@ -20,7 +21,6 @@
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
-- [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
