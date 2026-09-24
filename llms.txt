@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/recordchainspindle/disCOrD-ZapREt): disCOrD-ZapREt
 - [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
 - [zapret-discord](https://github.com/storageiguanatomb/zapret-discord): zapret-discord
-- [discord-zapret](https://github.com/storageiguanatomb/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
