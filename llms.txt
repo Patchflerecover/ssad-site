@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [obHODTelegRAM](https://github.com/RamMaharajaJam/obHODTelegRAM): obHODTelegRAM
 - [discordzapret](https://github.com/RamMaharajaJam/discordzapret): discordzapret
 - [DiscordObhod](https://github.com/BailiffRectifier/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/BailiffRectifier/discORdobHodDPI): discORdobHodDPI
@@ -26,7 +27,6 @@
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
-- [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
