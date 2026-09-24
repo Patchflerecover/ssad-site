@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Discord-Obhod](https://github.com/HighwayLoopGive/Discord-Obhod): Discord-Obhod
 - [zapret-youtube](https://github.com/HighwayLoopGive/zapret-youtube): zapret-youtube
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [youtube-fix](https://github.com/BrakemanCitadel/youtube-fix): youtube-fix
@@ -19,7 +20,6 @@
 - [discORdobHodDPI](https://github.com/BailiffRectifier/discORdobHodDPI): discORdobHodDPI
 - [obhOd-diSCOrd](https://github.com/AxolotlMemorialize/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/SteepleStoryPliers21/youtubezapret): youtubezapret
-- [Discord-Obhod](https://github.com/SteepleStoryPliers21/Discord-Obhod): Discord-Obhod
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
