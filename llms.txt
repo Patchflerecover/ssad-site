@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/FinancialCavity/discord-zapret): discord-zapret
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
 - [zapRETDiscORd](https://github.com/Partmcadjust/zapRETDiscORd): zapRETDiscORd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
@@ -18,7 +19,6 @@
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [obhoDDiscOrd](https://github.com/Destroyertrainterest/obhoDDiscOrd): obhoDDiscOrd
 - [discord-unban](https://github.com/InvestigatorJourney/discord-unban): discord-unban
-- [discord-zapret](https://github.com/InvestigatorJourney/discord-zapret): discord-zapret
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
 - [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
 - [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
