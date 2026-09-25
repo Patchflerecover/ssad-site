@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
 - [disCOrD-ZapREt](https://github.com/Dreamsiplaza/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-discord](https://github.com/ChainRecover/zapret-discord): zapret-discord
 - [zaprettelegram](https://github.com/ChainRecover/zaprettelegram): zaprettelegram
@@ -28,7 +29,6 @@
 - [oBHOdyouTUBE](https://github.com/Destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
 - [teleGRAmobhOD](https://github.com/PostBreathFringe/teleGRAmobhOD): teleGRAmobhOD
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
-- [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
