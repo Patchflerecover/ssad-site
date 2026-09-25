@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [DiscordObhod](https://github.com/summitantnote/DiscordObhod): DiscordObhod
+- [DiscordObhodDPI](https://github.com/Inertiaenspike27/DiscordObhodDPI): DiscordObhodDPI
 - [youtubezapret](https://github.com/LacquerSorcererList/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/LacquerSorcererList/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/LacquerSorcererList/zapretdiscord): zapretdiscord
@@ -16,7 +16,7 @@
 - [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
 - [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
-- [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
+- [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
