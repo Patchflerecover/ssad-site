@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zaPRETtElegrAm](https://github.com/piercranecure54/zaPRETtElegrAm): zaPRETtElegrAm
 - [zaprET-DiSCOrd](https://github.com/Dreamsiplaza/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
 - [disCOrD-ZapREt](https://github.com/Dreamsiplaza/disCOrD-ZapREt): disCOrD-ZapREt
-- [zaprettelegram](https://github.com/ChainRecover/zaprettelegram): zaprettelegram
 - [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
