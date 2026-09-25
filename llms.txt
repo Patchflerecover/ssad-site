@@ -4,8 +4,8 @@
 
 ## GitHub
 
-- [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
-- [youtubezapret](https://github.com/LacquerSorcererList/youtubezapret): youtubezapret
+- [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
+- [discordzapret](https://github.com/LacquerSorcererList/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/LacquerSorcererList/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/CommercialDominate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
