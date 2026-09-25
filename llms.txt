@@ -4,9 +4,9 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/Exadreagitate/zapretdiscord): zapretdiscord
-- [youtubezapret](https://github.com/LacquerSorcererList/youtubezapret): youtubezapret
+- [youtubezapret](https://github.com/Exadreagitate/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/LacquerSorcererList/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/LacquerSorcererList/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/CommercialDominate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprET-DiSCOrd](https://github.com/CommercialDominate/zaprET-DiSCOrd): zaprET-DiSCOrd
