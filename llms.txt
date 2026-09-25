@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [tELegrAMZapReT](https://github.com/roofrhinoloot/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/roofrhinoloot/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/roofrhinoloot/zapRETDiscORd): zapRETDiscORd
 - [zapRET-YOutUBE](https://github.com/forestcoxswainduct/zapRET-YOutUBE): zapRET-YOutUBE
-- [telegramzapret](https://github.com/InletEchoShift/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/InletEchoShift/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/BrickSwimmer/discord-zapret): discord-zapret
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
