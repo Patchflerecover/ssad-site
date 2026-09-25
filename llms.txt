@@ -4,9 +4,8 @@
 
 ## GitHub
 
-- [tELegrAMZapReT](https://github.com/WeaveArtisanWeb/tELegrAMZapReT): tELegrAMZapReT
+- [discord-zapret](https://github.com/ChainRecover/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/recordchainspindle/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [disCOrD-ZapREt](https://github.com/recordchainspindle/disCOrD-ZapREt): disCOrD-ZapREt
 - [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
@@ -19,6 +18,7 @@
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
+- [telegramzapret](https://github.com/toothdukedefine/telegramzapret): telegramzapret
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [ObhodDiscord](https://github.com/FinancialCavity/ObhodDiscord): ObhodDiscord
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
