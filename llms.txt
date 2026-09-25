@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/Dreamsiplaza/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-discord](https://github.com/ChainRecover/zapret-discord): zapret-discord
 - [zaprettelegram](https://github.com/ChainRecover/zaprettelegram): zaprettelegram
-- [discord-zapret](https://github.com/ChainRecover/discord-zapret): discord-zapret
 - [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
