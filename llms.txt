@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zaPRETtElegrAm](https://github.com/Nebulapliexterminate/zaPRETtElegrAm): zaPRETtElegrAm
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [zapret-discord](https://github.com/ShellTurbine/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/ShellTurbine/discord-zapret): discord-zapret
-- [zaprettelegram](https://github.com/ShellTurbine/zaprettelegram): zaprettelegram
 - [tELegrAMZapReT](https://github.com/roofrhinoloot/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/roofrhinoloot/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/roofrhinoloot/zapRETDiscORd): zapRETDiscORd
