@@ -4,10 +4,10 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/LacquerSorcererList/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/CommercialDominate/disCOrD-ZapREt): disCOrD-ZapREt
 - [youtubezapret](https://github.com/LacquerSorcererList/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/LacquerSorcererList/discordzapret): discordzapret
-- [disCOrD-ZapREt](https://github.com/CommercialDominate/disCOrD-ZapREt): disCOrD-ZapREt
+- [zapretdiscord](https://github.com/LacquerSorcererList/zapretdiscord): zapretdiscord
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprET-DiSCOrd](https://github.com/CommercialDominate/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
