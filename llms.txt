@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
+- [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtubezapret](https://github.com/LacquerSorcererList/youtubezapret): youtubezapret
 - [discordzapret](https://github.com/LacquerSorcererList/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/LacquerSorcererList/zapretdiscord): zapretdiscord
@@ -19,7 +19,7 @@
 - [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
-- [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
+- [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
 - [telegramzapret](https://github.com/toothdukedefine/telegramzapret): telegramzapret
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
