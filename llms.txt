@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/forestcoxswainduct/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/forestcoxswainduct/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/InletEchoShift/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/InletEchoShift/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/BrickSwimmer/discord-zapret): discord-zapret
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [youtubezapret](https://github.com/LacquerSorcererList/youtubezapret): youtubezapret
-- [discordzapret](https://github.com/LacquerSorcererList/discordzapret): discordzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
 - [zaPRETtElegrAm](https://github.com/piercranecure54/zaPRETtElegrAm): zaPRETtElegrAm
