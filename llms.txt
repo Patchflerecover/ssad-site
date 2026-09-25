@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [telegramzapret](https://github.com/InletEchoShift/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/InletEchoShift/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/BrickSwimmer/discord-zapret): discord-zapret
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
@@ -21,7 +22,6 @@
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
 - [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
-- [telegramzapret](https://github.com/toothdukedefine/telegramzapret): telegramzapret
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
