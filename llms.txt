@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/Pathtribreak/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
-- [discordzapret](https://github.com/Lowerlorecord/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/Lowerlorecord/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
