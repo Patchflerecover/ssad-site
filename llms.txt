@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapret-discord](https://github.com/PlayGunnerBewitch/zapret-discord): zapret-discord
+- [zaprET-DiSCOrd](https://github.com/InletAntProtect/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/PlayGunnerBewitch/discord-zapret): discord-zapret
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
 - [discordzapret](https://github.com/Lowerlorecord/discordzapret): discordzapret
