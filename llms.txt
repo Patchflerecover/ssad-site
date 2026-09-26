@@ -4,12 +4,11 @@
 
 ## GitHub
 
-- [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
+- [telegramzapret](https://github.com/toothdukedefine/telegramzapret): telegramzapret
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
-- [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/ColossusDuke80/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/HiddenBusinessChaos/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
@@ -22,6 +21,7 @@
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
+- [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
 - [disCORD-uNBaN](https://github.com/HighwayLoopGive/disCORD-uNBaN): disCORD-uNBaN
 - [youTubE-oBHOd](https://github.com/FinancialCavity/youTubE-oBHOd): youTubE-oBHOd
 - [yoUTUBe-unBaN](https://github.com/Partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
