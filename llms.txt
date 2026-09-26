@@ -4,15 +4,15 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/Exadreagitate/zapretdiscord): zapretdiscord
+- [youtubezapret](https://github.com/Exadreagitate/youtubezapret): youtubezapret
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
+- [zapRETDiscORd](https://github.com/ColossusDuke80/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/HiddenBusinessChaos/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
-- [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
