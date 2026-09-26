@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/CooperRegenerate/discord-zapret): discord-zapret
 - [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/Originsaintspike/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Originsaintspike/discOrDZApreT): discOrDZApreT
 - [zapret-discord](https://github.com/Portaltruchart58/zapret-discord): zapret-discord
 - [zaPRETtElegrAm](https://github.com/Nebulapliexterminate/zaPRETtElegrAm): zaPRETtElegrAm
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
-- [discord-zapret](https://github.com/ShellTurbine/discord-zapret): discord-zapret
 - [tELegrAMZapReT](https://github.com/roofrhinoloot/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/forestcoxswainduct/zapRET-YOutUBE): zapRET-YOutUBE
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
