@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/ConeSailorShroud/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/ConeSailorShroud/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/ConeSailorShroud/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/FutureBoulder/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/FutureBoulder/discord-zapret): discord-zapret
-- [zapRETDiscORd](https://github.com/Pentagonshigenerate/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/Pentagonshigenerate/Discord-Obhod): Discord-Obhod
 - [yOUTubeZaprET](https://github.com/Pentagonshigenerate/yOUTubeZaprET): yOUTubeZaprET
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
