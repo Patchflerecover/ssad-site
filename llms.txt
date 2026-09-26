@@ -4,9 +4,9 @@
 
 ## GitHub
 
-- [zaPRETtElegrAm](https://github.com/piercranecure54/zaPRETtElegrAm): zaPRETtElegrAm
-- [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
+- [zaprET-DiSCOrd](https://github.com/recordchainspindle/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
+- [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/ColossusDuke80/zapRETDiscORd): zapRETDiscORd
