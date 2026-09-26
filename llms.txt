@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/flagcoppersmithabide/zapretdiscord): zapretdiscord
 - [zaPRETtElegrAm](https://github.com/flagcoppersmithabide/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-zapret](https://github.com/gryphonpantherturn/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/gryphonpantherturn/zapret-discord): zapret-discord
-- [zapRETDiscORd](https://github.com/VampireNoteReside85/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/VampireNoteReside85/discOrDZApreT): discOrDZApreT
 - [tELegrAMZapReT](https://github.com/VampireNoteReside85/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/ConeSailorShroud/zapRET-YOutUBE): zapRET-YOutUBE
