@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/VampireNoteReside85/discOrDZApreT): discOrDZApreT
 - [tELegrAMZapReT](https://github.com/VampireNoteReside85/tELegrAMZapReT): tELegrAMZapReT
 - [zapretdiscord](https://github.com/ConeSailorShroud/zapretdiscord): zapretdiscord
-- [discordzapret](https://github.com/ConeSailorShroud/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/ConeSailorShroud/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/FutureBoulder/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/FutureBoulder/discord-zapret): discord-zapret
