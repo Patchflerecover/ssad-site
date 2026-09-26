@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapret-discord](https://github.com/Portaltruchart58/zapret-discord): zapret-discord
+- [zapret-discord](https://github.com/ShellTurbine/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
