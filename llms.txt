@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youtubezapret](https://github.com/mistpugiliststeeple/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/mistpugiliststeeple/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
 - [zapret-discord](https://github.com/PlayGunnerBewitch/zapret-discord): zapret-discord
@@ -12,7 +13,6 @@
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
-- [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
