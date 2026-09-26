@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-telegram](https://github.com/SavageAutocrat33/zapret-telegram): zapret-telegram
 - [zaprET-DiSCOrd](https://github.com/SavageAutocrat33/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/gryphonpantherturn/zaprettelegram): zaprettelegram
 - [discord-zapret](https://github.com/gryphonpantherturn/discord-zapret): discord-zapret
@@ -17,7 +18,6 @@
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
-- [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
 - [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
