@@ -4,10 +4,10 @@
 
 ## GitHub
 
-- [zaprET-DiSCOrd](https://github.com/InletAntProtect/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
+- [zapret-discord](https://github.com/PlayGunnerBewitch/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/PlayGunnerBewitch/discord-zapret): discord-zapret
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
-- [discordzapret](https://github.com/Lowerlorecord/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/Lowerlorecord/zapretdiscord): zapretdiscord
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
