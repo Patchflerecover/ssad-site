@@ -4,11 +4,11 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/Pathtribreak/zapRETDiscORd): zapRETDiscORd
-- [discOrDZApreT](https://github.com/Pathtribreak/discOrDZApreT): discOrDZApreT
+- [discord-zapret](https://github.com/PlayGunnerBewitch/discord-zapret): discord-zapret
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
+- [discordzapret](https://github.com/Lowerlorecord/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/Lowerlorecord/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
-- [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
