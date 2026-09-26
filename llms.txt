@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/Pathtribreak/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Pathtribreak/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
-- [zapretdiscord](https://github.com/Lowerlorecord/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
