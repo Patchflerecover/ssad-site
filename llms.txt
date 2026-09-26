@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
+- [zapretdiscord](https://github.com/Starzooutfit/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
