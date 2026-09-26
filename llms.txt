@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [youtubezapret](https://github.com/mistpugiliststeeple/youtubezapret): youtubezapret
+- [yOUTubeZaprET](https://github.com/Pentagonshigenerate/yOUTubeZaprET): yOUTubeZaprET
 - [zapretdiscord](https://github.com/mistpugiliststeeple/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
 - [zapret-discord](https://github.com/PlayGunnerBewitch/zapret-discord): zapret-discord
