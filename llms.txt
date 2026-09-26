@@ -4,9 +4,9 @@
 
 ## GitHub
 
-- [discord-zapret](https://github.com/ShellTurbine/discord-zapret): discord-zapret
+- [zaprettelegram](https://github.com/ShellTurbine/zaprettelegram): zaprettelegram
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
-- [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
+- [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/ColossusDuke80/zapRETDiscORd): zapRETDiscORd
