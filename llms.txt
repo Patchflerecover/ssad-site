@@ -4,7 +4,8 @@
 
 ## GitHub
 
-- [zaprET-DiSCOrd](https://github.com/CommercialDominate/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
+- [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
@@ -13,7 +14,6 @@
 - [discordzapret](https://github.com/HiddenBusinessChaos/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
 - [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
-- [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
