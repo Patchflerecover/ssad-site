@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-youtube](https://github.com/CooperRegenerate/zapret-youtube): zapret-youtube
 - [zapret-discord](https://github.com/CooperRegenerate/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/CooperRegenerate/discord-zapret): discord-zapret
 - [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
@@ -12,7 +13,6 @@
 - [zaPRETtElegrAm](https://github.com/Nebulapliexterminate/zaPRETtElegrAm): zaPRETtElegrAm
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [tELegrAMZapReT](https://github.com/roofrhinoloot/tELegrAMZapReT): tELegrAMZapReT
-- [zapRET-YOutUBE](https://github.com/forestcoxswainduct/zapRET-YOutUBE): zapRET-YOutUBE
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
