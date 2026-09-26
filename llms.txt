@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/Originsaintspike/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Originsaintspike/discOrDZApreT): discOrDZApreT
 - [zapret-discord](https://github.com/Portaltruchart58/zapret-discord): zapret-discord
-- [zapretdiscord](https://github.com/Nebulapliexterminate/zapretdiscord): zapretdiscord
 - [zaPRETtElegrAm](https://github.com/Nebulapliexterminate/zaPRETtElegrAm): zaPRETtElegrAm
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [discord-zapret](https://github.com/ShellTurbine/discord-zapret): discord-zapret
