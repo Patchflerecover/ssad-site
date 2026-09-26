@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zaPRet-DIScORD-yOUTUbe](https://github.com/GravelStorkLearn/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
@@ -16,8 +16,8 @@
 - [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
-- [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/Inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [obhOd-diSCOrd](https://github.com/Inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
