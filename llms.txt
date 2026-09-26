@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/FutureBoulder/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/FutureBoulder/zapret-youtube): zapret-youtube
 - [zapRETDiscORd](https://github.com/Pentagonshigenerate/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/Pentagonshigenerate/Discord-Obhod): Discord-Obhod
 - [yOUTubeZaprET](https://github.com/Pentagonshigenerate/yOUTubeZaprET): yOUTubeZaprET
 - [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
 - [zapret-discord](https://github.com/PlayGunnerBewitch/zapret-discord): zapret-discord
-- [discord-zapret](https://github.com/PlayGunnerBewitch/discord-zapret): discord-zapret
 - [zaPRETtElegrAm](https://github.com/Lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
