@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/ColossusDuke80/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/HiddenBusinessChaos/discordzapret): discordzapret
-- [DiscordObhodDPI](https://github.com/HiddenBusinessChaos/DiscordObhodDPI): DiscordObhodDPI
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/CooperRegenerate/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/CooperRegenerate/discord-zapret): discord-zapret
