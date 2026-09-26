@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/Pentagonshigenerate/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/Pentagonshigenerate/Discord-Obhod): Discord-Obhod
 - [yOUTubeZaprET](https://github.com/Pentagonshigenerate/yOUTubeZaprET): yOUTubeZaprET
-- [zapretdiscord](https://github.com/mistpugiliststeeple/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
 - [zapret-discord](https://github.com/PlayGunnerBewitch/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/PlayGunnerBewitch/discord-zapret): discord-zapret
