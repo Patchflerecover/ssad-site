@@ -4,13 +4,13 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/Originsaintspike/zapRETDiscORd): zapRETDiscORd
+- [discOrDZApreT](https://github.com/Originsaintspike/discOrDZApreT): discOrDZApreT
 - [zapret-discord](https://github.com/Seizedestack/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Seizedestack/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Seizedestack/zaprettelegram): zaprettelegram
 - [discORdobHodDPI](https://github.com/ColossusDuke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/ColossusDuke80/tELegrAMZapReT): tELegrAMZapReT
-- [discordzapret](https://github.com/HiddenBusinessChaos/discordzapret): discordzapret
+- [zapRETDiscORd](https://github.com/ColossusDuke80/zapRETDiscORd): zapRETDiscORd
 - [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
 - [yOUTubeZaprET](https://github.com/Originsaintspike/yOUTubeZaprET): yOUTubeZaprET
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
