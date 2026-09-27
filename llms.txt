@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
 - [discordzapret](https://github.com/realtypeenumerate/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/realtypeenumerate/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/symbolheraldsun/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/symbolheraldsun/discord-zapret): discord-zapret
-- [zapret-youtube](https://github.com/symbolheraldsun/zapret-youtube): zapret-youtube
 - [yOUTubeZaprET](https://github.com/UpgradeCorporal/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhodDPI](https://github.com/UpgradeCorporal/DiscordObhodDPI): DiscordObhodDPI
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
