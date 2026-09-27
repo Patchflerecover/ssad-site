@@ -4,13 +4,13 @@
 
 ## GitHub
 
-- [zapRET-YOutUBE](https://github.com/forestcoxswainduct/zapRET-YOutUBE): zapRET-YOutUBE
+- [discordzapret](https://github.com/forestcoxswainduct/discordzapret): discordzapret
 - [zaprettelegram](https://github.com/Basiliskatrage/zaprettelegram): zaprettelegram
 - [discord-zapret](https://github.com/Basiliskatrage/discord-zapret): discord-zapret
 - [Obhod-Discord](https://github.com/Basiliskatrage/Obhod-Discord): Obhod-Discord
 - [tELegrAMZapReT](https://github.com/ShipwrightFoundry/tELegrAMZapReT): tELegrAMZapReT
-- [discOrDZApreT](https://github.com/ShipwrightFoundry/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/ShipwrightFoundry/zapRETDiscORd): zapRETDiscORd
+- [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/symbolheraldsun/zapret-discord): zapret-discord
 - [yOUTubeZaprET](https://github.com/UpgradeCorporal/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhodDPI](https://github.com/UpgradeCorporal/DiscordObhodDPI): DiscordObhodDPI
