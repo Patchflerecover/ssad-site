@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/RoofZebraCloak/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/RoofZebraCloak/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/gryphonpantherturn/zaprettelegram): zaprettelegram
-- [zapret-discord](https://github.com/gryphonpantherturn/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/VampireNoteReside85/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/VampireNoteReside85/discOrDZApreT): discOrDZApreT
 - [tELegrAMZapReT](https://github.com/VampireNoteReside85/tELegrAMZapReT): tELegrAMZapReT
