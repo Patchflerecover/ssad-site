@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprettelegram](https://github.com/Basiliskatrage/zaprettelegram): zaprettelegram
 - [discord-zapret](https://github.com/Basiliskatrage/discord-zapret): discord-zapret
 - [Obhod-Discord](https://github.com/Basiliskatrage/Obhod-Discord): Obhod-Discord
 - [tELegrAMZapReT](https://github.com/ShipwrightFoundry/tELegrAMZapReT): tELegrAMZapReT
@@ -14,7 +15,6 @@
 - [yOUTubeZaprET](https://github.com/UpgradeCorporal/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhodDPI](https://github.com/UpgradeCorporal/DiscordObhodDPI): DiscordObhodDPI
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
-- [zaprettelegram](https://github.com/gryphonpantherturn/zaprettelegram): zaprettelegram
 - [Discord-Obhod](https://github.com/Pentagonshigenerate/Discord-Obhod): Discord-Obhod
 - [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
