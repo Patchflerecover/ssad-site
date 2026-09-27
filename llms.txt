@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/lighttoadmonitor/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/lighttoadmonitor/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
-- [discord-zapret](https://github.com/RoofZebraCloak/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/gryphonpantherturn/zaprettelegram): zaprettelegram
 - [zapRETDiscORd](https://github.com/VampireNoteReside85/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/VampireNoteReside85/discOrDZApreT): discOrDZApreT
