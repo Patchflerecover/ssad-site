@@ -4,12 +4,11 @@
 
 ## GitHub
 
-- [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
+- [discordzapret](https://github.com/piercranecure54/discordzapret): discordzapret
 - [zaprettelegram](https://github.com/Basiliskatrage/zaprettelegram): zaprettelegram
 - [discord-zapret](https://github.com/Basiliskatrage/discord-zapret): discord-zapret
 - [Obhod-Discord](https://github.com/Basiliskatrage/Obhod-Discord): Obhod-Discord
 - [tELegrAMZapReT](https://github.com/ShipwrightFoundry/tELegrAMZapReT): tELegrAMZapReT
-- [discOrDZApreT](https://github.com/ShipwrightFoundry/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/ShipwrightFoundry/zapRETDiscORd): zapRETDiscORd
 - [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/symbolheraldsun/zapret-discord): zapret-discord
@@ -17,6 +16,7 @@
 - [DiscordObhodDPI](https://github.com/UpgradeCorporal/DiscordObhodDPI): DiscordObhodDPI
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [Discord-Obhod](https://github.com/Pentagonshigenerate/Discord-Obhod): Discord-Obhod
+- [ObhodDiscord](https://github.com/Nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [yoUTUbeoBhod](https://github.com/BrickSwimmer/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-telegram](https://github.com/Dreamsiplaza/zapret-telegram): zapret-telegram
 - [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
