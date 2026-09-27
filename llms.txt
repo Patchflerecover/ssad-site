@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/ShipwrightFoundry/zapRETDiscORd): zapRETDiscORd
 - [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
 - [discordzapret](https://github.com/realtypeenumerate/discordzapret): discordzapret
-- [zapretdiscord](https://github.com/realtypeenumerate/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/symbolheraldsun/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/symbolheraldsun/discord-zapret): discord-zapret
 - [yOUTubeZaprET](https://github.com/UpgradeCorporal/yOUTubeZaprET): yOUTubeZaprET
