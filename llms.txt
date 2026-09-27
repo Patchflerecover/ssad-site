@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapRET-YOutUBE](https://github.com/HiddenBusinessChaos/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapret-youtube](https://github.com/CooperRegenerate/zapret-youtube): zapret-youtube
 - [zaprettelegram](https://github.com/Basiliskatrage/zaprettelegram): zaprettelegram
 - [discord-zapret](https://github.com/Basiliskatrage/discord-zapret): discord-zapret
 - [Obhod-Discord](https://github.com/Basiliskatrage/Obhod-Discord): Obhod-Discord
