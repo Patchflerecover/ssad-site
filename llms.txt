@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-telegram](https://github.com/Followerousound/zapret-telegram): zapret-telegram
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
 - [disCOrD-ZapREt](https://github.com/Followerousound/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapretdiscord](https://github.com/ZombieOfficer/zapretdiscord): zapretdiscord
@@ -19,7 +20,6 @@
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [Discord-Obhod](https://github.com/pentagonshigenerate/Discord-Obhod): Discord-Obhod
 - [ObhodDiscord](https://github.com/nebulapliexterminate/ObhodDiscord): ObhodDiscord
-- [zapret-telegram](https://github.com/dreamsiplaza/zapret-telegram): zapret-telegram
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [disCORD-uNBaN](https://github.com/highwayloopgive/disCORD-uNBaN): disCORD-uNBaN
