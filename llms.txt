@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/ZombieOfficer/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
 - [disCOrD-ZapREt](https://github.com/Torrentacrosslast/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-discord](https://github.com/separatecastermarch/zapret-discord): zapret-discord
 - [telegramzapret](https://github.com/torrentacrosslast/telegramzapret): telegramzapret
 - [zapret-youtube](https://github.com/separatecastermarch/zapret-youtube): zapret-youtube
 - [zapretdiscord](https://github.com/speedzurdepict/zapretdiscord): zapretdiscord
-- [discordzapret](https://github.com/speedzurdepict/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
 - [Obhod-Discord](https://github.com/basiliskatrage/Obhod-Discord): Obhod-Discord
 - [yOUTubeZaprET](https://github.com/upgradecorporal/yOUTubeZaprET): yOUTubeZaprET
