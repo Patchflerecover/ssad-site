@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [telegramzapret](https://github.com/Torrentacrosslast/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/Torrentacrosslast/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-youtube](https://github.com/separatecastermarch/zapret-youtube): zapret-youtube
 - [discord-zapret](https://github.com/separatecastermarch/discord-zapret): discord-zapret
@@ -11,7 +12,6 @@
 - [discordzapret](https://github.com/Speedzurdepict/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
 - [Obhod-Discord](https://github.com/Basiliskatrage/Obhod-Discord): Obhod-Discord
-- [tELegrAMZapReT](https://github.com/ShipwrightFoundry/tELegrAMZapReT): tELegrAMZapReT
 - [yOUTubeZaprET](https://github.com/UpgradeCorporal/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhodDPI](https://github.com/UpgradeCorporal/DiscordObhodDPI): DiscordObhodDPI
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
