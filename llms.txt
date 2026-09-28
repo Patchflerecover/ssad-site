@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/ZombieOfficer/zapretdiscord): zapretdiscord
+- [zapRETDiscORd](https://github.com/HoldSpongeShadow/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/ZombieOfficer/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
 - [disCOrD-ZapREt](https://github.com/Torrentacrosslast/disCOrD-ZapREt): disCOrD-ZapREt
