@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [youtubezapret](https://github.com/masterstalkernight/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/Speedzurdepict/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/Speedzurdepict/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
@@ -12,7 +13,6 @@
 - [tELegrAMZapReT](https://github.com/ShipwrightFoundry/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/symbolheraldsun/zapret-discord): zapret-discord
-- [yOUTubeZaprET](https://github.com/UpgradeCorporal/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhodDPI](https://github.com/UpgradeCorporal/DiscordObhodDPI): DiscordObhodDPI
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [Discord-Obhod](https://github.com/Pentagonshigenerate/Discord-Obhod): Discord-Obhod
