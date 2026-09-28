@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/separatecastermarch/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/separatecastermarch/zapret-discord): zapret-discord
 - [zapretdiscord](https://github.com/Speedzurdepict/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/Speedzurdepict/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
-- [discord-zapret](https://github.com/Basiliskatrage/discord-zapret): discord-zapret
 - [Obhod-Discord](https://github.com/Basiliskatrage/Obhod-Discord): Obhod-Discord
 - [tELegrAMZapReT](https://github.com/ShipwrightFoundry/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
