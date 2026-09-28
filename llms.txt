@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/Torrentacrosslast/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-youtube](https://github.com/separatecastermarch/zapret-youtube): zapret-youtube
 - [discord-zapret](https://github.com/separatecastermarch/discord-zapret): discord-zapret
-- [zapret-discord](https://github.com/separatecastermarch/zapret-discord): zapret-discord
 - [zapretdiscord](https://github.com/Speedzurdepict/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/Speedzurdepict/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
