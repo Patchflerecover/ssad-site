@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/LeechRestore/zapretdiscord): zapretdiscord
 - [zaPRETtElegrAm](https://github.com/LeechRestore/zaPRETtElegrAm): zaPRETtElegrAm
 - [zapret-telegram](https://github.com/Followerousound/zapret-telegram): zapret-telegram
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
 - [disCOrD-ZapREt](https://github.com/Followerousound/disCOrD-ZapREt): disCOrD-ZapREt
-- [zapretdiscord](https://github.com/ZombieOfficer/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/ZombieOfficer/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
 - [zapret-discord](https://github.com/separatecastermarch/zapret-discord): zapret-discord
