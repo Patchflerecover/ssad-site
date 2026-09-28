@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/masterstalkernight/zapretdiscord): zapretdiscord
 - [youtubezapret](https://github.com/masterstalkernight/youtubezapret): youtubezapret
-- [zapretdiscord](https://github.com/Speedzurdepict/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/Speedzurdepict/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-zapret](https://github.com/Basiliskatrage/discord-zapret): discord-zapret
