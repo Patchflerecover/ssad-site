@@ -4,10 +4,10 @@
 
 ## GitHub
 
-- [zapRETDiscORd](https://github.com/HoldSpongeShadow/zapRETDiscORd): zapRETDiscORd
+- [disCOrD-ZapREt](https://github.com/Followerousound/disCOrD-ZapREt): disCOrD-ZapREt
+- [zapretdiscord](https://github.com/ZombieOfficer/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/ZombieOfficer/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
-- [disCOrD-ZapREt](https://github.com/Torrentacrosslast/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-discord](https://github.com/separatecastermarch/zapret-discord): zapret-discord
 - [telegramzapret](https://github.com/torrentacrosslast/telegramzapret): telegramzapret
 - [zapret-youtube](https://github.com/separatecastermarch/zapret-youtube): zapret-youtube
