@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/westdeliverersport/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/westdeliverersport/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [discordzapret](https://github.com/LeechRestore/discordzapret): discordzapret
-- [zapretdiscord](https://github.com/LeechRestore/zapretdiscord): zapretdiscord
 - [zaPRETtElegrAm](https://github.com/LeechRestore/zaPRETtElegrAm): zaPRETtElegrAm
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
 - [disCOrD-ZapREt](https://github.com/Followerousound/disCOrD-ZapREt): disCOrD-ZapREt
