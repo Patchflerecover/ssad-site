@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-telegram](https://github.com/Surgeflerestore/zapret-telegram): zapret-telegram
 - [zapret-discord](https://github.com/CashierAdvance/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/CashierAdvance/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/CashierAdvance/zaprettelegram): zaprettelegram
@@ -12,7 +13,6 @@
 - [zapretdiscord](https://github.com/WoodSwimmerFurnish/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/AlbatrossDuct/telegramzapret): telegramzapret
 - [yOUTubeZaprET](https://github.com/FieldWizardEnergy/yOUTubeZaprET): yOUTubeZaprET
-- [zaprEt-TELEgraM](https://github.com/westdeliverersport/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
 - [Obhod-Discord](https://github.com/basiliskatrage/Obhod-Discord): Obhod-Discord
