@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [youtubezapret](https://github.com/WisePebbleProsper/youtubezapret): youtubezapret
 - [discOrDZApreT](https://github.com/BraveStudentVent91/discOrDZApreT): discOrDZApreT
-- [yOUTubeZaprET](https://github.com/BraveStudentVent91/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/BraveStudentVent91/zapRETDiscORd): zapRETDiscORd
 - [disCOrD-ZapREt](https://github.com/TrackBakerPropagate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/TrackBakerPropagate/zaprET-DiSCOrd): zaprET-DiSCOrd
