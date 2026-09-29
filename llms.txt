@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/networkarrowflow/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/networkarrowflow/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/MaroonPacker/zaPRETtElegrAm): zaPRETtElegrAm
-- [zapretdiscord](https://github.com/MaroonPacker/zapretdiscord): zapretdiscord
 - [zaprET-DiSCOrd](https://github.com/Surgeflerestore/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/Surgeflerestore/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-telegram](https://github.com/Surgeflerestore/zapret-telegram): zapret-telegram
