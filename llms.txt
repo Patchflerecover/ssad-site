@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/CashierAdvance/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/CashierAdvance/zaprettelegram): zaprettelegram
 - [discordzapret](https://github.com/WoodSwimmerFurnish/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapretdiscord](https://github.com/WoodSwimmerFurnish/zapretdiscord): zapretdiscord
 - [zaprET-DiSCOrd](https://github.com/AlbatrossDuct/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [telegramzapret](https://github.com/AlbatrossDuct/telegramzapret): telegramzapret
-- [disCOrD-ZapREt](https://github.com/AlbatrossDuct/disCOrD-ZapREt): disCOrD-ZapREt
 - [yOUTubeZaprET](https://github.com/FieldWizardEnergy/yOUTubeZaprET): yOUTubeZaprET
 - [zaprEt-TELEgraM](https://github.com/westdeliverersport/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
