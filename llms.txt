@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/FieldWizardEnergy/zapRETDiscORd): zapRETDiscORd
 - [yOUTubeZaprET](https://github.com/FieldWizardEnergy/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/FieldWizardEnergy/discOrDZApreT): discOrDZApreT
-- [zapretdiscord](https://github.com/RetroServant34/zapretdiscord): zapretdiscord
 - [zaprEt-TELEgraM](https://github.com/westdeliverersport/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/LeechRestore/zaPRETtElegrAm): zaPRETtElegrAm
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
