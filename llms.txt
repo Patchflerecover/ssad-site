@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/BlackVerse26/zapretdiscord): zapretdiscord
 - [youtubezapret](https://github.com/BlackVerse26/youtubezapret): youtubezapret
 - [disCOrD-ZapREt](https://github.com/TrackBakerPropagate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/TrackBakerPropagate/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/networkarrowflow/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [zapRETDiscORd](https://github.com/networkarrowflow/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/networkarrowflow/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/MaroonPacker/zaPRETtElegrAm): zaPRETtElegrAm
 - [zapRET-YOutUBE](https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE): zapRET-YOutUBE
