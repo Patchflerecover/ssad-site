@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/TrackBakerPropagate/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
-- [zapret-discord](https://github.com/CoastQuailPleat/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/CoastQuailPleat/discord-zapret): discord-zapret
 - [zaprEt-TELEgraM](https://github.com/networkarrowflow/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/networkarrowflow/zapRETDiscORd): zapRETDiscORd
