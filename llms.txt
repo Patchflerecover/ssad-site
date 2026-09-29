@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/MaroonPacker/discordzapret): discordzapret
 - [zaprET-DiSCOrd](https://github.com/Surgeflerestore/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/Surgeflerestore/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-telegram](https://github.com/Surgeflerestore/zapret-telegram): zapret-telegram
 - [zaprettelegram](https://github.com/CashierAdvance/zaprettelegram): zaprettelegram
-- [discordzapret](https://github.com/WoodSwimmerFurnish/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapretdiscord](https://github.com/WoodSwimmerFurnish/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/AlbatrossDuct/telegramzapret): telegramzapret
