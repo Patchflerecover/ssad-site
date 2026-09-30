@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/ExpertCoupling/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/ExpertCoupling/disCOrD-ZapREt): disCOrD-ZapREt
-- [zapret-discord](https://github.com/Retroundefend/zapret-discord): zapret-discord
 - [zaprEt-TELEgraM](https://github.com/PurpleGooseElevator/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/PurpleGooseElevator/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/PurpleGooseElevator/discOrDZApreT): discOrDZApreT
