@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/naturalfinchname4/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/naturalfinchname4/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/RavenBastion/zapRETDiscORd): zapRETDiscORd
 - [yOUTubeZaprET](https://github.com/RavenBastion/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/RavenBastion/discOrDZApreT): discOrDZApreT
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
-- [zaprET-DiSCOrd](https://github.com/ExpertCoupling/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprEt-TELEgraM](https://github.com/PurpleGooseElevator/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/Duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
