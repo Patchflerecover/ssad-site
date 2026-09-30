@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/PurpleGooseElevator/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/PurpleGooseElevator/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/Duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
-- [zapretdiscord](https://github.com/Duskkishroud/zapretdiscord): zapretdiscord
 - [zapret-telegram](https://github.com/ModuleProtector/zapret-telegram): zapret-telegram
 - [zaprET-DiSCOrd](https://github.com/ModuleProtector/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/ModuleProtector/disCOrD-ZapREt): disCOrD-ZapREt
