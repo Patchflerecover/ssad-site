@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/RavenBastion/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/RavenBastion/discOrDZApreT): discOrDZApreT
 - [zapretdiscord](https://github.com/Labelforrecognize/zapretdiscord): zapretdiscord
-- [youtubezapret](https://github.com/Labelforrecognize/youtubezapret): youtubezapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprET-DiSCOrd](https://github.com/ExpertCoupling/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/ExpertCoupling/disCOrD-ZapREt): disCOrD-ZapREt
