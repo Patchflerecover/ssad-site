@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/Percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
 - [zapretdiscord](https://github.com/WisePebbleProsper/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/WisePebbleProsper/discordzapret): discordzapret
-- [youtubezapret](https://github.com/WisePebbleProsper/youtubezapret): youtubezapret
 - [disCOrD-ZapREt](https://github.com/TrackBakerPropagate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/TrackBakerPropagate/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
