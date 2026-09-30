@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-youtube](https://github.com/naturalfinchname4/zapret-youtube): zapret-youtube
 - [zapret-discord](https://github.com/naturalfinchname4/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/naturalfinchname4/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/RavenBastion/zapRETDiscORd): zapRETDiscORd
@@ -13,7 +14,6 @@
 - [zaprEt-TELEgraM](https://github.com/PurpleGooseElevator/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/Duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
-- [zapRET-YOutUBE](https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
 - [Obhod-Discord](https://github.com/basiliskatrage/Obhod-Discord): Obhod-Discord
