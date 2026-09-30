@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprettelegram](https://github.com/Magicglacall/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
 - [disCOrD-ZapREt](https://github.com/VeteranAmend/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/VeteranAmend/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -12,7 +13,6 @@
 - [yOUTubeZaprET](https://github.com/Percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/networkarrowflow/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [zaPRETtElegrAm](https://github.com/MaroonPacker/zaPRETtElegrAm): zaPRETtElegrAm
 - [zapRET-YOutUBE](https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCORdobHOD](https://github.com/Followerousound/disCORdobHOD): disCORdobHOD
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
