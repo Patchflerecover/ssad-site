@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/VeteranAmend/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/VeteranAmend/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapRETDiscORd](https://github.com/Percentzorsurvive/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Percentzorsurvive/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/Percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
-- [disCOrD-ZapREt](https://github.com/TrackBakerPropagate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/networkarrowflow/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/MaroonPacker/zaPRETtElegrAm): zaPRETtElegrAm
