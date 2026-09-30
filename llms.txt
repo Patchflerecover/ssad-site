@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [zaPRETtElegrAm](https://github.com/Duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
 - [zapretdiscord](https://github.com/Duskkishroud/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/Duskkishroud/discordzapret): discordzapret
 - [zapret-telegram](https://github.com/ModuleProtector/zapret-telegram): zapret-telegram
 - [zaprET-DiSCOrd](https://github.com/ModuleProtector/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/ModuleProtector/disCOrD-ZapREt): disCOrD-ZapREt
-- [zaprettelegram](https://github.com/Magicglacall/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
 - [yOUTubeZaprET](https://github.com/Percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
