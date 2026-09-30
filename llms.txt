@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/ModuleProtector/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-discord](https://github.com/Magicglacall/zapret-discord): zapret-discord
-- [discord-zapret](https://github.com/Magicglacall/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Magicglacall/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
 - [zapRETDiscORd](https://github.com/Percentzorsurvive/zapRETDiscORd): zapRETDiscORd
