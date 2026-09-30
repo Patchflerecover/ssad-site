@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/Tensorshograb/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/Tensorshograb/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapret-youtube](https://github.com/naturalfinchname4/zapret-youtube): zapret-youtube
-- [zapret-discord](https://github.com/naturalfinchname4/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/RavenBastion/zapRETDiscORd): zapRETDiscORd
 - [yOUTubeZaprET](https://github.com/RavenBastion/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/RavenBastion/discOrDZApreT): discOrDZApreT
