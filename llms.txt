@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/Magicglacall/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/Magicglacall/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/Magicglacall/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
-- [zaprET-DiSCOrd](https://github.com/VeteranAmend/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapRETDiscORd](https://github.com/Percentzorsurvive/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Percentzorsurvive/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/Percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
