@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/Labelforrecognize/discordzapret): discordzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprET-DiSCOrd](https://github.com/ExpertCoupling/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/ExpertCoupling/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprEt-TELEgraM](https://github.com/PurpleGooseElevator/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/PurpleGooseElevator/zapRETDiscORd): zapRETDiscORd
-- [discOrDZApreT](https://github.com/PurpleGooseElevator/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/Duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
 - [telegramzapret](https://github.com/VeteranAmend/telegramzapret): telegramzapret
 - [yOUTubeZaprET](https://github.com/Percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
