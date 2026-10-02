@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [telegramzapret](https://github.com/Drifttotell41/telegramzapret): telegramzapret
 - [zapret-discord](https://github.com/courtwalkerrestore/zapret-discord): zapret-discord
 - [zapret-youtube](https://github.com/courtwalkerrestore/zapret-youtube): zapret-youtube
 - [discord-zapret](https://github.com/courtwalkerrestore/discord-zapret): discord-zapret
 - [yOUTubeZaprET](https://github.com/UltimateDoveJam/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/UltimateDoveJam/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/UltimateDoveJam/zapRETDiscORd): zapRETDiscORd
-- [telegramzapret](https://github.com/Tensorshograb/telegramzapret): telegramzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/PurpleGooseElevator/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/Duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
