@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/Drifttotell41/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/Drifttotell41/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/Drifttotell41/telegramzapret): telegramzapret
-- [zapret-discord](https://github.com/courtwalkerrestore/zapret-discord): zapret-discord
 - [zapret-youtube](https://github.com/courtwalkerrestore/zapret-youtube): zapret-youtube
 - [yOUTubeZaprET](https://github.com/UltimateDoveJam/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/UltimateDoveJam/discOrDZApreT): discOrDZApreT
