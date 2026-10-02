@@ -4,12 +4,12 @@
 
 ## GitHub
 
-- [discordzapret](https://github.com/BeigeVictorClimb/discordzapret): discordzapret
+- [zapret-discord](https://github.com/AvalancheStory/zapret-discord): zapret-discord
 - [discord-zapret](https://github.com/GripStallion/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/GripStallion/zapret-youtube): zapret-youtube
-- [zaprET-DiSCOrd](https://github.com/GripStallion/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/greenchameleonvoyage/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhod](https://github.com/greenchameleonvoyage/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/cosmicbursartuck/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/cosmicbursartuck/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/Drifttotell41/telegramzapret): telegramzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
