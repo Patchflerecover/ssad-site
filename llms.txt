@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/Daemonofmodify/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/SwiftProvider/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-zapret](https://github.com/SwiftProvider/discord-zapret): discord-zapret
 - [zaprettelegram](https://github.com/SwiftProvider/zaprettelegram): zaprettelegram
 - [tELegrAMZapReT](https://github.com/AvalancheStory/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/AvalancheStory/zapRETDiscORd): zapRETDiscORd
