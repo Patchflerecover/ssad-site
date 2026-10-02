@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/Drifttotell41/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/Drifttotell41/telegramzapret): telegramzapret
 - [zapret-discord](https://github.com/courtwalkerrestore/zapret-discord): zapret-discord
 - [zapret-youtube](https://github.com/courtwalkerrestore/zapret-youtube): zapret-youtube
-- [discord-zapret](https://github.com/courtwalkerrestore/discord-zapret): discord-zapret
 - [yOUTubeZaprET](https://github.com/UltimateDoveJam/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/UltimateDoveJam/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/UltimateDoveJam/zapRETDiscORd): zapRETDiscORd
