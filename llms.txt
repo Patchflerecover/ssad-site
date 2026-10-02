@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/UltimateGlazier/zapretdiscord): zapretdiscord
+- [zapRETDiscORd](https://github.com/UltimateDoveJam/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/UltimateGlazier/discordzapret): discordzapret
 - [youtubezapret](https://github.com/UltimateGlazier/youtubezapret): youtubezapret
 - [zapRET-YOutUBE](https://github.com/HerdMeadowlark/zapRET-YOutUBE): zapRET-YOutUBE
