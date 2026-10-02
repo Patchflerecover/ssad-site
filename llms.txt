@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/cosmicbursartuck/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/cosmicbursartuck/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/ConsciousnessToucan/zapRET-YOutUBE): zapRET-YOutUBE
-- [discordzapret](https://github.com/ConsciousnessToucan/discordzapret): discordzapret
 - [zaprET-DiSCOrd](https://github.com/Drifttotell41/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/Drifttotell41/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/Drifttotell41/telegramzapret): telegramzapret
