@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/UltimateDoveJam/yOUTubeZaprET): yOUTubeZaprET
 - [discOrDZApreT](https://github.com/UltimateDoveJam/discOrDZApreT): discOrDZApreT
 - [zapRETDiscORd](https://github.com/UltimateDoveJam/zapRETDiscORd): zapRETDiscORd
-- [youtubezapret](https://github.com/UltimateGlazier/youtubezapret): youtubezapret
 - [zapRET-YOutUBE](https://github.com/HerdMeadowlark/zapRET-YOutUBE): zapRET-YOutUBE
 - [telegramzapret](https://github.com/Tensorshograb/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/Tensorshograb/zaprET-DiSCOrd): zaprET-DiSCOrd
