@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
 - [discord-zapret](https://github.com/spiritsparkrafter/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/spiritsparkrafter/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/spiritsparkrafter/zaprettelegram): zaprettelegram
@@ -14,7 +15,6 @@
 - [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [Obhod-Discord](https://github.com/MintGrubBurn/Obhod-Discord): Obhod-Discord
 - [zaprEt-TELEgraM](https://github.com/StormJouninChasm/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [DiscordObhod](https://github.com/greenchameleonvoyage/DiscordObhod): DiscordObhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
 - [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
