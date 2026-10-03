@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/Chaoskraworkshop/zapret-discord): zapret-discord
 - [zapretdiscord](https://github.com/tagdictatorvilla/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/tagdictatorvilla/discordzapret): discordzapret
@@ -13,7 +14,6 @@
 - [zaPRETtElegrAm](https://github.com/Daemonofmodify/zaPRETtElegrAm): zaPRETtElegrAm
 - [tELegrAMZapReT](https://github.com/AvalancheStory/tELegrAMZapReT): tELegrAMZapReT
 - [zapret-youtube](https://github.com/GripStallion/zapret-youtube): zapret-youtube
-- [yOUTubeZaprET](https://github.com/greenchameleonvoyage/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhod](https://github.com/greenchameleonvoyage/DiscordObhod): DiscordObhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
