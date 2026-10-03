@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/ThrushAtrium/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRETDiscORd](https://github.com/pauseheartchopper/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/pauseheartchopper/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapret-discord](https://github.com/pauseheartchopper/zapret-discord): zapret-discord
 - [discOrDZApreT](https://github.com/BottomManufacturing/discOrDZApreT): discOrDZApreT
-- [disCOrD-ZapREt](https://github.com/rushdoorrefresh/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
