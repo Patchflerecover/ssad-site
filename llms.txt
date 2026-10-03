@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [discordzapret](https://github.com/Femtoclecherish/discordzapret): discordzapret
+- [discOrDZApreT](https://github.com/SteepleOwlChasm/discOrDZApreT): discOrDZApreT
 - [zaprET-DiSCOrd](https://github.com/BattalionCuttlefish/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
