@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/pauseheartchopper/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/pauseheartchopper/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapret-discord](https://github.com/pauseheartchopper/zapret-discord): zapret-discord
 - [discOrDZApreT](https://github.com/BottomManufacturing/discOrDZApreT): discOrDZApreT
-- [zapretdiscord](https://github.com/BottomManufacturing/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/rushdoorrefresh/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
