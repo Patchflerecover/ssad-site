@@ -4,19 +4,19 @@
 
 ## GitHub
 
-- [disCOrD-ZapREt](https://github.com/ThrushAtrium/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/ThrushAtrium/discordzapret): discordzapret
+- [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
+- [disCOrD-ZapREt](https://github.com/rushdoorrefresh/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRETDiscORd](https://github.com/pauseheartchopper/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/pauseheartchopper/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapret-discord](https://github.com/pauseheartchopper/zapret-discord): zapret-discord
-- [discOrDZApreT](https://github.com/BottomManufacturing/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
-- [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
-- [zapRET-YOutUBE](https://github.com/Sentinelzentwist/zapRET-YOutUBE): zapRET-YOutUBE
-- [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
-- [Obhod-Discord](https://github.com/MintGrubBurn/Obhod-Discord): Obhod-Discord
-- [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
-- [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
+- [zapRET-YOutUBE](https://github.com/sentinelzentwist/zapRET-YOutUBE): zapRET-YOutUBE
+- [yOUTubeZaprET](https://github.com/chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
+- [Obhod-Discord](https://github.com/mintgrubburn/Obhod-Discord): Obhod-Discord
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/expertcoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [YoutubeObhod](https://github.com/zombieofficer/YoutubeObhod): YoutubeObhod
 - [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
 - [Discord-Obhod](https://github.com/pentagonshigenerate/Discord-Obhod): Discord-Obhod
 - [ObhodDiscord](https://github.com/nebulapliexterminate/ObhodDiscord): ObhodDiscord
