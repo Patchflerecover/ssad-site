@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprettelegram](https://github.com/spiritsparkrafter/zaprettelegram): zaprettelegram
 - [zapret-discord](https://github.com/oilseekersucceed/zapret-discord): zapret-discord
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/oilseekersucceed/zapRETDiscORd): zapRETDiscORd
@@ -13,7 +14,6 @@
 - [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [Obhod-Discord](https://github.com/MintGrubBurn/Obhod-Discord): Obhod-Discord
 - [zaprEt-TELEgraM](https://github.com/StormJouninChasm/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [zaPRETtElegrAm](https://github.com/Daemonofmodify/zaPRETtElegrAm): zaPRETtElegrAm
 - [DiscordObhod](https://github.com/greenchameleonvoyage/DiscordObhod): DiscordObhod
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ExpertCoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [YoutubeObhod](https://github.com/ZombieOfficer/YoutubeObhod): YoutubeObhod
