@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/spiritsparkrafter/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/spiritsparkrafter/zaprettelegram): zaprettelegram
-- [zapret-discord](https://github.com/oilseekersucceed/zapret-discord): zapret-discord
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/oilseekersucceed/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/ScaleBailiffReach/discOrDZApreT): discOrDZApreT
