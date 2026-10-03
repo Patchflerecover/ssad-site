@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/Chaoskraworkshop/zapRETDiscORd): zapRETDiscORd
 - [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/Chaoskraworkshop/zapret-discord): zapret-discord
-- [zapretdiscord](https://github.com/tagdictatorvilla/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/tagdictatorvilla/discordzapret): discordzapret
 - [Obhod-Discord](https://github.com/MintGrubBurn/Obhod-Discord): Obhod-Discord
 - [discord-zapret](https://github.com/MintGrubBurn/discord-zapret): discord-zapret
