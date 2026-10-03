@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/BattalionCuttlefish/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
 - [discOrDZApreT](https://github.com/CapitalJouninNail/discOrDZApreT): discOrDZApreT
 - [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
 - [zapretdiscord](https://github.com/CapitalJouninNail/zapretdiscord): zapretdiscord
-- [zaprET-DiSCOrd](https://github.com/Arcticicommand86/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/Arcticicommand86/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/Arcticicommand86/zapret-youtube): zapret-youtube
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ThrushAtrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
