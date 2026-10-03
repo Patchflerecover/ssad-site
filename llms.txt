@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [tELegrAMZapReT](https://github.com/grottoserpentdock/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/CapitalJouninNail/discOrDZApreT): discOrDZApreT
-- [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
 - [zapretdiscord](https://github.com/CapitalJouninNail/zapretdiscord): zapretdiscord
 - [zaprET-DiSCOrd](https://github.com/Arcticicommand86/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/Arcticicommand86/discord-zapret): discord-zapret
