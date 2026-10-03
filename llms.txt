@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/tagdictatorvilla/discordzapret): discordzapret
 - [Obhod-Discord](https://github.com/MintGrubBurn/Obhod-Discord): Obhod-Discord
 - [discord-zapret](https://github.com/MintGrubBurn/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/StormJouninChasm/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/StormJouninChasm/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapret-discord](https://github.com/StormJouninChasm/zapret-discord): zapret-discord
-- [discordzapret](https://github.com/Daemonofmodify/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Daemonofmodify/zaPRETtElegrAm): zaPRETtElegrAm
 - [tELegrAMZapReT](https://github.com/AvalancheStory/tELegrAMZapReT): tELegrAMZapReT
 - [zapret-youtube](https://github.com/GripStallion/zapret-youtube): zapret-youtube
