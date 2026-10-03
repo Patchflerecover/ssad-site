@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/ScaleBailiffReach/discOrDZApreT): discOrDZApreT
 - [telegramzapret](https://github.com/ScaleBailiffReach/telegramzapret): telegramzapret
 - [zapretdiscord](https://github.com/ScaleBailiffReach/zapretdiscord): zapretdiscord
 - [zapRET-YOutUBE](https://github.com/Sentinelzentwist/zapRET-YOutUBE): zapRET-YOutUBE
-- [discordzapret](https://github.com/Sentinelzentwist/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/Sentinelzentwist/disCOrD-ZapREt): disCOrD-ZapREt
 - [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/Chaoskraworkshop/zapret-discord): zapret-discord
