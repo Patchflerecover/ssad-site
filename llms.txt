@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/spiritsparkrafter/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/spiritsparkrafter/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/spiritsparkrafter/zaprettelegram): zaprettelegram
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/oilseekersucceed/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/ScaleBailiffReach/discOrDZApreT): discOrDZApreT
 - [zapRET-YOutUBE](https://github.com/Sentinelzentwist/zapRET-YOutUBE): zapRET-YOutUBE
-- [disCOrD-ZapREt](https://github.com/Sentinelzentwist/disCOrD-ZapREt): disCOrD-ZapREt
 - [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [Obhod-Discord](https://github.com/MintGrubBurn/Obhod-Discord): Obhod-Discord
 - [zaprEt-TELEgraM](https://github.com/StormJouninChasm/zaprEt-TELEgraM): zaprEt-TELEgraM
