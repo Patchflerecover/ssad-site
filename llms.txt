@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/pauseheartchopper/zapret-discord): zapret-discord
 - [discOrDZApreT](https://github.com/BottomManufacturing/discOrDZApreT): discOrDZApreT
 - [zapretdiscord](https://github.com/BottomManufacturing/zapretdiscord): zapretdiscord
 - [zapret-telegram](https://github.com/BottomManufacturing/zapret-telegram): zapret-telegram
 - [disCOrD-ZapREt](https://github.com/rushdoorrefresh/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
-- [zaprET-DiSCOrd](https://github.com/spiritsparkrafter/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/Sentinelzentwist/zapRET-YOutUBE): zapRET-YOutUBE
 - [yOUTubeZaprET](https://github.com/Chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
