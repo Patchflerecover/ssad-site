@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/Boundaryoftrough/discordzapret): discordzapret
 - [zaprET-DiSCOrd](https://github.com/Arcticicommand86/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/Arcticicommand86/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/Arcticicommand86/zapret-youtube): zapret-youtube
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ThrushAtrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
-- [discordzapret](https://github.com/ThrushAtrium/discordzapret): discordzapret
 - [zapRETDiscORd](https://github.com/pauseheartchopper/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/pauseheartchopper/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
