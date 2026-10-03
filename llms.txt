@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/DecaLawyerDynamo45/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/Daemonofmodify/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/Daemonofmodify/zaPRETtElegrAm): zaPRETtElegrAm
 - [disCOrD-ZapREt](https://github.com/Daemonofmodify/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/SwiftProvider/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [tELegrAMZapReT](https://github.com/AvalancheStory/tELegrAMZapReT): tELegrAMZapReT
-- [zapRETDiscORd](https://github.com/AvalancheStory/zapRETDiscORd): zapRETDiscORd
 - [zapret-youtube](https://github.com/GripStallion/zapret-youtube): zapret-youtube
 - [yOUTubeZaprET](https://github.com/greenchameleonvoyage/yOUTubeZaprET): yOUTubeZaprET
 - [DiscordObhod](https://github.com/greenchameleonvoyage/DiscordObhod): DiscordObhod
