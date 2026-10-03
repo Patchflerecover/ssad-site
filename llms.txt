@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/Arcticicommand86/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/Arcticicommand86/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/Arcticicommand86/zapret-youtube): zapret-youtube
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ThrushAtrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
@@ -11,7 +12,6 @@
 - [discordzapret](https://github.com/ThrushAtrium/discordzapret): discordzapret
 - [zapRETDiscORd](https://github.com/pauseheartchopper/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/pauseheartchopper/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [zapret-discord](https://github.com/pauseheartchopper/zapret-discord): zapret-discord
 - [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
 - [yOUTubeZaprET](https://github.com/chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
