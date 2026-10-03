@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
 - [discord-zapret](https://github.com/spiritsparkrafter/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/spiritsparkrafter/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [zaprettelegram](https://github.com/spiritsparkrafter/zaprettelegram): zaprettelegram
 - [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/oilseekersucceed/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/ScaleBailiffReach/discOrDZApreT): discOrDZApreT
