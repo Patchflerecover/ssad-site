@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/RubyDesignerRaid/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/RubyDesignerRaid/zapret-youtube): zapret-youtube
 - [zapret-discord](https://github.com/BufferRhymeCutter/zapret-discord): zapret-discord
 - [yOUTubeZaprET](https://github.com/BufferRhymeCutter/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/BufferRhymeCutter/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/PyromancerMooring/discordzapret): discordzapret
-- [disCOrD-ZapREt](https://github.com/marblestyliststaple/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprEt-TELEgraM](https://github.com/Cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
