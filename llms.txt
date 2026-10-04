@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/Forwardvebandage/discordzapret): discordzapret
 - [zapret-discord](https://github.com/Cyclopsaewar7/zapret-discord): zapret-discord
 - [zaprEt-TELEgraM](https://github.com/Cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/Cyclopsaewar7/zapRETDiscORd): zapRETDiscORd
-- [discOrDZApreT](https://github.com/SteepleOwlChasm/discOrDZApreT): discOrDZApreT
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
 - [discord-zapret](https://github.com/Arcticicommand86/discord-zapret): discord-zapret
