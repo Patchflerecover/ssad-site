@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zaprEt-TELEgraM](https://github.com/Cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/Cyclopsaewar7/zapRETDiscORd): zapRETDiscORd
-- [zapret-telegram](https://github.com/SteepleOwlChasm/zapret-telegram): zapret-telegram
 - [discOrDZApreT](https://github.com/SteepleOwlChasm/discOrDZApreT): discOrDZApreT
 - [zaprET-DiSCOrd](https://github.com/BattalionCuttlefish/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
