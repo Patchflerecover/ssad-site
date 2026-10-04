@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/BufferRhymeCutter/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/BufferRhymeCutter/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/PyromancerMooring/discordzapret): discordzapret
-- [youtubezapret](https://github.com/PyromancerMooring/youtubezapret): youtubezapret
 - [disCOrD-ZapREt](https://github.com/marblestyliststaple/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRET-YOutUBE](https://github.com/marblestyliststaple/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapret-discord](https://github.com/fixsenioranvil/zapret-discord): zapret-discord
