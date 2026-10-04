@@ -4,17 +4,17 @@
 
 ## GitHub
 
-- [discordzapret](https://github.com/Forwardvebandage/discordzapret): discordzapret
+- [yOUTubeZaprET](https://github.com/fixsenioranvil/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/Cyclopsaewar7/zapret-discord): zapret-discord
 - [zaprEt-TELEgraM](https://github.com/Cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/Cyclopsaewar7/zapRETDiscORd): zapRETDiscORd
+- [discOrDZApreT](https://github.com/SteepleOwlChasm/discOrDZApreT): discOrDZApreT
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
 - [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
 - [discord-zapret](https://github.com/Arcticicommand86/discord-zapret): discord-zapret
 - [zapret-youtube](https://github.com/Arcticicommand86/zapret-youtube): zapret-youtube
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ThrushAtrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
-- [yOUTubeZaprET](https://github.com/chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
 - [Obhod-Discord](https://github.com/mintgrubburn/Obhod-Discord): Obhod-Discord
 - [YoutubeObhod](https://github.com/zombieofficer/YoutubeObhod): YoutubeObhod
 - [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
