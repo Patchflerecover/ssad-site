@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/PyromancerMooring/zapretdiscord): zapretdiscord
+- [zapRETDiscORd](https://github.com/BufferRhymeCutter/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/PyromancerMooring/discordzapret): discordzapret
 - [youtubezapret](https://github.com/PyromancerMooring/youtubezapret): youtubezapret
 - [disCOrD-ZapREt](https://github.com/marblestyliststaple/disCOrD-ZapREt): disCOrD-ZapREt
