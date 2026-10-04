@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [tELegrAMZapReT](https://github.com/HelmsmanAmend97/tELegrAMZapReT): tELegrAMZapReT
 - [zapret-discord](https://github.com/HelmsmanAmend97/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/HelmsmanAmend97/zapRETDiscORd): zapRETDiscORd
-- [telegramzapret](https://github.com/Violetnyapruner/telegramzapret): telegramzapret
 - [DiscordObhod](https://github.com/Violetnyapruner/DiscordObhod): DiscordObhod
 - [yOUTubeZaprET](https://github.com/BufferRhymeCutter/yOUTubeZaprET): yOUTubeZaprET
 - [discordzapret](https://github.com/PyromancerMooring/discordzapret): discordzapret
