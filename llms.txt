@@ -4,15 +4,15 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/Marbleelengage/zapretdiscord): zapretdiscord
-- [telegramzapret](https://github.com/Marbleelengage/telegramzapret): telegramzapret
+- [youtubezapret](https://github.com/PyromancerMooring/youtubezapret): youtubezapret
 - [disCOrD-ZapREt](https://github.com/marblestyliststaple/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRET-YOutUBE](https://github.com/marblestyliststaple/zapRET-YOutUBE): zapRET-YOutUBE
 - [discordzapret](https://github.com/marblestyliststaple/discordzapret): discordzapret
 - [zapret-discord](https://github.com/fixsenioranvil/zapret-discord): zapret-discord
-- [yOUTubeZaprET](https://github.com/fixsenioranvil/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/fixsenioranvil/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/Cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaprettelegram](https://github.com/BattalionCuttlefish/zaprettelegram): zaprettelegram
+- [telegramzapret](https://github.com/CapitalJouninNail/telegramzapret): telegramzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/ThrushAtrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
 - [Obhod-Discord](https://github.com/mintgrubburn/Obhod-Discord): Obhod-Discord
