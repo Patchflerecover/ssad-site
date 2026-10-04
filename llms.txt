@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zaprET-DiSCOrd](https://github.com/PhantomFollowerLaud/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/PhantomFollowerLaud/discord-zapret): discord-zapret
-- [zapret-discord](https://github.com/fixsenioranvil/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/fixsenioranvil/zapRETDiscORd): zapRETDiscORd
 - [yOUTubeZaprET](https://github.com/fixsenioranvil/yOUTubeZaprET): yOUTubeZaprET
 - [zaprEt-TELEgraM](https://github.com/Cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
