@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/fountainpenguinjack/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/fountainpenguinjack/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapretdiscord](https://github.com/FollowerBreak/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
-- [discordzapret](https://github.com/SwarmWatchman/discordzapret): discordzapret
 - [zaprET-DiSCOrd](https://github.com/NebulaLevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
 - [Discord-Obhod](https://github.com/HoopoeWrench/Discord-Obhod): Discord-Obhod
