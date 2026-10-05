@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/prideleopardseize/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zapret-discord](https://github.com/cubeairmaster/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/cubeairmaster/zapRETDiscORd): zapRETDiscORd
@@ -19,7 +20,6 @@
 - [YoutubeObhod](https://github.com/zombieofficer/YoutubeObhod): YoutubeObhod
 - [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
 - [Discord-Obhod](https://github.com/pentagonshigenerate/Discord-Obhod): Discord-Obhod
-- [ObhodDiscord](https://github.com/nebulapliexterminate/ObhodDiscord): ObhodDiscord
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
 - [youTUbe-FIx](https://github.com/inertiaenspike27/youTUbe-FIx): youTUbe-FIx
 - [disCORD-uNBaN](https://github.com/highwayloopgive/disCORD-uNBaN): disCORD-uNBaN
