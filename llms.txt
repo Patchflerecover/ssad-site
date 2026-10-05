@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zaprEt-TELEgraM](https://github.com/cubeairmaster/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [discOrDZApreT](https://github.com/BayCabinSlide/discOrDZApreT): discOrDZApreT
-- [zapret-telegram](https://github.com/BayCabinSlide/zapret-telegram): zapret-telegram
 - [zapretdiscord](https://github.com/BayCabinSlide/zapretdiscord): zapretdiscord
 - [zaprettelegram](https://github.com/HazeDoctorIndex/zaprettelegram): zaprettelegram
 - [discord-zapret](https://github.com/HazeDoctorIndex/discord-zapret): discord-zapret
