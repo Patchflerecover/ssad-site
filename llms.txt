@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapret-discord](https://github.com/gravitybarberscoop/zapret-discord): zapret-discord
+- [zaprET-DiSCOrd](https://github.com/NebulaLevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/gravitybarberscoop/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/HoopoeWrench/Discord-Obhod): Discord-Obhod
