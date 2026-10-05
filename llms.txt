@@ -4,8 +4,8 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/FollowerBreak/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
+- [zapretdiscord](https://github.com/FollowerBreak/zapretdiscord): zapretdiscord
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCOrD-ZapREt](https://github.com/SwarmWatchman/disCOrD-ZapREt): disCOrD-ZapREt
