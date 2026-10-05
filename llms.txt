@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapret-discord](https://github.com/Tremordergrid/zapret-discord): zapret-discord
 - [tELegrAMZapReT](https://github.com/Tremordergrid/tELegrAMZapReT): tELegrAMZapReT
 - [discordzapret](https://github.com/soulgeomancerstride/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/soulgeomancerstride/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCOrD-ZapREt](https://github.com/soulgeomancerstride/disCOrD-ZapREt): disCOrD-ZapREt
-- [zaprET-DiSCOrd](https://github.com/gloryakatsukiblock/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/OrderMagistrate/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/OrderMagistrate/zapRETDiscORd): zapRETDiscORd
 - [zapret-telegram](https://github.com/mailrollerreflect/zapret-telegram): zapret-telegram
