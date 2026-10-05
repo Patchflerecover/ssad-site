@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/prideleopardseize/disCOrD-ZapREt): disCOrD-ZapREt
 - [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/prideleopardseize/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zapret-discord](https://github.com/cubeairmaster/zapret-discord): zapret-discord
@@ -11,7 +12,6 @@
 - [zaprEt-TELEgraM](https://github.com/cubeairmaster/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [discOrDZApreT](https://github.com/BayCabinSlide/discOrDZApreT): discOrDZApreT
 - [zaprettelegram](https://github.com/HazeDoctorIndex/zaprettelegram): zaprettelegram
-- [discord-zapret](https://github.com/HazeDoctorIndex/discord-zapret): discord-zapret
 - [tELegrAMZapReT](https://github.com/HelmsmanAmend97/tELegrAMZapReT): tELegrAMZapReT
 - [DiscordObhod](https://github.com/Violetnyapruner/DiscordObhod): DiscordObhod
 - [yOUTubeZaprET](https://github.com/BufferRhymeCutter/yOUTubeZaprET): yOUTubeZaprET
