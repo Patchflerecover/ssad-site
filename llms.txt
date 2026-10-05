@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/SwarmWatchman/discordzapret): discordzapret
 - [zapret-youtube](https://github.com/NebulaLevel89/zapret-youtube): zapret-youtube
 - [discord-zapret](https://github.com/NebulaLevel89/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/NebulaLevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
@@ -13,7 +14,6 @@
 - [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/prideleopardseize/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/cubeairmaster/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [discOrDZApreT](https://github.com/BayCabinSlide/discOrDZApreT): discOrDZApreT
 - [zaprettelegram](https://github.com/HazeDoctorIndex/zaprettelegram): zaprettelegram
 - [tELegrAMZapReT](https://github.com/HelmsmanAmend97/tELegrAMZapReT): tELegrAMZapReT
 - [DiscordObhod](https://github.com/Violetnyapruner/DiscordObhod): DiscordObhod
