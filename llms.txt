@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/NebulaLevel89/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/NebulaLevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/gravitybarberscoop/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/HoopoeWrench/Discord-Obhod): Discord-Obhod
-- [disCOrD-ZapREt](https://github.com/prideleopardseize/disCOrD-ZapREt): disCOrD-ZapREt
 - [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/prideleopardseize/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/cubeairmaster/zaprEt-TELEgraM): zaprEt-TELEgraM
