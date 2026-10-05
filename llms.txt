@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/gravitybarberscoop/zapRETDiscORd): zapRETDiscORd
-- [youtubezapret](https://github.com/HoopoeWrench/youtubezapret): youtubezapret
 - [Discord-Obhod](https://github.com/HoopoeWrench/Discord-Obhod): Discord-Obhod
 - [disCOrD-ZapREt](https://github.com/prideleopardseize/disCOrD-ZapREt): disCOrD-ZapREt
 - [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
