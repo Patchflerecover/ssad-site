@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zapRET-YOutUBE](https://github.com/soulgeomancerstride/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCOrD-ZapREt](https://github.com/soulgeomancerstride/disCOrD-ZapREt): disCOrD-ZapREt
-- [zapret-youtube](https://github.com/gloryakatsukiblock/zapret-youtube): zapret-youtube
 - [zaprET-DiSCOrd](https://github.com/gloryakatsukiblock/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/OrderMagistrate/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/OrderMagistrate/zapRETDiscORd): zapRETDiscORd
