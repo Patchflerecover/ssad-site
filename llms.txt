@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/OrderMagistrate/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/ThunderMaharaja/discordzapret): discordzapret
-- [zapretdiscord](https://github.com/ThunderMaharaja/zapretdiscord): zapretdiscord
 - [youtubezapret](https://github.com/ThunderMaharaja/youtubezapret): youtubezapret
 - [zapret-telegram](https://github.com/mailrollerreflect/zapret-telegram): zapret-telegram
 - [zaPRETtElegrAm](https://github.com/fountainpenguinjack/zaPRETtElegrAm): zaPRETtElegrAm
