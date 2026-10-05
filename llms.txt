@@ -4,13 +4,13 @@
 
 ## GitHub
 
+- [discord-zapret](https://github.com/gloryakatsukiblock/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/gloryakatsukiblock/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/OrderMagistrate/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/OrderMagistrate/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/ThunderMaharaja/discordzapret): discordzapret
 - [zapret-telegram](https://github.com/mailrollerreflect/zapret-telegram): zapret-telegram
 - [zaPRETtElegrAm](https://github.com/fountainpenguinjack/zaPRETtElegrAm): zaPRETtElegrAm
-- [disCOrD-ZapREt](https://github.com/fountainpenguinjack/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
