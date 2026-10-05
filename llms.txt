@@ -4,11 +4,11 @@
 
 ## GitHub
 
+- [zapretdiscord](https://github.com/mailrollerreflect/zapretdiscord): zapretdiscord
 - [zapret-telegram](https://github.com/mailrollerreflect/zapret-telegram): zapret-telegram
 - [discOrDZApreT](https://github.com/mailrollerreflect/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/fountainpenguinjack/zaPRETtElegrAm): zaPRETtElegrAm
 - [disCOrD-ZapREt](https://github.com/fountainpenguinjack/disCOrD-ZapREt): disCOrD-ZapREt
-- [zapretdiscord](https://github.com/FollowerBreak/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
