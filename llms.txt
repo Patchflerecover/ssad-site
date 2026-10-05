@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCOrD-ZapREt](https://github.com/SwarmWatchman/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/SwarmWatchman/discordzapret): discordzapret
-- [zapret-youtube](https://github.com/NebulaLevel89/zapret-youtube): zapret-youtube
 - [zaprET-DiSCOrd](https://github.com/NebulaLevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/gravitybarberscoop/zapRETDiscORd): zapRETDiscORd
