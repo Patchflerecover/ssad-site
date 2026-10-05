@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
 - [disCOrD-ZapREt](https://github.com/SwarmWatchman/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/SwarmWatchman/discordzapret): discordzapret
@@ -17,7 +18,6 @@
 - [zaprettelegram](https://github.com/HazeDoctorIndex/zaprettelegram): zaprettelegram
 - [tELegrAMZapReT](https://github.com/HelmsmanAmend97/tELegrAMZapReT): tELegrAMZapReT
 - [DiscordObhod](https://github.com/Violetnyapruner/DiscordObhod): DiscordObhod
-- [Obhod-Discord](https://github.com/mintgrubburn/Obhod-Discord): Obhod-Discord
 - [YoutubeObhod](https://github.com/zombieofficer/YoutubeObhod): YoutubeObhod
 - [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
