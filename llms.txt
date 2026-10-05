@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/mailrollerreflect/discOrDZApreT): discOrDZApreT
 - [zaPRETtElegrAm](https://github.com/fountainpenguinjack/zaPRETtElegrAm): zaPRETtElegrAm
-- [discordzapret](https://github.com/fountainpenguinjack/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/fountainpenguinjack/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapretdiscord](https://github.com/FollowerBreak/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
