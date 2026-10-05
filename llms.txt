@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/prideleopardseize/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zapret-discord](https://github.com/cubeairmaster/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/cubeairmaster/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/cubeairmaster/zaprEt-TELEgraM): zaprEt-TELEgraM
@@ -14,7 +15,6 @@
 - [DiscordObhod](https://github.com/Violetnyapruner/DiscordObhod): DiscordObhod
 - [yOUTubeZaprET](https://github.com/BufferRhymeCutter/yOUTubeZaprET): yOUTubeZaprET
 - [zapRET-YOutUBE](https://github.com/marblestyliststaple/zapRET-YOutUBE): zapRET-YOutUBE
-- [zaPRet-DIScORD-yOUTUbe](https://github.com/ThrushAtrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [Obhod-Discord](https://github.com/mintgrubburn/Obhod-Discord): Obhod-Discord
 - [YoutubeObhod](https://github.com/zombieofficer/YoutubeObhod): YoutubeObhod
 - [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
