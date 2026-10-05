@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapret-discord](https://github.com/OrderMagistrate/zapret-discord): zapret-discord
+- [zaprET-DiSCOrd](https://github.com/gloryakatsukiblock/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/OrderMagistrate/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/OrderMagistrate/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/ThunderMaharaja/discordzapret): discordzapret
