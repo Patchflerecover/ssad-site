@@ -4,11 +4,11 @@
 
 ## GitHub
 
-- [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
+- [disCOrD-ZapREt](https://github.com/fountainpenguinjack/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapretdiscord](https://github.com/FollowerBreak/zapretdiscord): zapretdiscord
+- [telegramzapret](https://github.com/FollowerBreak/telegramzapret): telegramzapret
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [zapRET-YOutUBE](https://github.com/SwarmWatchman/zapRET-YOutUBE): zapRET-YOutUBE
-- [disCOrD-ZapREt](https://github.com/SwarmWatchman/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/SwarmWatchman/discordzapret): discordzapret
 - [zaprET-DiSCOrd](https://github.com/NebulaLevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
@@ -32,7 +32,7 @@
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
 - [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
-- [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtUbEObhodDPI](https://github.com/attoaeromancerfix/youtUbEObhodDPI): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [Obhod-Youtube](https://github.com/restraintvoiceboost/Obhod-Youtube): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-telegram-discord](https://github.com/vectorpatron/zapret-telegram-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-youtube-discord](https://github.com/originhokagedrag/zapret-youtube-discord): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
