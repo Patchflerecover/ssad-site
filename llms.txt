@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [zaPRETtElegrAm](https://github.com/ThunderCore66/zaPRETtElegrAm): zaPRETtElegrAm
 - [zaprET-DiSCOrd](https://github.com/GlazeDentist/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [discord-zapret](https://github.com/GlazeDentist/discord-zapret): discord-zapret
-- [zaprettelegram](https://github.com/GlazeDentist/zaprettelegram): zaprettelegram
 - [zapRETDiscORd](https://github.com/Tremordergrid/zapRETDiscORd): zapRETDiscORd
 - [tELegrAMZapReT](https://github.com/Tremordergrid/tELegrAMZapReT): tELegrAMZapReT
 - [discordzapret](https://github.com/soulgeomancerstride/discordzapret): discordzapret
