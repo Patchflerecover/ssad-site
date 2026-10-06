@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [zapret-youtube](https://github.com/Cylinderwithsense/zapret-youtube): zapret-youtube
 - [yOUTubeZaprET](https://github.com/OrdinaryEntrance/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/OrdinaryEntrance/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/OrdinaryEntrance/zapRETDiscORd): zapRETDiscORd
@@ -13,7 +14,6 @@
 - [zaprEt-TELEgraM](https://github.com/Cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/ThunderCore66/zaPRETtElegrAm): zaPRETtElegrAm
 - [tELegrAMZapReT](https://github.com/Tremordergrid/tELegrAMZapReT): tELegrAMZapReT
-- [zapRET-YOutUBE](https://github.com/soulgeomancerstride/zapRET-YOutUBE): zapRET-YOutUBE
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [Discord-Obhod](https://github.com/HoopoeWrench/Discord-Obhod): Discord-Obhod
 - [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
