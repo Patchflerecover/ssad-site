@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [discordzapret](https://github.com/cascadesupportjerk/discordzapret): discordzapret
 - [TelegramObhod](https://github.com/cascadesupportjerk/TelegramObhod): TelegramObhod
 - [zapRETDiscORd](https://github.com/beamqueencoupling/zapRETDiscORd): zapRETDiscORd
 - [tELegrAMZapReT](https://github.com/beamqueencoupling/tELegrAMZapReT): tELegrAMZapReT
-- [discOrDZApreT](https://github.com/plumewarblercompact/discOrDZApreT): discOrDZApreT
 - [disCOrD-ZapREt](https://github.com/bansheeemupierce27/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRET-YOutUBE](https://github.com/bansheeemupierce27/zapRET-YOutUBE): zapRET-YOutUBE
 - [zaprET-DiSCOrd](https://github.com/Cylinderwithsense/zaprET-DiSCOrd): zaprET-DiSCOrd
