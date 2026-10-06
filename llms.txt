@@ -4,9 +4,9 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/bansheeemupierce27/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRET-YOutUBE](https://github.com/bansheeemupierce27/zapRET-YOutUBE): zapRET-YOutUBE
 - [zaprET-DiSCOrd](https://github.com/Cylinderwithsense/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-zapret](https://github.com/Cylinderwithsense/discord-zapret): discord-zapret
 - [yOUTubeZaprET](https://github.com/OrdinaryEntrance/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/OrdinaryEntrance/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Purplepigrasp/discOrDZApreT): discOrDZApreT
