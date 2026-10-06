@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [TelegramObhod](https://github.com/cascadesupportjerk/TelegramObhod): TelegramObhod
 - [zapRETDiscORd](https://github.com/beamqueencoupling/zapRETDiscORd): zapRETDiscORd
 - [tELegrAMZapReT](https://github.com/beamqueencoupling/tELegrAMZapReT): tELegrAMZapReT
 - [discOrDZApreT](https://github.com/plumewarblercompact/discOrDZApreT): discOrDZApreT
@@ -27,7 +28,6 @@
 - [yoUTUBe-unBaN](https://github.com/partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
 - [obHODTelegRAM](https://github.com/rammaharajajam/obHODTelegRAM): obHODTelegRAM
 - [oBHOdyouTUBE](https://github.com/destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
-- [teleGRAmobhOD](https://github.com/postbreathfringe/teleGRAmobhOD): teleGRAmobhOD
 - [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
 - [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
 - [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
