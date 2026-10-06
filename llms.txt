@@ -4,8 +4,8 @@
 
 ## GitHub
 
+- [discOrDZApreT](https://github.com/Purplepigrasp/discOrDZApreT): discOrDZApreT
 - [youtubezapret](https://github.com/Purplepigrasp/youtubezapret): youtubezapret
-- [discordzapret](https://github.com/MailBoltGravity10/discordzapret): discordzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/MailBoltGravity10/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [disCOrD-ZapREt](https://github.com/MailBoltGravity10/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/TempestTaxi49/zaprET-DiSCOrd): zaprET-DiSCOrd
