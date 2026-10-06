@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [zapretdiscord](https://github.com/Purplepigrasp/zapretdiscord): zapretdiscord
+- [zapRETDiscORd](https://github.com/OrdinaryEntrance/zapRETDiscORd): zapRETDiscORd
 - [discOrDZApreT](https://github.com/Purplepigrasp/discOrDZApreT): discOrDZApreT
 - [youtubezapret](https://github.com/Purplepigrasp/youtubezapret): youtubezapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/MailBoltGravity10/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
