@@ -4,10 +4,10 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/ThunderCore66/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/ThunderCore66/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/ThunderCore66/zaPRETtElegrAm): zaPRETtElegrAm
 - [zaprET-DiSCOrd](https://github.com/GlazeDentist/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-zapret](https://github.com/GlazeDentist/discord-zapret): discord-zapret
 - [zapRETDiscORd](https://github.com/Tremordergrid/zapRETDiscORd): zapRETDiscORd
 - [tELegrAMZapReT](https://github.com/Tremordergrid/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/soulgeomancerstride/zapRET-YOutUBE): zapRET-YOutUBE
