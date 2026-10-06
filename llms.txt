@@ -4,12 +4,12 @@
 
 ## GitHub
 
+- [zapRETDiscORd](https://github.com/Cacherispanner/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/Cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [disCOrD-ZapREt](https://github.com/ThunderCore66/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/ThunderCore66/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/ThunderCore66/zaPRETtElegrAm): zaPRETtElegrAm
 - [zaprET-DiSCOrd](https://github.com/GlazeDentist/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [zapRETDiscORd](https://github.com/Tremordergrid/zapRETDiscORd): zapRETDiscORd
 - [tELegrAMZapReT](https://github.com/Tremordergrid/tELegrAMZapReT): tELegrAMZapReT
 - [zapRET-YOutUBE](https://github.com/soulgeomancerstride/zapRET-YOutUBE): zapRET-YOutUBE
 - [yOUTubeZaprET](https://github.com/OrderMagistrate/yOUTubeZaprET): yOUTubeZaprET
