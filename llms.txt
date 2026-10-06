@@ -4,6 +4,7 @@
 
 ## GitHub
 
+- [telegramzapret](https://github.com/plumewarblercompact/telegramzapret): telegramzapret
 - [discOrDZApreT](https://github.com/plumewarblercompact/discOrDZApreT): discOrDZApreT
 - [disCOrD-ZapREt](https://github.com/bansheeemupierce27/disCOrD-ZapREt): disCOrD-ZapREt
 - [zapRET-YOutUBE](https://github.com/bansheeemupierce27/zapRET-YOutUBE): zapRET-YOutUBE
@@ -13,7 +14,6 @@
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/MailBoltGravity10/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
 - [zaprEt-TELEgraM](https://github.com/Cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zaPRETtElegrAm](https://github.com/ThunderCore66/zaPRETtElegrAm): zaPRETtElegrAm
-- [tELegrAMZapReT](https://github.com/Tremordergrid/tELegrAMZapReT): tELegrAMZapReT
 - [Obhod-Discord](https://github.com/FollowerBreak/Obhod-Discord): Obhod-Discord
 - [Discord-Obhod](https://github.com/HoopoeWrench/Discord-Obhod): Discord-Obhod
 - [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
