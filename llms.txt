@@ -4,7 +4,7 @@
 
 ## GitHub
 
-- [discord-zapret](https://github.com/TempestTaxi49/discord-zapret): discord-zapret
+- [disCOrD-ZapREt](https://github.com/MailBoltGravity10/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/TempestTaxi49/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapRETDiscORd](https://github.com/Cacherispanner/zapRETDiscORd): zapRETDiscORd
 - [zaprEt-TELEgraM](https://github.com/Cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
