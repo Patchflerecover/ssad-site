@@ -4,42 +4,1071 @@
 
 ## GitHub
 
+- [disCOrD-ZapREt](https://github.com/albatrossduct/disCOrD-ZapREt): disCOrD-ZapREt
+- [telegramzapret](https://github.com/albatrossduct/telegramzapret): telegramzapret
+- [zaprET-DiSCOrd](https://github.com/albatrossduct/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discord-unban](https://github.com/alchemistjudge/discord-unban): discord-unban
+- [youtube-fix](https://github.com/alchemistjudge/youtube-fix): youtube-fix
+- [zaprET-DiSCOrd](https://github.com/alchemistjudge/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [DiscordObhod](https://github.com/alchemistpillage/DiscordObhod): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/alchemistpillage/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [TelegramObhod](https://github.com/alchemistpillage/TelegramObhod): Актуальная версия с улучшенной поддержкой Telegram. Надежнее, быстрее, стабильнее
+- [YoutubeObhod](https://github.com/alchemistpillage/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapretdiscord](https://github.com/alchemistpillage/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [Discord-Obhod](https://github.com/aquaraikageportal/Discord-Obhod): Обновлённая версия с поддержкой работы Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [ObhodTelegram](https://github.com/aquaraikageportal/ObhodTelegram): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [Youtube-Obhod](https://github.com/aquaraikageportal/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtube-unban](https://github.com/aquaraikageportal/youtube-unban): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/aquaraikageportal/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [discord-unban-zapret](https://github.com/archivecuckoomall/discord-unban-zapret): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/archivecuckoomall/telegram-unban-zapret): Обновлённая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/archivecuckoomall/youtube-unban-zapret): Актуальная версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/archivecuckoomall/zapret-discord-fix): Новая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/archivecuckoomall/zapret-telegram-discord): Новая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [discord-zapret](https://github.com/arcticicommand86/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/arcticicommand86/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/arcticicommand86/zapret-youtube): zapret-youtube
+- [discord-zapret](https://github.com/armorerunderpass28/discord-zapret): Новая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/armorerunderpass28/discordzapret): Актуальная версия с поддержкой обхода Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/armorerunderpass28/zapret-discord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/armorerunderpass28/zapret-telegram): Актуальная версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/armorerunderpass28/zapret-youtube): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/assemblydefine/discordzapret): Актуальная версия с улучшенной поддержкой Discord. Стабильнее, быстрее, надежнее
+- [obhoDDiscOrd](https://github.com/atomlustrike35/obhoDDiscOrd): Актуальная версия с поддержкой голоса Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [zaprET-DiSCOrd](https://github.com/atomlustrike35/zaprET-DiSCOrd): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [diScoRD-yoUTUBe-fIX](https://github.com/attoaeromancerfix/diScoRD-yoUTUBe-fIX): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telEGrAm-UnbaN](https://github.com/attoaeromancerfix/telEGrAm-UnbaN): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [teLEGramoBHODdPI](https://github.com/attoaeromancerfix/teLEGramoBHODdPI): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtUbEObhodDPI](https://github.com/attoaeromancerfix/youtUbEObhodDPI): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/attoaeromancerfix/zaPRet-DIScORD-yOUTUbe): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [Obhod-Discord](https://github.com/attofreighteramplify/Obhod-Discord): Obhod-Discord
+- [zaPRETtElegrAm](https://github.com/attofreighteramplify/zaPRETtElegrAm): zaPRETtElegrAm
+- [discord-youtube-zapret](https://github.com/attorneyoscillator88/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/attorneyoscillator88/telegram-zapret): Обновлённая версия с поддержкой Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/attorneyoscillator88/youtube-zapret): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/attorneyoscillator88/zapret-discord-youtube): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/attorneyoscillator88/zapret-youtube-discord): Новая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
+- [disCORD-uNBaN](https://github.com/auraroguealternator/disCORD-uNBaN): Новая версия с поддержкой голоса Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [disCOrD-ZapREt](https://github.com/auraroguealternator/disCOrD-ZapREt): Новая версия с поддержкой Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [obhoDDiscOrd](https://github.com/auraroguealternator/obhoDDiscOrd): Актуальная версия для Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [oBHOdyouTUBE](https://github.com/auraroguealternator/oBHOdyouTUBE): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [zaprET-DiSCOrd](https://github.com/auraroguealternator/zaprET-DiSCOrd): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [disCORdobHOD](https://github.com/autocratdepict/disCORdobHOD): disCORdobHOD
+- [TelegramObhod](https://github.com/autocratdepict/TelegramObhod): TelegramObhod
+- [zapretdiscord](https://github.com/autocratdepict/zapretdiscord): zapretdiscord
+- [tELegrAMZapReT](https://github.com/avalanchestory/tELegrAMZapReT): tELegrAMZapReT
+- [zapret-discord](https://github.com/avalanchestory/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/avalanchestory/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/axisnearpiazza85/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/axisnearpiazza85/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/axisnearpiazza85/YoutubeObhod): YoutubeObhod
+- [zapretdiscord](https://github.com/axisnearpiazza85/zapretdiscord): zapretdiscord
+- [DiscordObhodDPI](https://github.com/axolotlmemorialize/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/axolotlmemorialize/obhOd-diSCOrd): obhOd-diSCOrd
+- [youtube-unban](https://github.com/axolotlmemorialize/youtube-unban): youtube-unban
+- [discord-unban](https://github.com/azurebyreflect/discord-unban): Обновлённая версия для Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/azurebyreflect/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [ObhodDiscord](https://github.com/azurebyreflect/ObhodDiscord): Новая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [ObhodYoutube](https://github.com/azurebyreflect/ObhodYoutube): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-discord](https://github.com/azurebyreflect/zapret-discord): Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+- [telEGrAm-UnbaN](https://github.com/badgeoceanflex/telEGrAm-UnbaN): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/badgeoceanflex/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/bailiffrectifier/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/bailiffrectifier/discORdobHodDPI): discORdobHodDPI
+- [Youtube-Obhod](https://github.com/bailiffrectifier/Youtube-Obhod): Youtube-Obhod
+- [disCOrD-ZapREt](https://github.com/bansheeemupierce27/disCOrD-ZapREt): disCOrD-ZapREt
+- [zapRET-YOutUBE](https://github.com/bansheeemupierce27/zapRET-YOutUBE): zapRET-YOutUBE
+- [diSCord-OBhod](https://github.com/barbcorporal/diSCord-OBhod): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [obHODTelegRAM](https://github.com/barbcorporal/obHODTelegRAM): Новая версия с улучшенной поддержкой Telegram. Быстрее, стабильнее, надежнее
+- [youTubE-oBHOd](https://github.com/barbcorporal/youTubE-oBHOd): Актуальная версия для YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [yoUTUBe-unBaN](https://github.com/barbcorporal/yoUTUBe-unBaN): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/barbcorporal/yOUTubeZaprET): Актуальная версия с поддержкой работы YouTube. Надежнее, быстрее, стабильнее
+- [zapret-discord](https://github.com/barbspearpassage/zapret-discord): Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [discord-unban](https://github.com/baronworship/discord-unban): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/baronworship/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/baronworship/discordzapret): Актуальная версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/baronworship/zapret-discord): Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/baronworship/zapretdiscord): Обновлённая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/basiliskatrage/discord-zapret): discord-zapret
+- [Obhod-Discord](https://github.com/basiliskatrage/Obhod-Discord): Obhod-Discord
+- [zaprettelegram](https://github.com/basiliskatrage/zaprettelegram): zaprettelegram
+- [zaprET-DiSCOrd](https://github.com/battalioncuttlefish/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/battalioncuttlefish/zaprettelegram): zaprettelegram
+- [discOrDZApreT](https://github.com/baycabinslide/discOrDZApreT): discOrDZApreT
+- [zapret-telegram](https://github.com/baycabinslide/zapret-telegram): zapret-telegram
+- [zapretdiscord](https://github.com/baycabinslide/zapretdiscord): zapretdiscord
+- [zapret-discord](https://github.com/bayshahswell/zapret-discord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [tELegrAMZapReT](https://github.com/beamqueencoupling/tELegrAMZapReT): tELegrAMZapReT
+- [zapRETDiscORd](https://github.com/beamqueencoupling/zapRETDiscORd): zapRETDiscORd
+- [discordzapret](https://github.com/beigevictorclimb/discordzapret): discordzapret
+- [discordzapret](https://github.com/betaglistaple/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [discord-unban](https://github.com/blackgrotalk/discord-unban): discord-unban
+- [Obhod-Telegram](https://github.com/blackgrotalk/Obhod-Telegram): Obhod-Telegram
+- [zaprET-DiSCOrd](https://github.com/blackgrotalk/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCORdobHOD](https://github.com/blacksmithrepel/disCORdobHOD): disCORdobHOD
+- [TelegramObhod](https://github.com/blacksmithrepel/TelegramObhod): TelegramObhod
+- [zapretdiscord](https://github.com/blacksmithrepel/zapretdiscord): zapretdiscord
+- [youtubezapret](https://github.com/blackverse26/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/blackverse26/zapretdiscord): zapretdiscord
+- [discord-unban](https://github.com/blockadeeuclip/discord-unban): discord-unban
+- [youtube-fix](https://github.com/blockadeeuclip/youtube-fix): youtube-fix
+- [zaprET-DiSCOrd](https://github.com/blockadeeuclip/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCORD-uNBaN](https://github.com/bodyleaderrevere/disCORD-uNBaN): disCORD-uNBaN
+- [discOrDZApreT](https://github.com/bottommanufacturing/discOrDZApreT): discOrDZApreT
+- [zapret-telegram](https://github.com/bottommanufacturing/zapret-telegram): zapret-telegram
+- [zapretdiscord](https://github.com/bottommanufacturing/zapretdiscord): zapretdiscord
+- [DiscordObhodDPI](https://github.com/boulderbakerunveil/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/boulderbakerunveil/obhOd-diSCOrd): obhOd-diSCOrd
+- [youTubE-oBHOd](https://github.com/boulderbakerunveil/youTubE-oBHOd): youTubE-oBHOd
+- [yoUTUBe-unBaN](https://github.com/boulderbakerunveil/yoUTUBe-unBaN): yoUTUBe-unBaN
+- [DiscordObhodDPI](https://github.com/boulderlightningshop/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/boulderlightningshop/obhOd-diSCOrd): obhOd-diSCOrd
+- [obhOD-teleGRam](https://github.com/boulderlightningshop/obhOD-teleGRam): obhOD-teleGRam
+- [discordzapret](https://github.com/boundaryoftrough/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/boundaryoftrough/YoutubeObhod): YoutubeObhod
+- [discord-unban](https://github.com/brakemancitadel/discord-unban): discord-unban
+- [youtube-fix](https://github.com/brakemancitadel/youtube-fix): youtube-fix
+- [zaprET-DiSCOrd](https://github.com/brakemancitadel/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [Obhod-Discord](https://github.com/brandguideharbor/Obhod-Discord): Обновлённая версия с поддержкой Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [Telegram-Obhod](https://github.com/brandguideharbor/Telegram-Obhod): Обновлённая версия с поддержкой Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegramzapret](https://github.com/brandguideharbor/telegramzapret): Актуальная версия с поддержкой Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/brandguideharbor/youtube-fix): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, быстрее, надежнее
+- [zapret-youtube](https://github.com/brandguideharbor/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discOrDZApreT](https://github.com/bravestudentvent91/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/bravestudentvent91/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/bravestudentvent91/zapRETDiscORd): zapRETDiscORd
+- [Discord-Obhod](https://github.com/brickoubridge/Discord-Obhod): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [Youtube-Obhod](https://github.com/brickoubridge/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [youtube-unban](https://github.com/brickoubridge/youtube-unban): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [discord-zapret](https://github.com/brickswimmer/discord-zapret): discord-zapret
+- [yoUTUbeoBhod](https://github.com/brickswimmer/yoUTUbeoBhod): yoUTUbeoBhod
+- [zapret-discord](https://github.com/brickswimmer/zapret-discord): zapret-discord
+- [yOUTubeZaprET](https://github.com/bufferrhymecutter/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/bufferrhymecutter/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/bufferrhymecutter/zapRETDiscORd): zapRETDiscORd
+- [zapret-discord](https://github.com/cacherispanner/zapret-discord): zapret-discord
+- [zaprEt-TELEgraM](https://github.com/cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/cacherispanner/zapRETDiscORd): zapRETDiscORd
+- [discOrDZApreT](https://github.com/capitaljouninnail/discOrDZApreT): discOrDZApreT
+- [telegramzapret](https://github.com/capitaljouninnail/telegramzapret): telegramzapret
+- [zapretdiscord](https://github.com/capitaljouninnail/zapretdiscord): zapretdiscord
+- [discord-zapret](https://github.com/capturedream/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/capturedream/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/capturedream/zaprettelegram): zaprettelegram
+- [discord-zapret](https://github.com/cashieradvance/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/cashieradvance/zapret-discord): zapret-discord
+- [zaprettelegram](https://github.com/cashieradvance/zaprettelegram): zaprettelegram
+- [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
+- [discord-zapret](https://github.com/chainrecover/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/chainrecover/zapret-discord): zapret-discord
+- [zaprettelegram](https://github.com/chainrecover/zaprettelegram): zaprettelegram
+- [yOUTubeZaprET](https://github.com/chaoskraworkshop/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/chaoskraworkshop/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/chaoskraworkshop/zapRETDiscORd): zapRETDiscORd
+- [Obhod-Discord](https://github.com/chartcontrollerlimit/Obhod-Discord): Обновлённая версия с поддержкой Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [Telegram-Obhod](https://github.com/chartcontrollerlimit/Telegram-Obhod): Обновлённая версия для Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegramzapret](https://github.com/chartcontrollerlimit/telegramzapret): Актуальная версия для Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/chartcontrollerlimit/youtube-fix): Актуальная версия с поддержкой работы YouTube. Стабильнее, быстрее, надежнее
+- [zapret-youtube](https://github.com/chartcontrollerlimit/zapret-youtube): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, надежнее, быстрее
+- [discord-unban](https://github.com/cloudsaboteur/discord-unban): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/cloudsaboteur/discord-zapret): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/cloudsaboteur/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/cloudsaboteur/zapret-discord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/cloudsaboteur/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/coastquailpleat/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/coastquailpleat/zapret-discord): zapret-discord
+- [tELegrAMZapReT](https://github.com/coatlakekink/tELegrAMZapReT): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [youTUbe-FIx](https://github.com/coatlakekink/youTUbe-FIx): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [yoUTUBe-unBaN](https://github.com/coatlakekink/yoUTUBe-unBaN): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/coatlakekink/yOUTubeZaprET): Актуальная версия с улучшенной поддержкой YouTube. Надежнее, быстрее, стабильнее
+- [zapRET-YOutUBE](https://github.com/coatlakekink/zapRET-YOutUBE): Актуальная версия с поддержкой YouTube в текущих условиях. Надежнее, стабильнее, быстрее
+- [DiscordObhodDPI](https://github.com/colorsprawncontinue/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/colorsprawncontinue/obhOd-diSCOrd): obhOd-diSCOrd
+- [youTUbe-FIx](https://github.com/colorsprawncontinue/youTUbe-FIx): youTUbe-FIx
+- [discORdobHodDPI](https://github.com/colossusduke80/discORdobHodDPI): discORdobHodDPI
+- [tELegrAMZapReT](https://github.com/colossusduke80/tELegrAMZapReT): tELegrAMZapReT
+- [zapRETDiscORd](https://github.com/colossusduke80/zapRETDiscORd): zapRETDiscORd
+- [disCOrD-ZapREt](https://github.com/commercialdominate/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/commercialdominate/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/commercialdominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [Discord-Obhod](https://github.com/companyairnurse/Discord-Obhod): Обновлённая версия с поддержкой работы Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [ObhodTelegram](https://github.com/companyairnurse/ObhodTelegram): Новая версия с поддержкой работы Telegram. Стабильнее, быстрее, надежнее
+- [Youtube-Obhod](https://github.com/companyairnurse/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtube-unban](https://github.com/companyairnurse/youtube-unban): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/companyairnurse/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [discordzapret](https://github.com/conesailorshroud/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/conesailorshroud/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapretdiscord](https://github.com/conesailorshroud/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/conquerorclimber41/discordzapret): discordzapret
+- [telegram-unban](https://github.com/conquerorclimber41/telegram-unban): telegram-unban
+- [zapretdiscord](https://github.com/conquerorclimber41/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/consciousnesstoucan/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/consciousnesstoucan/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapretdiscord](https://github.com/consciousnesstoucan/zapretdiscord): zapretdiscord
+- [diSCord-OBhod](https://github.com/conuresubway/diSCord-OBhod): diSCord-OBhod
+- [Obhod-Discord](https://github.com/conuresubway/Obhod-Discord): Obhod-Discord
+- [youtubezapret](https://github.com/conuresubway/youtubezapret): youtubezapret
+- [discord-zapret](https://github.com/cooperregenerate/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/cooperregenerate/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/cooperregenerate/zapret-youtube): zapret-youtube
+- [discordzapret](https://github.com/cosmicbursartuck/discordzapret): discordzapret
+- [youtubezapret](https://github.com/cosmicbursartuck/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/cosmicbursartuck/zapretdiscord): zapretdiscord
+- [ObhodTelegram](https://github.com/courticepincers/ObhodTelegram): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [discord-zapret](https://github.com/courtwalkerrestore/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/courtwalkerrestore/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/courtwalkerrestore/zapret-youtube): zapret-youtube
+- [yoUTUbeoBhod](https://github.com/cpujoninpalace/yoUTUbeoBhod): yoUTUbeoBhod
+- [zapret-discord](https://github.com/cpujoninpalace/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/cpujoninpalace/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
+- [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
+- [zapret-discord](https://github.com/cubeairmaster/zapret-discord): zapret-discord
+- [zaprEt-TELEgraM](https://github.com/cubeairmaster/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/cubeairmaster/zapRETDiscORd): zapRETDiscORd
+- [disCORdobHOD](https://github.com/cyberphodefeat/disCORdobHOD): disCORdobHOD
+- [TelegramObhod](https://github.com/cyberphodefeat/TelegramObhod): TelegramObhod
+- [zapretdiscord](https://github.com/cyberphodefeat/zapretdiscord): zapretdiscord
+- [DiscordObhod](https://github.com/cyclonescreenminaret/DiscordObhod): Новая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/cyclonescreenminaret/discordzapret): Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [TelegramObhod](https://github.com/cyclonescreenminaret/TelegramObhod): Актуальная версия с поддержкой работы Telegram. Надежнее, быстрее, стабильнее
+- [YoutubeObhod](https://github.com/cyclonescreenminaret/YoutubeObhod): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapretdiscord](https://github.com/cyclonescreenminaret/zapretdiscord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-discord](https://github.com/cyclopsaewar7/zapret-discord): zapret-discord
+- [zaprEt-TELEgraM](https://github.com/cyclopsaewar7/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/cyclopsaewar7/zapRETDiscORd): zapRETDiscORd
+- [discord-zapret](https://github.com/cylinderwithsense/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/cylinderwithsense/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/cylinderwithsense/zapret-youtube): zapret-youtube
+- [disCOrD-ZapREt](https://github.com/daemonofmodify/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/daemonofmodify/discordzapret): discordzapret
+- [zaPRETtElegrAm](https://github.com/daemonofmodify/zaPRETtElegrAm): zaPRETtElegrAm
+- [diSCord-OBhod](https://github.com/deltalieutenant/diSCord-OBhod): Новая версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [obHODTelegRAM](https://github.com/deltalieutenant/obHODTelegRAM): Новая версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [youTubE-oBHOd](https://github.com/deltalieutenant/youTubE-oBHOd): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [yoUTUBe-unBaN](https://github.com/deltalieutenant/yoUTUBe-unBaN): Обновлённая версия с улучшенной поддержкой YouTube. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/deltalieutenant/yOUTubeZaprET): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Надежнее, быстрее, стабильнее
+- [DiscordObhodDPI](https://github.com/delugesmokebungalow/DiscordObhodDPI): Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [Obhod-Telegram](https://github.com/delugesmokebungalow/Obhod-Telegram): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [Obhod-Youtube](https://github.com/delugesmokebungalow/Obhod-Youtube): Новая версия с поддержкой обхода YouTube. Быстрее, надежнее, стабильнее
+- [zapret-telegram](https://github.com/delugesmokebungalow/zapret-telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/delugesmokebungalow/zaprettelegram): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-unban](https://github.com/desertmillerestimate/discord-unban): discord-unban
+- [discord-zapret](https://github.com/desertmillerestimate/discord-zapret): discord-zapret
+- [ObhodYoutube](https://github.com/desertmillerestimate/ObhodYoutube): ObhodYoutube
+- [obhoDDiscOrd](https://github.com/destroyertrainterest/obhoDDiscOrd): obhoDDiscOrd
+- [oBHOdyouTUBE](https://github.com/destroyertrainterest/oBHOdyouTUBE): oBHOdyouTUBE
+- [zaprET-DiSCOrd](https://github.com/destroyertrainterest/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCOrD-ZapREt](https://github.com/diameterrigazebo/disCOrD-ZapREt): disCOrD-ZapREt
+- [obhoDDiscOrd](https://github.com/diameterrigazebo/obhoDDiscOrd): obhoDDiscOrd
+- [youtubezapret](https://github.com/diameterrigazebo/youtubezapret): youtubezapret
+- [zaprET-DiSCOrd](https://github.com/diameterrigazebo/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [telegramzapret](https://github.com/diamondcolonelcode/telegramzapret): Актуальная версия с улучшенной поддержкой Telegram. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/diamondcolonelcode/youtube-fix): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/diamondcolonelcode/youtube-unban): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/diamondcolonelcode/youtubezapret): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/diamondcolonelcode/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-youtube-zapret](https://github.com/diskwavecultivate/discord-youtube-zapret): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/diskwavecultivate/telegram-zapret): Обновлённая версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/diskwavecultivate/youtube-zapret): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/diskwavecultivate/zapret-discord-youtube): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/diskwavecultivate/zapret-youtube-discord): Новая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [Discord-Obhod](https://github.com/divineresteem/Discord-Obhod): Discord-Obhod
+- [Obhod-Discord](https://github.com/divineresteem/Obhod-Discord): Obhod-Discord
+- [youtubezapret](https://github.com/divineresteem/youtubezapret): youtubezapret
+- [discord-unban-zapret](https://github.com/domepoemtend/discord-unban-zapret): Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/domepoemtend/telegram-unban-zapret): Обновлённая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/domepoemtend/youtube-unban-zapret): Актуальная версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/domepoemtend/zapret-discord-fix): Новая версия под Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/domepoemtend/zapret-telegram-discord): Новая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [Obhod-Discord](https://github.com/drakevendorladle/Obhod-Discord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [Telegram-Obhod](https://github.com/drakevendorladle/Telegram-Obhod): Обновлённая версия с поддержкой работы Telegram. Надежнее, быстрее, стабильнее
+- [telegramzapret](https://github.com/drakevendorladle/telegramzapret): Актуальная версия с поддержкой обхода Telegram. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/drakevendorladle/youtube-fix): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-youtube](https://github.com/drakevendorladle/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [disCOrD-ZapREt](https://github.com/dreamsiplaza/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/dreamsiplaza/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-telegram](https://github.com/dreamsiplaza/zapret-telegram): zapret-telegram
+- [disCOrD-ZapREt](https://github.com/drifttotell41/disCOrD-ZapREt): disCOrD-ZapREt
+- [telegramzapret](https://github.com/drifttotell41/telegramzapret): telegramzapret
+- [zaprET-DiSCOrd](https://github.com/drifttotell41/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discordzapret](https://github.com/duskkishroud/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/duskkishroud/zapretdiscord): zapretdiscord
+- [zaPRETtElegrAm](https://github.com/duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
+- [yOUTubeZaprET](https://github.com/echoillusionistcurl/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/echoillusionistcurl/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/echoillusionistcurl/zapRETDiscORd): zapRETDiscORd
+- [discordzapret](https://github.com/exadreagitate/discordzapret): discordzapret
+- [youtubezapret](https://github.com/exadreagitate/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/exadreagitate/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/expertcoupling/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/expertcoupling/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/expertcoupling/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [discord-youtube-fix](https://github.com/exteriormidgepierce/discord-youtube-fix): Новая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/exteriormidgepierce/telegram-unban): Обновлённая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/exteriormidgepierce/zapret-telegram): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/exteriormidgepierce/zaprettelegram): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [discOrDZApreT](https://github.com/farmerpinpoint/discOrDZApreT): Новая версия с поддержкой Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [zaprET-DiSCOrd](https://github.com/farmerpinpoint/zaprET-DiSCOrd): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapRETDiscORd](https://github.com/farmerpinpoint/zapRETDiscORd): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discOrDZApreT](https://github.com/fieldwizardenergy/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/fieldwizardenergy/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/fieldwizardenergy/zapRETDiscORd): zapRETDiscORd
+- [diScoRD-yoUTUBe-fIX](https://github.com/fiercegrosbeakjoist/diScoRD-yoUTUBe-fIX): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Быстрее, стабильнее, надежнее
+- [telEGrAm-UnbaN](https://github.com/fiercegrosbeakjoist/telEGrAm-UnbaN): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/fiercegrosbeakjoist/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprEt-TELEgraM](https://github.com/fiercegrosbeakjoist/zaprEt-TELEgraM): Новая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaPRETtElegrAm](https://github.com/fiercegrosbeakjoist/zaPRETtElegrAm): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [discord-youtube-zapret](https://github.com/figureterrapinruffle/discord-youtube-zapret): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/figureterrapinruffle/telegram-zapret): Обновлённая версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/figureterrapinruffle/youtube-zapret): Актуальная версия с поддержкой работы YouTube. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/figureterrapinruffle/zapret-discord-youtube): Обновлённая версия с поддержкой Discord · YouTube · Telegram. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/figureterrapinruffle/zapret-youtube-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [discord-zapret](https://github.com/finaldragonflycode/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/finaldragonflycode/ObhodDiscord): ObhodDiscord
+- [youTubE-oBHOd](https://github.com/finaldragonflycode/youTubE-oBHOd): youTubE-oBHOd
+- [discord-zapret](https://github.com/financialcavity/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/financialcavity/ObhodDiscord): ObhodDiscord
+- [youTubE-oBHOd](https://github.com/financialcavity/youTubE-oBHOd): youTubE-oBHOd
+- [discord-unban](https://github.com/finportalcontinue/discord-unban): Обновлённая версия для Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/finportalcontinue/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [ObhodDiscord](https://github.com/finportalcontinue/ObhodDiscord): Новая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [ObhodYoutube](https://github.com/finportalcontinue/ObhodYoutube): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-discord](https://github.com/finportalcontinue/zapret-discord): Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+- [yOUTubeZaprET](https://github.com/fixsenioranvil/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/fixsenioranvil/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/fixsenioranvil/zapRETDiscORd): zapRETDiscORd
+- [discord-youtube-fix](https://github.com/flagharmonyfascinate/discord-youtube-fix): Новая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/flagharmonyfascinate/telegram-unban): Обновлённая версия с поддержкой Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/flagharmonyfascinate/zapret-telegram): Актуальная версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/flagharmonyfascinate/zaprettelegram): Обновлённая версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [diSCord-OBhod](https://github.com/flameraagitate/diSCord-OBhod): Новая версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [obHODTelegRAM](https://github.com/flameraagitate/obHODTelegRAM): Новая версия с улучшенной поддержкой Telegram. Быстрее, стабильнее, надежнее
+- [youTubE-oBHOd](https://github.com/flameraagitate/youTubE-oBHOd): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [yoUTUBe-unBaN](https://github.com/flameraagitate/yoUTUBe-unBaN): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/flameraagitate/yOUTubeZaprET): Актуальная версия с поддержкой работы YouTube в текущих условиях. Надежнее, быстрее, стабильнее
+- [discordzapret](https://github.com/floodhornbillplank/discordzapret): Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [discord-zapret](https://github.com/floorserveredge/discord-zapret): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/floorserveredge/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/floorserveredge/zapret-discord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/floorserveredge/zapret-telegram): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/floorserveredge/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [telegram-unban](https://github.com/flowoiestimate/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [Obhod-Discord](https://github.com/followerbreak/Obhod-Discord): Obhod-Discord
+- [telegramzapret](https://github.com/followerbreak/telegramzapret): telegramzapret
+- [zapretdiscord](https://github.com/followerbreak/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/followerousound/disCOrD-ZapREt): disCOrD-ZapREt
+- [disCORdobHOD](https://github.com/followerousound/disCORdobHOD): disCORdobHOD
+- [zapret-telegram](https://github.com/followerousound/zapret-telegram): zapret-telegram
+- [discordzapret](https://github.com/forestcoxswainduct/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/forestcoxswainduct/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapretdiscord](https://github.com/forestcoxswainduct/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/fountainpenguinjack/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/fountainpenguinjack/discordzapret): discordzapret
+- [zaPRETtElegrAm](https://github.com/fountainpenguinjack/zaPRETtElegrAm): zaPRETtElegrAm
+- [discord-zapret](https://github.com/freegrenadier/discord-zapret): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/freegrenadier/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/freegrenadier/zapret-discord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/freegrenadier/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/freegrenadier/zapret-youtube): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, надежнее, быстрее
+- [discord-youtube-fix](https://github.com/furchairmanpanel/discord-youtube-fix): Новая версия с поддержкой Discord, YouTube и Telegram. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/furchairmanpanel/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/furchairmanpanel/zapret-telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/furchairmanpanel/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/futureboulder/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/futureboulder/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/futureboulder/zapret-youtube): zapret-youtube
+- [telegramzapret](https://github.com/gallerycuttlefisharm/telegramzapret): Актуальная версия с улучшенной поддержкой Telegram. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/gallerycuttlefisharm/youtube-fix): Актуальная версия с поддержкой работы YouTube. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/gallerycuttlefisharm/youtube-unban): Обновлённая версия с поддержкой YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/gallerycuttlefisharm/youtubezapret): Актуальная версия для YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/gallerycuttlefisharm/zapret-youtube): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/glazedentist/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/glazedentist/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/glazedentist/zaprettelegram): zaprettelegram
+- [discord-zapret](https://github.com/gloryakatsukiblock/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/gloryakatsukiblock/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/gloryakatsukiblock/zapret-youtube): zapret-youtube
+- [discord-zapret](https://github.com/grandmasternubait/discord-zapret): Новая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/grandmasternubait/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/grandmasternubait/zapret-discord): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/grandmasternubait/zapret-telegram): Актуальная версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/grandmasternubait/zapret-youtube): Актуальная версия с поддержкой работы YouTube. Стабильнее, надежнее, быстрее
+- [telegram-unban-zapret](https://github.com/grandparrotfrost/telegram-unban-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram-discord](https://github.com/grandparrotfrost/zapret-telegram-discord): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [disCOrD-ZapREt](https://github.com/gravelstorklearn/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/gravelstorklearn/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/gravelstorklearn/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [yOUTubeZaprET](https://github.com/gravitybarberscoop/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/gravitybarberscoop/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/gravitybarberscoop/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/gravityplocarve/DiscordObhod): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/gravityplocarve/discordzapret): Актуальная версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [DiscordObhod](https://github.com/grayzurbastion/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/grayzurbastion/discORdobHodDPI): discORdobHodDPI
+- [Youtube-Obhod](https://github.com/grayzurbastion/Youtube-Obhod): Youtube-Obhod
+- [DiscordObhod](https://github.com/greenchameleonvoyage/DiscordObhod): DiscordObhod
+- [yOUTubeZaprET](https://github.com/greenchameleonvoyage/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/greenchameleonvoyage/zapret-discord): zapret-discord
+- [DiscordObhod](https://github.com/griffinaidarn/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
+- [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [discord-zapret](https://github.com/gripstallion/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/gripstallion/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/gripstallion/zapret-youtube): zapret-youtube
+- [discord-zapret](https://github.com/gryphonpantherturn/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/gryphonpantherturn/zapret-discord): zapret-discord
+- [zaprettelegram](https://github.com/gryphonpantherturn/zaprettelegram): zaprettelegram
+- [discord-zapret](https://github.com/hazedoctorindex/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/hazedoctorindex/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/hazedoctorindex/zaprettelegram): zaprettelegram
+- [tELegrAMZapReT](https://github.com/helmsmanamend97/tELegrAMZapReT): tELegrAMZapReT
+- [zapret-discord](https://github.com/helmsmanamend97/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/helmsmanamend97/zapRETDiscORd): zapRETDiscORd
+- [discordzapret](https://github.com/herdmeadowlark/discordzapret): discordzapret
+- [discOrDZApreT](https://github.com/hertzmillipedekiln/discOrDZApreT): discOrDZApreT
+- [yoUTUbeoBhod](https://github.com/hertzmillipedekiln/yoUTUbeoBhod): yoUTUbeoBhod
+- [zapRETDiscORd](https://github.com/hertzmillipedekiln/zapRETDiscORd): zapRETDiscORd
+- [disCOrD-ZapREt](https://github.com/hexagonovermultiply/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/hexagonovermultiply/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/hexagonovermultiply/zapRET-YOutUBE): zapRET-YOutUBE
+- [DiscordObhodDPI](https://github.com/hiddenbusinesschaos/DiscordObhodDPI): DiscordObhodDPI
+- [discordzapret](https://github.com/hiddenbusinesschaos/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/hiddenbusinesschaos/zapRET-YOutUBE): zapRET-YOutUBE
+- [discord-zapret](https://github.com/hidedesurvive/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/hidedesurvive/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/hidedesurvive/zapret-youtube): zapret-youtube
+- [Discord-Obhod](https://github.com/highwayloopgive/Discord-Obhod): Discord-Obhod
+- [disCORD-uNBaN](https://github.com/highwayloopgive/disCORD-uNBaN): disCORD-uNBaN
+- [zapret-youtube](https://github.com/highwayloopgive/zapret-youtube): zapret-youtube
+- [discord-youtube-fix](https://github.com/highwaytriupgrade/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/highwaytriupgrade/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/highwaytriupgrade/zapret-telegram): Актуальная версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/highwaytriupgrade/zaprettelegram): Обновлённая версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [Discord-Obhod](https://github.com/hoopoewrench/Discord-Obhod): Discord-Obhod
+- [youtubezapret](https://github.com/hoopoewrench/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/hoopoewrench/zapretdiscord): zapretdiscord
+- [discord-zapret](https://github.com/hypercashiermenhir/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/hypercashiermenhir/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/hypercashiermenhir/zapret-youtube): zapret-youtube
+- [discord-youtube-fix](https://github.com/icegenindisclose/discord-youtube-fix): Новая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/icegenindisclose/telegram-unban): Обновлённая версия с поддержкой Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/icegenindisclose/zapret-telegram): Актуальная версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/icegenindisclose/zaprettelegram): Обновлённая версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [discord-youtube-zapret](https://github.com/identityshoseparate/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/identityshoseparate/telegram-zapret): Обновлённая версия с поддержкой Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/identityshoseparate/youtube-zapret): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/identityshoseparate/zapret-discord-youtube): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/identityshoseparate/zapret-youtube-discord): Новая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
+- [discord-unban](https://github.com/iguanaunveil/discord-unban): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/iguanaunveil/discord-zapret): Новая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/iguanaunveil/discordzapret): Актуальная версия для Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/iguanaunveil/zapret-discord): Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/iguanaunveil/zapretdiscord): Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [DiscordObhodDPI](https://github.com/inertiaenspike27/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/inertiaenspike27/obhOd-diSCOrd): obhOd-diSCOrd
+- [youTUbe-FIx](https://github.com/inertiaenspike27/youTUbe-FIx): youTUbe-FIx
+- [diSCord-OBhod](https://github.com/infernalzeregister/diSCord-OBhod): diSCord-OBhod
+- [Obhod-Discord](https://github.com/infernalzeregister/Obhod-Discord): Obhod-Discord
+- [telegramzapret](https://github.com/infernalzeregister/telegramzapret): telegramzapret
+- [discord-youtube-fix](https://github.com/infiltratorvestibule/discord-youtube-fix): Новая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/infiltratorvestibule/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/infiltratorvestibule/zapret-telegram): Актуальная версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/infiltratorvestibule/zaprettelegram): Обновлённая версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [telegramzapret](https://github.com/inletechoshift/telegramzapret): telegramzapret
+- [zaprET-DiSCOrd](https://github.com/inletechoshift/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discord-unban](https://github.com/investigatorjourney/discord-unban): discord-unban
+- [discord-zapret](https://github.com/investigatorjourney/discord-zapret): discord-zapret
+- [ObhodYoutube](https://github.com/investigatorjourney/ObhodYoutube): ObhodYoutube
+- [DiscordObhod](https://github.com/ironchemisttitle34/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/ironchemisttitle34/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/ironchemisttitle34/YoutubeObhod): YoutubeObhod
+- [discOrDZApreT](https://github.com/jadewithinidolize/discOrDZApreT): discOrDZApreT
+- [zapret-telegram](https://github.com/jadewithinidolize/zapret-telegram): zapret-telegram
+- [zapretdiscord](https://github.com/jadewithinidolize/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/labelforrecognize/discordzapret): discordzapret
+- [youtubezapret](https://github.com/labelforrecognize/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/labelforrecognize/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/lacquersorcererlist/discordzapret): discordzapret
+- [youtubezapret](https://github.com/lacquersorcererlist/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/lacquersorcererlist/zapretdiscord): zapretdiscord
+- [discord-youtube-zapret](https://github.com/lavendertellerendure/discord-youtube-zapret): Обновлённая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/lavendertellerendure/telegram-zapret): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/lavendertellerendure/youtube-zapret): Актуальная версия для YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/lavendertellerendure/zapret-discord-youtube): Обновлённая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/lavendertellerendure/zapret-youtube-discord): Новая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [discord-unban-zapret](https://github.com/layerfletcherbait/discord-unban-zapret): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/layerfletcherbait/telegram-unban-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/layerfletcherbait/youtube-unban-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/layerfletcherbait/zapret-discord-fix): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/layerfletcherbait/zapret-telegram-discord): Новая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [discordzapret](https://github.com/leechrestore/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/leechrestore/zapretdiscord): zapretdiscord
+- [zaPRETtElegrAm](https://github.com/leechrestore/zaPRETtElegrAm): zaPRETtElegrAm
+- [discord-unban](https://github.com/libraryplatomb/discord-unban): discord-unban
+- [ObhodYoutube](https://github.com/libraryplatomb/ObhodYoutube): ObhodYoutube
+- [zaprET-DiSCOrd](https://github.com/libraryplatomb/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCOrD-ZapREt](https://github.com/lighttoadmonitor/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/lighttoadmonitor/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/lighttoadmonitor/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [tELegrAMZapReT](https://github.com/limestonepool/tELegrAMZapReT): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [youTUbe-FIx](https://github.com/limestonepool/youTUbe-FIx): Актуальная версия с поддержкой работы YouTube. Стабильнее, быстрее, надежнее
+- [yoUTUBe-unBaN](https://github.com/limestonepool/yoUTUBe-unBaN): Обновлённая версия с поддержкой YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/limestonepool/yOUTubeZaprET): Актуальная версия для YouTube в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapRET-YOutUBE](https://github.com/limestonepool/zapRET-YOutUBE): Актуальная версия с улучшенной поддержкой YouTube. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/liquidteacher/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/liquidteacher/discordzapret): Актуальная версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/liquidteacher/zapret-discord): Обновлённая версия с улучшенной поддержкой Discord. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/liquidteacher/zapret-telegram): Актуальная версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/liquidteacher/zapret-youtube): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/lockedhoopoeobey/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [ObhodDiscord](https://github.com/lowerdragonbless/ObhodDiscord): ObhodDiscord
+- [teleGRAmobhOD](https://github.com/lowerdragonbless/teleGRAmobhOD): teleGRAmobhOD
+- [zapret-discord](https://github.com/lowerdragonbless/zapret-discord): zapret-discord
+- [discordzapret](https://github.com/lowerlorecord/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/lowerlorecord/zapretdiscord): zapretdiscord
+- [zaPRETtElegrAm](https://github.com/lowerlorecord/zaPRETtElegrAm): zaPRETtElegrAm
+- [Discord-Obhod](https://github.com/lunarfollowerbreak/Discord-Obhod): Discord-Obhod
+- [disCORD-uNBaN](https://github.com/lunarfollowerbreak/disCORD-uNBaN): disCORD-uNBaN
+- [ObhodTelegram](https://github.com/lunarfollowerbreak/ObhodTelegram): ObhodTelegram
+- [discord-zapret](https://github.com/magicglacall/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/magicglacall/zapret-discord): zapret-discord
+- [zaprettelegram](https://github.com/magicglacall/zaprettelegram): zaprettelegram
+- [discordzapret](https://github.com/magnificencedesigner/discordzapret): discordzapret
+- [disCOrD-ZapREt](https://github.com/mailboltgravity10/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/mailboltgravity10/discordzapret): discordzapret
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/mailboltgravity10/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [discOrDZApreT](https://github.com/mailrollerreflect/discOrDZApreT): discOrDZApreT
+- [zapret-telegram](https://github.com/mailrollerreflect/zapret-telegram): zapret-telegram
+- [zapretdiscord](https://github.com/mailrollerreflect/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/marblestyliststaple/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/marblestyliststaple/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/marblestyliststaple/zapRET-YOutUBE): zapRET-YOutUBE
+- [discordzapret](https://github.com/maroonpacker/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/maroonpacker/zapretdiscord): zapretdiscord
+- [zaPRETtElegrAm](https://github.com/maroonpacker/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-zapret](https://github.com/meshguideassess/discord-zapret): Новая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [discordzapret](https://github.com/meshguideassess/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
 - [zapret-discord](https://github.com/meshguideassess/zapret-discord): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, быстрее, стабильнее
-- [zapret-discord-fix](https://github.com/archivecuckoomall/zapret-discord-fix): Новая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
-- [zapretdiscord](https://github.com/baronworship/zapretdiscord): Обновлённая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
-- [Discord-Obhod](https://github.com/brickoubridge/Discord-Obhod): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Быстрее, надежнее, стабильнее
-- [discord-unban](https://github.com/baronworship/discord-unban): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, стабильнее, быстрее
-- [DiscordObhod](https://github.com/obsidiankropavilion/DiscordObhod): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
-- [DiscordObhodDPI](https://github.com/delugesmokebungalow/DiscordObhodDPI): Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
-- [Obhod-Discord](https://github.com/chartcontrollerlimit/Obhod-Discord): Обновлённая версия с поддержкой Discord в текущих условиях. Быстрее, надежнее, стабильнее
-- [obhoDDiscOrd](https://github.com/atomlustrike35/obhoDDiscOrd): Актуальная версия с поддержкой голоса Discord в текущих условиях. Быстрее, стабильнее, надежнее
-- [discord-youtube-zapret](https://github.com/lavendertellerendure/discord-youtube-zapret): Обновлённая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
-- [telegram-unban-zapret](https://github.com/steelgliscreen/telegram-unban-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, быстрее, надежнее
-- [telegram-zapret](https://github.com/lavendertellerendure/telegram-zapret): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
-- [telegramzapret](https://github.com/olivemagistrate/telegramzapret): Актуальная версия с поддержкой Telegram в текущих условиях. Быстрее, надежнее, стабильнее
-- [youtube-unban-zapret](https://github.com/archivecuckoomall/youtube-unban-zapret): Актуальная версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
-- [youtube-zapret](https://github.com/lavendertellerendure/youtube-zapret): Актуальная версия для YouTube в текущих условиях. Стабильнее, быстрее, надежнее
-- [youtubezapret](https://github.com/olivemagistrate/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
-- [zapret-discord-youtube](https://github.com/lavendertellerendure/zapret-discord-youtube): Обновлённая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-telegram](https://github.com/meshguideassess/zapret-telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
-- [zapret-telegram-discord](https://github.com/steelgliscreen/zapret-telegram-discord): Новая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 - [zapret-youtube](https://github.com/meshguideassess/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
-- [zapret-youtube-discord](https://github.com/lavendertellerendure/zapret-youtube-discord): Новая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
-- [zaprettelegram](https://github.com/furchairmanpanel/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
-- [discord-youtube-fix](https://github.com/furchairmanpanel/discord-youtube-fix): Новая версия с поддержкой Discord, YouTube и Telegram. Быстрее, стабильнее, надежнее
-- [Obhod-Telegram](https://github.com/delugesmokebungalow/Obhod-Telegram): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Быстрее, стабильнее, надежнее
-- [Obhod-Youtube](https://github.com/delugesmokebungalow/Obhod-Youtube): Новая версия с поддержкой обхода YouTube. Быстрее, надежнее, стабильнее
-- [ObhodTelegram](https://github.com/wraithfencer/ObhodTelegram): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
-- [ObhodYoutube](https://github.com/finportalcontinue/ObhodYoutube): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
-- [Telegram-Obhod](https://github.com/chartcontrollerlimit/Telegram-Obhod): Обновлённая версия для Telegram в текущих условиях. Надежнее, быстрее, стабильнее
-- [telegram-unban](https://github.com/furchairmanpanel/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [discOrDZApreT](https://github.com/metalshapevision/discOrDZApreT): Новая версия с поддержкой Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [zaprET-DiSCOrd](https://github.com/metalshapevision/zaprET-DiSCOrd): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapRETDiscORd](https://github.com/metalshapevision/zapRETDiscORd): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/metropolisershow/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/metropolisershow/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/metropolisershow/YoutubeObhod): YoutubeObhod
+- [discord-unban](https://github.com/millipedeflue59/discord-unban): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/millipedeflue59/discord-zapret): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/millipedeflue59/discordzapret): Актуальная версия с поддержкой обхода Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/millipedeflue59/zapret-discord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/millipedeflue59/zapretdiscord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/mintgrubburn/discord-zapret): discord-zapret
+- [Obhod-Discord](https://github.com/mintgrubburn/Obhod-Discord): Obhod-Discord
+- [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
+- [youtubezapret](https://github.com/mistpugiliststeeple/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/mistpugiliststeeple/zapretdiscord): zapretdiscord
+- [Discord-Obhod](https://github.com/moatcoursecoil42/Discord-Obhod): Обновлённая версия с улучшенной поддержкой Discord. Быстрее, надежнее, стабильнее
+- [ObhodTelegram](https://github.com/moatcoursecoil42/ObhodTelegram): Новая версия с поддержкой Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [Youtube-Obhod](https://github.com/moatcoursecoil42/Youtube-Obhod): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtube-unban](https://github.com/moatcoursecoil42/youtube-unban): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/moatcoursecoil42/youtubezapret): Актуальная версия с поддержкой работы YouTube. Быстрее, надежнее, стабильнее
+- [discord-zapret](https://github.com/moatoverchateau/discord-zapret): Новая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/moatoverchateau/discordzapret): Актуальная версия с улучшенной поддержкой Discord. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/moatoverchateau/zapret-discord): Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/moatoverchateau/zapret-telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/moatoverchateau/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [disCOrD-ZapREt](https://github.com/moduleprotector/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/moduleprotector/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-telegram](https://github.com/moduleprotector/zapret-telegram): zapret-telegram
+- [discord-unban](https://github.com/monarchemancipate/discord-unban): discord-unban
+- [discord-zapret](https://github.com/monarchemancipate/discord-zapret): discord-zapret
+- [ObhodYoutube](https://github.com/monarchemancipate/ObhodYoutube): ObhodYoutube
+- [DiscordObhod](https://github.com/monetaryheed/DiscordObhod): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/mortarshade93/DiscordObhod): Новая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/mortarshade93/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
 - [TelegramObhod](https://github.com/mortarshade93/TelegramObhod): Актуальная версия с улучшенной поддержкой Telegram. Надежнее, быстрее, стабильнее
+- [YoutubeObhod](https://github.com/mortarshade93/YoutubeObhod): Обновлённая версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapretdiscord](https://github.com/mortarshade93/zapretdiscord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discOrDZApreT](https://github.com/naturalboatwright/discOrDZApreT): discOrDZApreT
+- [yoUTUbeoBhod](https://github.com/naturalboatwright/yoUTUbeoBhod): yoUTUbeoBhod
+- [zapRETDiscORd](https://github.com/naturalboatwright/zapRETDiscORd): zapRETDiscORd
+- [discord-zapret](https://github.com/naturalfinchname4/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/naturalfinchname4/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/naturalfinchname4/zapret-youtube): zapret-youtube
+- [discord-zapret](https://github.com/nebulalevel89/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/nebulalevel89/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/nebulalevel89/zapret-youtube): zapret-youtube
+- [ObhodDiscord](https://github.com/nebulapliexterminate/ObhodDiscord): ObhodDiscord
+- [zapretdiscord](https://github.com/nebulapliexterminate/zapretdiscord): zapretdiscord
+- [zaPRETtElegrAm](https://github.com/nebulapliexterminate/zaPRETtElegrAm): zaPRETtElegrAm
+- [disCOrD-ZapREt](https://github.com/nettellerhope/disCOrD-ZapREt): disCOrD-ZapREt
+- [obhoDDiscOrd](https://github.com/nettellerhope/obhoDDiscOrd): obhoDDiscOrd
+- [zapret-telegram](https://github.com/nettellerhope/zapret-telegram): zapret-telegram
+- [discOrDZApreT](https://github.com/networkarrowflow/discOrDZApreT): discOrDZApreT
+- [zaprEt-TELEgraM](https://github.com/networkarrowflow/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/networkarrowflow/zapRETDiscORd): zapRETDiscORd
+- [telegramzapret](https://github.com/networkplojetty21/telegramzapret): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/networkplojetty21/youtube-fix): Актуальная версия для YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/networkplojetty21/youtube-unban): Обновлённая версия с улучшенной поддержкой YouTube. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/networkplojetty21/youtubezapret): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/networkplojetty21/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-youtube-fix](https://github.com/ninjatermiterun/discord-youtube-fix): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/ninjatermiterun/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [TelegramObhodDPI](https://github.com/ninjatermiterun/TelegramObhodDPI): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
-- [youtube-fix](https://github.com/olivemagistrate/youtube-fix): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
-- [Youtube-Obhod](https://github.com/brickoubridge/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
-- [youtube-unban](https://github.com/olivemagistrate/youtube-unban): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
-- [YoutubeObhod](https://github.com/obsidiankropavilion/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [YoutubeObhodDPI](https://github.com/ninjatermiterun/YoutubeObhodDPI): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [DiscordObhod](https://github.com/obsidiankropavilion/DiscordObhod): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/obsidiankropavilion/discordzapret): Актуальная версия для Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [YoutubeObhod](https://github.com/obsidiankropavilion/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-discord](https://github.com/obsidiankropavilion/zapret-discord): Обновлённая версия с улучшенной поддержкой Discord. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/obsidiankropavilion/zapretdiscord): Обновлённая версия с поддержкой работы Discord. Стабильнее, надежнее, быстрее
+- [tELegrAMZapReT](https://github.com/octopusconnector67/tELegrAMZapReT): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [youTUbe-FIx](https://github.com/octopusconnector67/youTUbe-FIx): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [yoUTUBe-unBaN](https://github.com/octopusconnector67/yoUTUBe-unBaN): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/octopusconnector67/yOUTubeZaprET): Актуальная версия с поддержкой работы YouTube в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapRET-YOutUBE](https://github.com/octopusconnector67/zapRET-YOutUBE): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Надежнее, стабильнее, быстрее
+- [tELegrAMZapReT](https://github.com/oilseekersucceed/tELegrAMZapReT): tELegrAMZapReT
+- [zapret-discord](https://github.com/oilseekersucceed/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/oilseekersucceed/zapRETDiscORd): zapRETDiscORd
+- [telegramzapret](https://github.com/olivemagistrate/telegramzapret): Актуальная версия с поддержкой Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/olivemagistrate/youtube-fix): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/olivemagistrate/youtube-unban): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/olivemagistrate/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/olivemagistrate/zapret-youtube): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/orderdentistgive74/discord-zapret): discord-zapret
+- [disCORdobHOD](https://github.com/orderdentistgive74/disCORdobHOD): disCORdobHOD
+- [discordzapret](https://github.com/orderdyerknot/discordzapret): discordzapret
+- [obHODTelegRAM](https://github.com/orderdyerknot/obHODTelegRAM): obHODTelegRAM
+- [zapretdiscord](https://github.com/orderdyerknot/zapretdiscord): zapretdiscord
+- [yOUTubeZaprET](https://github.com/ordermagistrate/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/ordermagistrate/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/ordermagistrate/zapRETDiscORd): zapRETDiscORd
+- [yOUTubeZaprET](https://github.com/ordinaryentrance/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/ordinaryentrance/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/ordinaryentrance/zapRETDiscORd): zapRETDiscORd
+- [discord-youtube-zapret](https://github.com/originhokagedrag/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/originhokagedrag/telegram-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/originhokagedrag/youtube-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/originhokagedrag/zapret-discord-youtube): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/originhokagedrag/zapret-youtube-discord): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [discOrDZApreT](https://github.com/originsaintspike/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/originsaintspike/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/originsaintspike/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/orioleoutfit/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/orioleoutfit/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/orioleoutfit/YoutubeObhod): YoutubeObhod
+- [discord-unban](https://github.com/outsidesharkstride/discord-unban): discord-unban
+- [discord-youtube-fix](https://github.com/outsidesharkstride/discord-youtube-fix): discord-youtube-fix
+- [zaprET-DiSCOrd](https://github.com/outsidesharkstride/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [DiscordObhod](https://github.com/paceindustrialfence/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/paceindustrialfence/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/paceindustrialfence/YoutubeObhod): YoutubeObhod
+- [yoUTUBe-unBaN](https://github.com/partmcadjust/yoUTUBe-unBaN): yoUTUBe-unBaN
+- [zapret-discord](https://github.com/partmcadjust/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/partmcadjust/zapRETDiscORd): zapRETDiscORd
+- [zapret-discord](https://github.com/pauseheartchopper/zapret-discord): zapret-discord
+- [zaprEt-TELEgraM](https://github.com/pauseheartchopper/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/pauseheartchopper/zapRETDiscORd): zapRETDiscORd
+- [disCOrD-ZapREt](https://github.com/peakbuffaloconceal/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/peakbuffaloconceal/discordzapret): discordzapret
+- [zaPRETtElegrAm](https://github.com/peakbuffaloconceal/zaPRETtElegrAm): zaPRETtElegrAm
+- [Discord-Obhod](https://github.com/peltpixelshock35/Discord-Obhod): Discord-Obhod
+- [disCORD-uNBaN](https://github.com/peltpixelshock35/disCORD-uNBaN): disCORD-uNBaN
+- [Obhod-Discord](https://github.com/peltpixelshock35/Obhod-Discord): Obhod-Discord
+- [yOUTubeZaprET](https://github.com/peltpixelshock35/yOUTubeZaprET): yOUTubeZaprET
+- [Discord-Obhod](https://github.com/pentagonshigenerate/Discord-Obhod): Discord-Obhod
+- [yOUTubeZaprET](https://github.com/pentagonshigenerate/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/pentagonshigenerate/zapRETDiscORd): zapRETDiscORd
+- [discOrDZApreT](https://github.com/percentzorsurvive/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/percentzorsurvive/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/percentzorsurvive/zapRETDiscORd): zapRETDiscORd
+- [discord-unban-zapret](https://github.com/perceptionlake/discord-unban-zapret): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/perceptionlake/telegram-unban-zapret): Обновлённая версия с поддержкой Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/perceptionlake/youtube-unban-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/perceptionlake/zapret-discord-fix): Новая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/perceptionlake/zapret-telegram-discord): Новая версия с поддержкой Discord · YouTube · Telegram. Быстрее, надежнее, стабильнее
+- [telegramzapret](https://github.com/phantomemissary/telegramzapret): Актуальная версия для Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/phantomemissary/youtube-fix): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/phantomemissary/youtube-unban): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/phantomemissary/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/phantomemissary/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/phasehornethover/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/phasehornethover/discORdobHodDPI): discORdobHodDPI
+- [Youtube-Obhod](https://github.com/phasehornethover/Youtube-Obhod): Youtube-Obhod
+- [discordzapret](https://github.com/piercranecure54/discordzapret): discordzapret
+- [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
+- [zaPRETtElegrAm](https://github.com/piercranecure54/zaPRETtElegrAm): zaPRETtElegrAm
+- [discord-youtube-zapret](https://github.com/plasmapeasantviaduct/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/plasmapeasantviaduct/telegram-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/plasmapeasantviaduct/youtube-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/plasmapeasantviaduct/zapret-discord-youtube): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/plasmapeasantviaduct/zapret-youtube-discord): Новая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [discord-unban-zapret](https://github.com/plasterbyvault/discord-unban-zapret): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/plasterbyvault/telegram-unban-zapret): Обновлённая версия с поддержкой работы Telegram. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/plasterbyvault/youtube-unban-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/plasterbyvault/zapret-discord-fix): Новая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/plasterbyvault/zapret-telegram-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [discord-zapret](https://github.com/playgunnerbewitch/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/playgunnerbewitch/zapret-discord): zapret-discord
+- [discord-zapret](https://github.com/playiesculpt/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/playiesculpt/ObhodDiscord): ObhodDiscord
+- [teleGRAmobhOD](https://github.com/playiesculpt/teleGRAmobhOD): teleGRAmobhOD
+- [disCORD-uNBaN](https://github.com/plotbrewerfury/disCORD-uNBaN): disCORD-uNBaN
+- [disCOrD-ZapREt](https://github.com/plotbrewerfury/disCOrD-ZapREt): disCOrD-ZapREt
+- [ObhodTelegram](https://github.com/plotbrewerfury/ObhodTelegram): ObhodTelegram
+- [discOrDZApreT](https://github.com/plumewarblercompact/discOrDZApreT): discOrDZApreT
+- [telegramzapret](https://github.com/plumewarblercompact/telegramzapret): telegramzapret
+- [zapret-discord](https://github.com/portaltruchart58/zapret-discord): zapret-discord
+- [ObhodDiscord](https://github.com/postbreathfringe/ObhodDiscord): ObhodDiscord
+- [teleGRAmobhOD](https://github.com/postbreathfringe/teleGRAmobhOD): teleGRAmobhOD
+- [zapret-discord](https://github.com/postbreathfringe/zapret-discord): zapret-discord
+- [disCOrD-ZapREt](https://github.com/prideleopardseize/disCOrD-ZapREt): disCOrD-ZapREt
+- [ObhodDiscord](https://github.com/prideleopardseize/ObhodDiscord): ObhodDiscord
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/prideleopardseize/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [DiscordObhod](https://github.com/prohibitionworldcut/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/prohibitionworldcut/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/prohibitionworldcut/YoutubeObhod): YoutubeObhod
+- [discord-zapret](https://github.com/pulverizeflafight/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/pulverizeflafight/discordzapret): Актуальная версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/pulverizeflafight/zapret-discord): Обновлённая версия с улучшенной поддержкой Discord. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/pulverizeflafight/zapret-telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/pulverizeflafight/zapret-youtube): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discOrDZApreT](https://github.com/purplegooseelevator/discOrDZApreT): discOrDZApreT
+- [zaprEt-TELEgraM](https://github.com/purplegooseelevator/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/purplegooseelevator/zapRETDiscORd): zapRETDiscORd
+- [disCORdobHOD](https://github.com/purplenautiluswave/disCORdobHOD): disCORdobHOD
+- [TelegramObhod](https://github.com/purplenautiluswave/TelegramObhod): TelegramObhod
+- [zapretdiscord](https://github.com/purplenautiluswave/zapretdiscord): zapretdiscord
+- [discOrDZApreT](https://github.com/purplepigrasp/discOrDZApreT): discOrDZApreT
+- [youtubezapret](https://github.com/purplepigrasp/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/purplepigrasp/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/pyromancermooring/discordzapret): discordzapret
+- [youtubezapret](https://github.com/pyromancermooring/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/pyromancermooring/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/quartzarview27/disCOrD-ZapREt): disCOrD-ZapREt
+- [obhoDDiscOrd](https://github.com/quartzarview27/obhoDDiscOrd): obhoDDiscOrd
+- [telEGrAm-UnbaN](https://github.com/quartzarview27/telEGrAm-UnbaN): telEGrAm-UnbaN
+- [disCORdobHOD](https://github.com/radiusbrawlerdolmen/disCORdobHOD): disCORdobHOD
+- [discOrDZApreT](https://github.com/radiusbrawlerdolmen/discOrDZApreT): discOrDZApreT
+- [discordzapret](https://github.com/rammaharajajam/discordzapret): discordzapret
+- [obHODTelegRAM](https://github.com/rammaharajajam/obHODTelegRAM): obHODTelegRAM
+- [zapretdiscord](https://github.com/rammaharajajam/zapretdiscord): zapretdiscord
+- [discOrDZApreT](https://github.com/ravenbastion/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/ravenbastion/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/ravenbastion/zapRETDiscORd): zapRETDiscORd
+- [discordzapret](https://github.com/realtypeenumerate/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/realtypeenumerate/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapretdiscord](https://github.com/realtypeenumerate/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/recordchainspindle/disCOrD-ZapREt): disCOrD-ZapREt
+- [yoUTUbeoBhod](https://github.com/recordchainspindle/yoUTUbeoBhod): yoUTUbeoBhod
+- [zaprET-DiSCOrd](https://github.com/recordchainspindle/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [DiscordObhodDPI](https://github.com/restraintvoiceboost/DiscordObhodDPI): Актуальная версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [Obhod-Telegram](https://github.com/restraintvoiceboost/Obhod-Telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [Obhod-Youtube](https://github.com/restraintvoiceboost/Obhod-Youtube): Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-telegram](https://github.com/restraintvoiceboost/zapret-telegram): Актуальная версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/restraintvoiceboost/zaprettelegram): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/retroservant34/discordzapret): discordzapret
+- [youtubezapret](https://github.com/retroservant34/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/retroservant34/zapretdiscord): zapretdiscord
+- [discord-zapret](https://github.com/retroundefend/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/retroundefend/zapret-discord): zapret-discord
+- [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
+- [discOrDZApreT](https://github.com/roofrhinoloot/discOrDZApreT): discOrDZApreT
+- [tELegrAMZapReT](https://github.com/roofrhinoloot/tELegrAMZapReT): tELegrAMZapReT
+- [zapRETDiscORd](https://github.com/roofrhinoloot/zapRETDiscORd): zapRETDiscORd
+- [discord-zapret](https://github.com/roofzebracloak/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/roofzebracloak/zapret-discord): zapret-discord
+- [disCOrD-ZapREt](https://github.com/rushdoorrefresh/disCOrD-ZapREt): disCOrD-ZapREt
+- [DiscordObhod](https://github.com/rushdoorrefresh/DiscordObhod): DiscordObhod
+- [zaPRETtElegrAm](https://github.com/rushdoorrefresh/zaPRETtElegrAm): zaPRETtElegrAm
+- [discOrDZApreT](https://github.com/scalebailiffreach/discOrDZApreT): discOrDZApreT
+- [telegramzapret](https://github.com/scalebailiffreach/telegramzapret): telegramzapret
+- [zapretdiscord](https://github.com/scalebailiffreach/zapretdiscord): zapretdiscord
+- [disCORdobHOD](https://github.com/scaleczarpincers/disCORdobHOD): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [discOrDZApreT](https://github.com/scaleczarpincers/discOrDZApreT): Новая версия с поддержкой работы Discord. Быстрее, стабильнее, надежнее
+- [teleGRAmobhOD](https://github.com/scaleczarpincers/teleGRAmobhOD): Новая версия с поддержкой обхода Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [yoUTUbeoBhod](https://github.com/scaleczarpincers/yoUTUbeoBhod): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapRETDiscORd](https://github.com/scaleczarpincers/zapRETDiscORd): Обновлённая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhodDPI](https://github.com/scarletparrot/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/scarletparrot/obhOd-diSCOrd): obhOd-diSCOrd
+- [youtube-unban](https://github.com/scarletparrot/youtube-unban): youtube-unban
+- [DiscordObhod](https://github.com/scorpionstrainer/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/scorpionstrainer/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/scorpionstrainer/YoutubeObhod): YoutubeObhod
+- [discord-unban](https://github.com/secretfencer91/discord-unban): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/secretfencer91/discord-zapret): Новая версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/secretfencer91/discordzapret): Актуальная версия для Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/secretfencer91/zapret-discord): Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/secretfencer91/zapretdiscord): Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/segmentilhover/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/segmentilhover/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discord-zapret](https://github.com/seizedestack/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/seizedestack/zapret-discord): zapret-discord
+- [zaprettelegram](https://github.com/seizedestack/zaprettelegram): zaprettelegram
+- [disCOrD-ZapREt](https://github.com/sentinelzentwist/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/sentinelzentwist/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/sentinelzentwist/zapRET-YOutUBE): zapRET-YOutUBE
+- [discord-zapret](https://github.com/separatecastermarch/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/separatecastermarch/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/separatecastermarch/zapret-youtube): zapret-youtube
+- [obhoDDiscOrd](https://github.com/shacklefoload/obhoDDiscOrd): obhoDDiscOrd
+- [oBHOdyouTUBE](https://github.com/shacklefoload/oBHOdyouTUBE): oBHOdyouTUBE
+- [zaprET-DiSCOrd](https://github.com/shacklefoload/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discord-zapret](https://github.com/shellturbine/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/shellturbine/zapret-discord): zapret-discord
+- [zaprettelegram](https://github.com/shellturbine/zaprettelegram): zaprettelegram
+- [discord-unban](https://github.com/shieldviceroyjam/discord-unban): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/shieldviceroyjam/discord-zapret): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/shieldviceroyjam/discordzapret): Актуальная версия с поддержкой обхода Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/shieldviceroyjam/zapret-discord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/shieldviceroyjam/zapretdiscord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discOrDZApreT](https://github.com/shipwrightfoundry/discOrDZApreT): discOrDZApreT
+- [tELegrAMZapReT](https://github.com/shipwrightfoundry/tELegrAMZapReT): tELegrAMZapReT
+- [zapRETDiscORd](https://github.com/shipwrightfoundry/zapRETDiscORd): zapRETDiscORd
+- [tELegrAMZapReT](https://github.com/shogunryoupgrade/tELegrAMZapReT): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [youTUbe-FIx](https://github.com/shogunryoupgrade/youTUbe-FIx): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [yoUTUBe-unBaN](https://github.com/shogunryoupgrade/yoUTUBe-unBaN): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [yOUTubeZaprET](https://github.com/shogunryoupgrade/yOUTubeZaprET): Актуальная версия с поддержкой YouTube в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapRET-YOutUBE](https://github.com/shogunryoupgrade/zapRET-YOutUBE): Актуальная версия с поддержкой работы YouTube в текущих условиях. Надежнее, стабильнее, быстрее
+- [discordzapret](https://github.com/sightdriverday/discordzapret): Актуальная версия с улучшенной поддержкой Discord. Стабильнее, быстрее, надежнее
+- [zaprET-DiSCOrd](https://github.com/sightdriverday/zaprET-DiSCOrd): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/signjackdawtag21/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/signjackdawtag21/discordzapret): discordzapret
+- [TelegramObhod](https://github.com/signjackdawtag21/TelegramObhod): TelegramObhod
+- [YoutubeObhod](https://github.com/signjackdawtag21/YoutubeObhod): YoutubeObhod
+- [discord-unban](https://github.com/silentsehide/discord-unban): Обновлённая версия с улучшенной поддержкой Discord. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/silentsehide/discord-zapret): Новая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/silentsehide/discordzapret): Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/silentsehide/zapret-discord): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapretdiscord](https://github.com/silentsehide/zapretdiscord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/skymonitorplain97/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/skymonitorplain97/discordzapret): discordzapret
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/skymonitorplain97/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [DiscordObhod](https://github.com/snaremedictitle/DiscordObhod): DiscordObhod
+- [discordzapret](https://github.com/snaremedictitle/discordzapret): discordzapret
+- [TelegramObhod](https://github.com/snaremedictitle/TelegramObhod): TelegramObhod
+- [YoutubeObhod](https://github.com/snaremedictitle/YoutubeObhod): YoutubeObhod
+- [disCOrD-ZapREt](https://github.com/soulgeomancerstride/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/soulgeomancerstride/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/soulgeomancerstride/zapRET-YOutUBE): zapRET-YOutUBE
+- [diScoRD-yoUTUBe-fIX](https://github.com/sparkslugcool89/diScoRD-yoUTUBe-fIX): Обновлённая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telEGrAm-UnbaN](https://github.com/sparkslugcool89/telEGrAm-UnbaN): Обновлённая версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/sparkslugcool89/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Стабильнее, надежнее, быстрее
+- [zaprEt-TELEgraM](https://github.com/sparkslugcool89/zaprEt-TELEgraM): Новая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaPRETtElegrAm](https://github.com/sparkslugcool89/zaPRETtElegrAm): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [discordzapret](https://github.com/speedzurdepict/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/speedzurdepict/zapretdiscord): zapretdiscord
+- [zaPRETtElegrAm](https://github.com/speedzurdepict/zaPRETtElegrAm): zaPRETtElegrAm
+- [discord-zapret](https://github.com/spiritsparkrafter/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/spiritsparkrafter/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/spiritsparkrafter/zaprettelegram): zaprettelegram
+- [disCORdobHOD](https://github.com/squaresystemsucceed/disCORdobHOD): disCORdobHOD
+- [TelegramObhod](https://github.com/squaresystemsucceed/TelegramObhod): TelegramObhod
+- [zapretdiscord](https://github.com/squaresystemsucceed/zapretdiscord): zapretdiscord
+- [discord-zapret](https://github.com/stapleiguanaribbon/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/stapleiguanaribbon/discordzapret): Актуальная версия с поддержкой Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/stapleiguanaribbon/zapret-discord): Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/stapleiguanaribbon/zapret-telegram): Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/stapleiguanaribbon/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/starzooutfit/discordzapret): discordzapret
+- [obHODTelegRAM](https://github.com/starzooutfit/obHODTelegRAM): obHODTelegRAM
+- [zapretdiscord](https://github.com/starzooutfit/zapretdiscord): zapretdiscord
+- [disCORdobHOD](https://github.com/steampinpoint/disCORdobHOD): disCORdobHOD
+- [discOrDZApreT](https://github.com/steampinpoint/discOrDZApreT): discOrDZApreT
+- [tELegrAMZapReT](https://github.com/steampinpoint/tELegrAMZapReT): tELegrAMZapReT
+- [telegram-unban-zapret](https://github.com/steelgliscreen/telegram-unban-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram-discord](https://github.com/steelgliscreen/zapret-telegram-discord): Новая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [discOrDZApreT](https://github.com/steepleowlchasm/discOrDZApreT): discOrDZApreT
+- [zapret-telegram](https://github.com/steepleowlchasm/zapret-telegram): zapret-telegram
+- [zapretdiscord](https://github.com/steepleowlchasm/zapretdiscord): zapretdiscord
+- [Discord-Obhod](https://github.com/steeplestorypliers21/Discord-Obhod): Discord-Obhod
+- [Obhod-Discord](https://github.com/steeplestorypliers21/Obhod-Discord): Obhod-Discord
+- [youtubezapret](https://github.com/steeplestorypliers21/youtubezapret): youtubezapret
+- [discord-zapret](https://github.com/storageiguanatomb/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/storageiguanatomb/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/storageiguanatomb/zapret-youtube): zapret-youtube
+- [zapret-discord](https://github.com/stormjouninchasm/zapret-discord): zapret-discord
+- [zaprEt-TELEgraM](https://github.com/stormjouninchasm/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/stormjouninchasm/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/summitantnote/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
+- [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
+- [disCOrD-ZapREt](https://github.com/surgeflerestore/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/surgeflerestore/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-telegram](https://github.com/surgeflerestore/zapret-telegram): zapret-telegram
+- [discord-youtube-fix](https://github.com/swarmlarvaexpand/discord-youtube-fix): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-unban](https://github.com/swarmlarvaexpand/telegram-unban): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-telegram](https://github.com/swarmlarvaexpand/zapret-telegram): Актуальная версия с поддержкой Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprettelegram](https://github.com/swarmlarvaexpand/zaprettelegram): Обновлённая версия с поддержкой Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [disCOrD-ZapREt](https://github.com/swarmwatchman/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/swarmwatchman/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/swarmwatchman/zapRET-YOutUBE): zapRET-YOutUBE
+- [discord-zapret](https://github.com/swiftprovider/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/swiftprovider/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/swiftprovider/zaprettelegram): zaprettelegram
+- [discord-zapret](https://github.com/symbolheraldsun/discord-zapret): discord-zapret
+- [zapret-discord](https://github.com/symbolheraldsun/zapret-discord): zapret-discord
+- [zapret-youtube](https://github.com/symbolheraldsun/zapret-youtube): zapret-youtube
+- [discordzapret](https://github.com/tagdictatorvilla/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/tagdictatorvilla/zapretdiscord): zapretdiscord
+- [diScoRD-yoUTUBe-fIX](https://github.com/teacherweave25/diScoRD-yoUTUBe-fIX): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telEGrAm-UnbaN](https://github.com/teacherweave25/telEGrAm-UnbaN): Обновлённая версия с улучшенной поддержкой Telegram. Стабильнее, надежнее, быстрее
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/teacherweave25/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaprEt-TELEgraM](https://github.com/teacherweave25/zaprEt-TELEgraM): Новая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zaPRETtElegrAm](https://github.com/teacherweave25/zaPRETtElegrAm): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [discord-zapret](https://github.com/tempesttaxi49/discord-zapret): discord-zapret
+- [zaprET-DiSCOrd](https://github.com/tempesttaxi49/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCOrD-ZapREt](https://github.com/tensorshograb/disCOrD-ZapREt): disCOrD-ZapREt
+- [telegramzapret](https://github.com/tensorshograb/telegramzapret): telegramzapret
+- [zaprET-DiSCOrd](https://github.com/tensorshograb/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [DiscordObhodDPI](https://github.com/terminustyrant12/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/terminustyrant12/obhOd-diSCOrd): obhOd-diSCOrd
+- [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
+- [disCORdobHOD](https://github.com/thornnewtstring/disCORdobHOD): disCORdobHOD
+- [TelegramObhod](https://github.com/thornnewtstring/TelegramObhod): TelegramObhod
+- [zapretdiscord](https://github.com/thornnewtstring/zapretdiscord): zapretdiscord
+- [discord-youtube-zapret](https://github.com/thornpoconquer/discord-youtube-zapret): Обновлённая версия с поддержкой Discord · YouTube · Telegram. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/thornpoconquer/telegram-zapret): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/thornpoconquer/youtube-zapret): Актуальная версия для YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/thornpoconquer/zapret-discord-youtube): Обновлённая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/thornpoconquer/zapret-youtube-discord): Новая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [disCOrD-ZapREt](https://github.com/thrushatrium/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/thrushatrium/discordzapret): discordzapret
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/thrushatrium/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [disCOrD-ZapREt](https://github.com/thundercore66/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/thundercore66/discordzapret): discordzapret
+- [zaPRETtElegrAm](https://github.com/thundercore66/zaPRETtElegrAm): zaPRETtElegrAm
+- [discordzapret](https://github.com/thundermaharaja/discordzapret): discordzapret
+- [youtubezapret](https://github.com/thundermaharaja/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/thundermaharaja/zapretdiscord): zapretdiscord
+- [telegramzapret](https://github.com/titansoldier/telegramzapret): Актуальная версия для Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/titansoldier/youtube-fix): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/titansoldier/youtube-unban): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/titansoldier/youtubezapret): Актуальная версия с улучшенной поддержкой YouTube. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/titansoldier/zapret-youtube): Актуальная версия с поддержкой работы YouTube. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/toadcultivate/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/toadcultivate/ObhodDiscord): ObhodDiscord
+- [youTubE-oBHOd](https://github.com/toadcultivate/youTubE-oBHOd): youTubE-oBHOd
+- [diSCord-OBhod](https://github.com/toothdukedefine/diSCord-OBhod): diSCord-OBhod
+- [Obhod-Discord](https://github.com/toothdukedefine/Obhod-Discord): Obhod-Discord
+- [telegramzapret](https://github.com/toothdukedefine/telegramzapret): telegramzapret
+- [ObhodDiscord](https://github.com/tornadoclecloak/ObhodDiscord): ObhodDiscord
+- [teleGRAmobhOD](https://github.com/tornadoclecloak/teleGRAmobhOD): teleGRAmobhOD
+- [zapret-discord](https://github.com/tornadoclecloak/zapret-discord): zapret-discord
+- [disCOrD-ZapREt](https://github.com/torrentacrosslast/disCOrD-ZapREt): disCOrD-ZapREt
+- [telegramzapret](https://github.com/torrentacrosslast/telegramzapret): telegramzapret
+- [zaprET-DiSCOrd](https://github.com/torrentacrosslast/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [DiscordObhod](https://github.com/torrentgiraffe/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/torrentgiraffe/discORdobHodDPI): discORdobHodDPI
+- [discordzapret](https://github.com/torrentgiraffe/discordzapret): discordzapret
+- [youtube-fix](https://github.com/torrentgiraffe/youtube-fix): youtube-fix
+- [disCOrD-ZapREt](https://github.com/trackbakerpropagate/disCOrD-ZapREt): disCOrD-ZapREt
+- [zaprET-DiSCOrd](https://github.com/trackbakerpropagate/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaPRet-DIScORD-yOUTUbe](https://github.com/trackbakerpropagate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
+- [diScoRD-yoUTUBe-fIX](https://github.com/trackerenhonor/diScoRD-yoUTUBe-fIX): diScoRD-yoUTUBe-fIX
+- [DiscordObhod](https://github.com/trackerenhonor/DiscordObhod): DiscordObhod
+- [discORdobHodDPI](https://github.com/trackerenhonor/discORdobHodDPI): discORdobHodDPI
+- [tELegrAMZapReT](https://github.com/tremordergrid/tELegrAMZapReT): tELegrAMZapReT
+- [zapret-discord](https://github.com/tremordergrid/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/tremordergrid/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/tremorsteersmanpier/DiscordObhod): DiscordObhod
+- [discord-zapret](https://github.com/tributarylojump/discord-zapret): discord-zapret
+- [ObhodDiscord](https://github.com/tributarylojump/ObhodDiscord): ObhodDiscord
+- [TelegramObhodDPI](https://github.com/tributarylojump/TelegramObhodDPI): TelegramObhodDPI
+- [discOrDZApreT](https://github.com/turquoiseshoshine/discOrDZApreT): discOrDZApreT
+- [yoUTUbeoBhod](https://github.com/turquoiseshoshine/yoUTUbeoBhod): yoUTUbeoBhod
+- [zapRETDiscORd](https://github.com/turquoiseshoshine/zapRETDiscORd): zapRETDiscORd
+- [obhoDDiscOrd](https://github.com/twilighttradesman/obhoDDiscOrd): obhoDDiscOrd
+- [oBHOdyouTUBE](https://github.com/twilighttradesman/oBHOdyouTUBE): oBHOdyouTUBE
+- [zaprET-DiSCOrd](https://github.com/twilighttradesman/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discOrDZApreT](https://github.com/ultimatedovejam/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/ultimatedovejam/yOUTubeZaprET): yOUTubeZaprET
+- [zapRETDiscORd](https://github.com/ultimatedovejam/zapRETDiscORd): zapRETDiscORd
+- [discordzapret](https://github.com/ultimateglazier/discordzapret): discordzapret
+- [youtubezapret](https://github.com/ultimateglazier/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/ultimateglazier/zapretdiscord): zapretdiscord
+- [DiscordObhodDPI](https://github.com/upgradecorporal/DiscordObhodDPI): DiscordObhodDPI
+- [discOrDZApreT](https://github.com/upgradecorporal/discOrDZApreT): discOrDZApreT
+- [yOUTubeZaprET](https://github.com/upgradecorporal/yOUTubeZaprET): yOUTubeZaprET
+- [discOrDZApreT](https://github.com/vampirenotereside85/discOrDZApreT): discOrDZApreT
+- [tELegrAMZapReT](https://github.com/vampirenotereside85/tELegrAMZapReT): tELegrAMZapReT
+- [zapRETDiscORd](https://github.com/vampirenotereside85/zapRETDiscORd): zapRETDiscORd
+- [discord-unban-zapret](https://github.com/vanquisherbyte/discord-unban-zapret): Обновлённая версия для Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/vanquisherbyte/telegram-unban-zapret): Обновлённая версия с улучшенной поддержкой Telegram. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/vanquisherbyte/youtube-unban-zapret): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/vanquisherbyte/zapret-discord-fix): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/vanquisherbyte/zapret-telegram-discord): Новая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [discord-zapret](https://github.com/varnishcenter57/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/varnishcenter57/discordzapret): Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord](https://github.com/varnishcenter57/zapret-discord): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [zapret-telegram](https://github.com/varnishcenter57/zapret-telegram): Актуальная версия с поддержкой Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-youtube](https://github.com/varnishcenter57/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/vaultuarattle18/DiscordObhod): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/vaultuarattle18/discordzapret): Актуальная версия с поддержкой обхода Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [YoutubeObhod](https://github.com/vaultuarattle18/YoutubeObhod): Обновлённая версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapretdiscord](https://github.com/vaultuarattle18/zapretdiscord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/vectorpatron/zapret-telegram-discord): Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [disCOrD-ZapREt](https://github.com/veteranamend/disCOrD-ZapREt): disCOrD-ZapREt
+- [telegramzapret](https://github.com/veteranamend/telegramzapret): telegramzapret
+- [zaprET-DiSCOrd](https://github.com/veteranamend/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [yOUTubeZaprET](https://github.com/viceyatrimmer/yOUTubeZaprET): yOUTubeZaprET
+- [zapret-discord](https://github.com/viceyatrimmer/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/viceyatrimmer/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhodDPI](https://github.com/victorbowyer30/DiscordObhodDPI): DiscordObhodDPI
+- [obhOd-diSCOrd](https://github.com/victorbowyer30/obhOd-diSCOrd): obhOd-diSCOrd
+- [teLEGramoBHODdPI](https://github.com/victorbowyer30/teLEGramoBHODdPI): teLEGramoBHODdPI
+- [DiscordObhod](https://github.com/violetnyapruner/DiscordObhod): DiscordObhod
+- [telegramzapret](https://github.com/violetnyapruner/telegramzapret): telegramzapret
+- [zapretdiscord](https://github.com/violetnyapruner/zapretdiscord): zapretdiscord
+- [discord-unban-zapret](https://github.com/watchtradershape/discord-unban-zapret): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegram-unban-zapret](https://github.com/watchtradershape/telegram-unban-zapret): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban-zapret](https://github.com/watchtradershape/youtube-unban-zapret): Актуальная версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [zapret-discord-fix](https://github.com/watchtradershape/zapret-discord-fix): Новая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [zapret-telegram-discord](https://github.com/watchtradershape/zapret-telegram-discord): Новая версия с поддержкой Discord, YouTube и Telegram. Быстрее, надежнее, стабильнее
+- [discOrDZApreT](https://github.com/werewolfturtle/discOrDZApreT): discOrDZApreT
+- [ObhodTelegram](https://github.com/werewolfturtle/ObhodTelegram): ObhodTelegram
+- [ObhodYoutube](https://github.com/werewolfturtle/ObhodYoutube): ObhodYoutube
+- [zapret-discord](https://github.com/werewolfturtle/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/werewolfturtle/zapRETDiscORd): zapRETDiscORd
+- [discOrDZApreT](https://github.com/westdeliverersport/discOrDZApreT): discOrDZApreT
+- [zaprEt-TELEgraM](https://github.com/westdeliverersport/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [zapRETDiscORd](https://github.com/westdeliverersport/zapRETDiscORd): zapRETDiscORd
+- [Discord-Obhod](https://github.com/windrockemancipate/Discord-Obhod): Discord-Obhod
+- [disCORD-uNBaN](https://github.com/windrockemancipate/disCORD-uNBaN): disCORD-uNBaN
+- [zapret-youtube](https://github.com/windrockemancipate/zapret-youtube): zapret-youtube
+- [discordzapret](https://github.com/wireyefollow/discordzapret): Актуальная версия для Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [discord-youtube-zapret](https://github.com/wisekeeperdecoder/discord-youtube-zapret): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/wisekeeperdecoder/telegram-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/wisekeeperdecoder/youtube-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/wisekeeperdecoder/zapret-discord-youtube): Обновлённая версия с поддержкой Discord, YouTube и Telegram. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/wisekeeperdecoder/zapret-youtube-discord): Новая версия для Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [discordzapret](https://github.com/wisepebbleprosper/discordzapret): discordzapret
+- [youtubezapret](https://github.com/wisepebbleprosper/youtubezapret): youtubezapret
+- [zapretdiscord](https://github.com/wisepebbleprosper/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/woodswimmerfurnish/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/woodswimmerfurnish/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapretdiscord](https://github.com/woodswimmerfurnish/zapretdiscord): zapretdiscord
+- [discordzapret](https://github.com/workerpassage/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/workerpassage/zapRET-YOutUBE): zapRET-YOutUBE
+- [zapretdiscord](https://github.com/workerpassage/zapretdiscord): zapretdiscord
+- [Discord-Obhod](https://github.com/wraithfencer/Discord-Obhod): Обновлённая версия с улучшенной поддержкой Discord. Быстрее, надежнее, стабильнее
+- [ObhodTelegram](https://github.com/wraithfencer/ObhodTelegram): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+- [Youtube-Obhod](https://github.com/wraithfencer/Youtube-Obhod): Обновлённая версия с улучшенной поддержкой YouTube. Быстрее, стабильнее, надежнее
+- [youtube-unban](https://github.com/wraithfencer/youtube-unban): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/wraithfencer/youtubezapret): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [discord-youtube-zapret](https://github.com/wyvernpacker/discord-youtube-zapret): Обновлённая версия с поддержкой YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+- [telegram-zapret](https://github.com/wyvernpacker/telegram-zapret): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtube-zapret](https://github.com/wyvernpacker/youtube-zapret): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-discord-youtube](https://github.com/wyvernpacker/zapret-discord-youtube): Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube-discord](https://github.com/wyvernpacker/zapret-youtube-discord): Новая версия с поддержкой Discord, YouTube и Telegram. Быстрее, стабильнее, надежнее
+- [telegramzapret](https://github.com/yoctodamsellast/telegramzapret): Актуальная версия с поддержкой обхода Telegram. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/yoctodamsellast/youtube-fix): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [youtube-unban](https://github.com/yoctodamsellast/youtube-unban): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+- [youtubezapret](https://github.com/yoctodamsellast/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [zapret-youtube](https://github.com/yoctodamsellast/zapret-youtube): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/zombieofficer/discordzapret): discordzapret
+- [YoutubeObhod](https://github.com/zombieofficer/YoutubeObhod): YoutubeObhod
+- [zapretdiscord](https://github.com/zombieofficer/zapretdiscord): zapretdiscord
