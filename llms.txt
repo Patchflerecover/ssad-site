@@ -538,6 +538,7 @@
 - [zapret-discord](https://github.com/magicglacall/zapret-discord): zapret-discord
 - [zaprettelegram](https://github.com/magicglacall/zaprettelegram): zaprettelegram
 - [discordzapret](https://github.com/magnificencedesigner/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/magnificencedesigner/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/mailboltgravity10/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/mailboltgravity10/discordzapret): discordzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/mailboltgravity10/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
