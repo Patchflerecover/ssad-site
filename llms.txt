@@ -223,8 +223,6 @@
 - [yoUTUbeoBhod](https://github.com/cpujoninpalace/yoUTUbeoBhod): yoUTUbeoBhod
 - [zapret-discord](https://github.com/cpujoninpalace/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/cpujoninpalace/zapRETDiscORd): zapRETDiscORd
-- [discordzapret](https://github.com/crestthunderwrinkle/discordzapret): discordzapret
-- [zapretdiscord](https://github.com/crestthunderwrinkle/zapretdiscord): zapretdiscord
 - [DiscordObhod](https://github.com/crimsonstreamfire/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/crimsonstreamfire/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/crimsonstreamfire/teleGram-OBHOd): teleGram-OBHOd
