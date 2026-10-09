@@ -981,6 +981,7 @@
 - [ObhodDiscord](https://github.com/tributarylojump/ObhodDiscord): ObhodDiscord
 - [TelegramObhodDPI](https://github.com/tributarylojump/TelegramObhodDPI): TelegramObhodDPI
 - [discordzapret](https://github.com/tropicalaopersonify/discordzapret): discordzapret
+- [youtubezapret](https://github.com/tropicalaopersonify/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/tropicalaopersonify/zapretdiscord): zapretdiscord
 - [discOrDZApreT](https://github.com/turquoiseshoshine/discOrDZApreT): discOrDZApreT
 - [yoUTUbeoBhod](https://github.com/turquoiseshoshine/yoUTUbeoBhod): yoUTUbeoBhod
