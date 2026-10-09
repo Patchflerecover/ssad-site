@@ -777,6 +777,7 @@
 - [zapretdiscord](https://github.com/retroservant34/zapretdiscord): zapretdiscord
 - [discord-zapret](https://github.com/retroundefend/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/retroundefend/zapret-discord): zapret-discord
+- [yOUTubeZaprET](https://github.com/ringconquerorheart/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/ringconquerorheart/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/ringconquerorheart/zapRETDiscORd): zapRETDiscORd
 - [discord-unban](https://github.com/ringdesignerlaud/discord-unban): discord-unban
