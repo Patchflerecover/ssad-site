@@ -1024,6 +1024,7 @@
 - [zaprET-DiSCOrd](https://github.com/veteranamend/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/viceroygorge/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/viceroygorge/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/viceroygorge/zapRET-YOutUBE): zapRET-YOutUBE
 - [yOUTubeZaprET](https://github.com/viceyatrimmer/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/viceyatrimmer/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/viceyatrimmer/zapRETDiscORd): zapRETDiscORd
