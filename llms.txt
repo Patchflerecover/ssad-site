@@ -1066,8 +1066,6 @@
 - [discordzapret](https://github.com/wisepebbleprosper/discordzapret): discordzapret
 - [youtubezapret](https://github.com/wisepebbleprosper/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/wisepebbleprosper/zapretdiscord): zapretdiscord
-- [discOrDZApreT](https://github.com/wishsupporter/discOrDZApreT): discOrDZApreT
-- [zapretdiscord](https://github.com/wishsupporter/zapretdiscord): zapretdiscord
 - [discordzapret](https://github.com/woodswimmerfurnish/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/woodswimmerfurnish/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapretdiscord](https://github.com/woodswimmerfurnish/zapretdiscord): zapretdiscord
