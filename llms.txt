@@ -41,6 +41,7 @@
 - [teLEGramoBHODdPI](https://github.com/attoaeromancerfix/teLEGramoBHODdPI): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [youtUbEObhodDPI](https://github.com/attoaeromancerfix/youtUbEObhodDPI): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/attoaeromancerfix/zaPRet-DIScORD-yOUTUbe): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/attobyremember/discord-zapret): discord-zapret
 - [Obhod-Discord](https://github.com/attofreighteramplify/Obhod-Discord): Obhod-Discord
 - [zaPRETtElegrAm](https://github.com/attofreighteramplify/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-youtube-zapret](https://github.com/attorneyoscillator88/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
@@ -137,6 +138,7 @@
 - [discOrDZApreT](https://github.com/bravestudentvent91/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/bravestudentvent91/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/bravestudentvent91/zapRETDiscORd): zapRETDiscORd
+- [zaprettelegram](https://github.com/breezefaneedle/zaprettelegram): Обновлённая версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
 - [Discord-Obhod](https://github.com/brickoubridge/Discord-Obhod): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Быстрее, надежнее, стабильнее
 - [Youtube-Obhod](https://github.com/brickoubridge/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
 - [youtube-unban](https://github.com/brickoubridge/youtube-unban): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
