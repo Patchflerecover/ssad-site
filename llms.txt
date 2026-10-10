@@ -1023,6 +1023,7 @@
 - [telegramzapret](https://github.com/veteranamend/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/veteranamend/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/viceroygorge/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/viceroygorge/discordzapret): discordzapret
 - [yOUTubeZaprET](https://github.com/viceyatrimmer/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/viceyatrimmer/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/viceyatrimmer/zapRETDiscORd): zapRETDiscORd
