@@ -546,8 +546,6 @@
 - [discOrDZApreT](https://github.com/mailrollerreflect/discOrDZApreT): discOrDZApreT
 - [zapret-telegram](https://github.com/mailrollerreflect/zapret-telegram): zapret-telegram
 - [zapretdiscord](https://github.com/mailrollerreflect/zapretdiscord): zapretdiscord
-- [discord-zapret](https://github.com/majorgiraffeunveil72/discord-zapret): discord-zapret
-- [zaprET-DiSCOrd](https://github.com/majorgiraffeunveil72/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/marblestyliststaple/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/marblestyliststaple/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/marblestyliststaple/zapRET-YOutUBE): zapRET-YOutUBE
