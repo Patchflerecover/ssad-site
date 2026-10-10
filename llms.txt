@@ -43,6 +43,7 @@
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/attoaeromancerfix/zaPRet-DIScORD-yOUTUbe): Обновлённая версия для Discord, YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [discord-zapret](https://github.com/attobyremember/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/attobyremember/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zaprettelegram](https://github.com/attobyremember/zaprettelegram): zaprettelegram
 - [Obhod-Discord](https://github.com/attofreighteramplify/Obhod-Discord): Obhod-Discord
 - [zaPRETtElegrAm](https://github.com/attofreighteramplify/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-youtube-zapret](https://github.com/attorneyoscillator88/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Быстрее, стабильнее, надежнее
