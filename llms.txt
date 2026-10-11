@@ -101,6 +101,7 @@
 - [zapret-telegram](https://github.com/baycabinslide/zapret-telegram): zapret-telegram
 - [zapretdiscord](https://github.com/baycabinslide/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/baychauffeurdynamo/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/baychauffeurdynamo/zapRETDiscORd): zapRETDiscORd
 - [zapret-discord](https://github.com/bayshahswell/zapret-discord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, быстрее, стабильнее
 - [tELegrAMZapReT](https://github.com/beamqueencoupling/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/beamqueencoupling/zapRETDiscORd): zapRETDiscORd
