@@ -599,6 +599,7 @@
 - [zapret-discord](https://github.com/moatoverchateau/zapret-discord): Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее
 - [zapret-telegram](https://github.com/moatoverchateau/zapret-telegram): Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapret-youtube](https://github.com/moatoverchateau/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [discord-zapret](https://github.com/moderngluwatt/discord-zapret): discord-zapret
 - [disCOrD-ZapREt](https://github.com/moduleprotector/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/moduleprotector/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-telegram](https://github.com/moduleprotector/zapret-telegram): zapret-telegram
