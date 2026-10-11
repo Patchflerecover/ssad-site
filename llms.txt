@@ -34,6 +34,7 @@
 - [zapret-telegram](https://github.com/armorerunderpass28/zapret-telegram): Актуальная версия с поддержкой работы Telegram. Стабильнее, надежнее, быстрее
 - [zapret-youtube](https://github.com/armorerunderpass28/zapret-youtube): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [discordzapret](https://github.com/assemblydefine/discordzapret): Актуальная версия с улучшенной поддержкой Discord. Стабильнее, быстрее, надежнее
+- [discord-zapret](https://github.com/astralmailmanpeace/discord-zapret): discord-zapret
 - [obhoDDiscOrd](https://github.com/atomlustrike35/obhoDDiscOrd): Актуальная версия с поддержкой голоса Discord в текущих условиях. Быстрее, стабильнее, надежнее
 - [zaprET-DiSCOrd](https://github.com/atomlustrike35/zaprET-DiSCOrd): Новая версия с поддержкой обхода Discord. Стабильнее, надежнее, быстрее
 - [diScoRD-yoUTUBe-fIX](https://github.com/attoaeromancerfix/diScoRD-yoUTUBe-fIX): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
