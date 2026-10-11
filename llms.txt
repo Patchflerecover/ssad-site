@@ -945,6 +945,7 @@
 - [DiscordObhodDPI](https://github.com/terminustyrant12/DiscordObhodDPI): DiscordObhodDPI
 - [obhOd-diSCOrd](https://github.com/terminustyrant12/obhOd-diSCOrd): obhOd-diSCOrd
 - [youtube-unban](https://github.com/terminustyrant12/youtube-unban): youtube-unban
+- [discOrDZApreT](https://github.com/terminuswizard/discOrDZApreT): discOrDZApreT
 - [disCORdobHOD](https://github.com/thornnewtstring/disCORdobHOD): disCORdobHOD
 - [TelegramObhod](https://github.com/thornnewtstring/TelegramObhod): TelegramObhod
 - [zapretdiscord](https://github.com/thornnewtstring/zapretdiscord): zapretdiscord
