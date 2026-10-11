@@ -206,6 +206,7 @@
 - [youtube-unban](https://github.com/companyairnurse/youtube-unban): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
 - [youtubezapret](https://github.com/companyairnurse/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
 - [disCOrD-ZapREt](https://github.com/comptrollermultiply/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/comptrollermultiply/discordzapret): discordzapret
 - [discordzapret](https://github.com/conesailorshroud/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/conesailorshroud/zapRET-YOutUBE): zapRET-YOutUBE
 - [zapretdiscord](https://github.com/conesailorshroud/zapretdiscord): zapretdiscord
