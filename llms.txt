@@ -601,6 +601,7 @@
 - [zapret-youtube](https://github.com/moatoverchateau/zapret-youtube): Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [discord-zapret](https://github.com/moderngluwatt/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/moderngluwatt/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [zapret-youtube](https://github.com/moderngluwatt/zapret-youtube): zapret-youtube
 - [disCOrD-ZapREt](https://github.com/moduleprotector/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/moduleprotector/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-telegram](https://github.com/moduleprotector/zapret-telegram): zapret-telegram
