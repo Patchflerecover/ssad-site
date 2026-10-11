@@ -587,6 +587,7 @@
 - [youtubezapret](https://github.com/mistpugiliststeeple/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/mistpugiliststeeple/zapretdiscord): zapretdiscord
 - [zapret-discord](https://github.com/mizukageatone/zapret-discord): zapret-discord
+- [zapRETDiscORd](https://github.com/mizukageatone/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/moatcoursecoil42/Discord-Obhod): Обновлённая версия с улучшенной поддержкой Discord. Быстрее, надежнее, стабильнее
 - [ObhodTelegram](https://github.com/moatcoursecoil42/ObhodTelegram): Новая версия с поддержкой Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [Youtube-Obhod](https://github.com/moatcoursecoil42/Youtube-Obhod): Обновлённая версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
