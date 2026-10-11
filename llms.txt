@@ -256,6 +256,7 @@
 - [disCOrD-ZapREt](https://github.com/daemonofmodify/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/daemonofmodify/discordzapret): discordzapret
 - [zaPRETtElegrAm](https://github.com/daemonofmodify/zaPRETtElegrAm): zaPRETtElegrAm
+- [disCOrD-ZapREt](https://github.com/degreebudgiesewer/disCOrD-ZapREt): disCOrD-ZapREt
 - [diSCord-OBhod](https://github.com/deltalieutenant/diSCord-OBhod): Новая версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
 - [obHODTelegRAM](https://github.com/deltalieutenant/obHODTelegRAM): Новая версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 - [youTubE-oBHOd](https://github.com/deltalieutenant/youTubE-oBHOd): Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
