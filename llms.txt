@@ -308,6 +308,7 @@
 - [disCOrD-ZapREt](https://github.com/drifttotell41/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/drifttotell41/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/drifttotell41/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discOrDZApreT](https://github.com/duckrecollect/discOrDZApreT): discOrDZApreT
 - [discordzapret](https://github.com/duskkishroud/discordzapret): discordzapret
 - [zapretdiscord](https://github.com/duskkishroud/zapretdiscord): zapretdiscord
 - [zaPRETtElegrAm](https://github.com/duskkishroud/zaPRETtElegrAm): zaPRETtElegrAm
