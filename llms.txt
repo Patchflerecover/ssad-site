@@ -586,6 +586,7 @@
 - [discordzapret](https://github.com/mistpugiliststeeple/discordzapret): discordzapret
 - [youtubezapret](https://github.com/mistpugiliststeeple/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/mistpugiliststeeple/zapretdiscord): zapretdiscord
+- [yOUTubeZaprET](https://github.com/mizukageatone/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/mizukageatone/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/mizukageatone/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/moatcoursecoil42/Discord-Obhod): Обновлённая версия с улучшенной поддержкой Discord. Быстрее, надежнее, стабильнее
